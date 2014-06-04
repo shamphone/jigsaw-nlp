@@ -1,0 +1,2005 @@
+
+		
+			序号例句出处
+		
+			
+                                        1
+                                     例/n ２/m 已知/v ∠/w １/m 、/w ∠/w ２/m 。/w 
+		
+			
+                                        2
+                                     用/v 量/v 角/n 器/k 画/v 一个/mq 角/n ，/w 使/v 它/r 等于/v ∠/w １/m ＋/w ∠/w ２/m 。/w 
+		
+			
+                                        3
+                                     画法/n ：/w １/m ．/w 用/v 量/v 角/n 器/k 画/v ∠/w ＡＢＣ/ws ＝/w ∠/w １/m （/w 图/n １/m －/w ３０/m ）/w 。/w 
+		
+			
+                                        4
+                                     ２/m ．/w 以/p 点/n Ｂ/ws 为/vl 顶点/n ，/w 射线/n ＢＣ/ws 为/vl 一/m 边/n ，/w 在/p ∠/w ＡＢＣ/ws 的/u 外部/nd 画/v ∠/w ＣＢＤ/ws ＝/w ∠/w ２/m 。/w 
+		
+			
+                                        5
+                                     ∠/w ＡＢＤ/ws 就是/vl 所/u 求/v 的/u 角/n 。/w 
+		
+			
+                                        6
+                                     例/n ３/m 已知/v ∠/w １/m 、/w ∠/w ２/m ，/w 且/c ∠/w １/m ＞/w ∠/w ２/m 。/w 
+		
+			
+                                        7
+                                     用/v 量/v 角/n 器/k 画/v 一个/mq 角/n ，/w 使/v 它/r 等于/v ∠/w １/m －/w ∠/w ２/m 。/w 
+		
+			
+                                        8
+                                     画法/n ：/w １/m ．/w 用/v 量/v 角/n 器/k 画/v ∠/w ＡＢＣ/ws ＝/w ∠/w １/m （/w 图/n １/m －/w ３１/m ）/w 。/w 
+		
+			
+                                        9
+                                     ２/m ．/w 以/p 点/n Ｂ/ws 为/vl 顶点/n ，/w 射线/n ＢＡ/ws 为/vl 一/m 边/n 画/v ∠/w ＡＢＤ/ws ＝/w ∠/w ２/m ，/w 并且/c 使/v 射线/n ＢＤ/ws 在/p ∠/w ＡＢＣ/ws 的/u 内部/nd 。/w 
+		
+			
+                                        10
+                                     ∠/w ＣＢＤ/ws 就是/vl 所/u 求/v 的/u 角/n 。/w 
+		
+			
+                                        11
+                                     画/n 两/m 角/n 的/u 和/n 或/c 差/n ，/w 也/d 可以/vu 先/d 计算/v 出/vd 两/m 角/n 的/u 度数/n 的/u 和/n 或/c 差/n 后/nd ，/w 再利用/v 量/v 角/n 器/k 画/v 这/r 个/q 角/n 。/w 
+		
+			
+                                        12
+                                     如果/c ∠/w #2#/w 是/vl ｎ/ws 个/q ∠/w #4#/w 的/u 和/n ，/w 那么/c 我们/r 就/d 说/v ∠/w #2#/w 是/vl ∠/w #4#/w 的/u ｎ/ws 倍/m 或/c ∠/w #4#/w 是/vl ∠/w #2#/w 的/u ｎ/ws 分之/u 一/m ，/w 记/v 作/v ∠/w #2#/w ＝/w ｎ/ws ∠/w #4#/w 或/c ∠/w #4#/w ＝/w ∠/w #2#/w ／/w ｎ/ws 。/w 
+		
+			
+                                        13
+                                     从/p 一个/mq 角/n 的/u 顶点/n 引出/v 的/u 一/m 条/q 射线/n ，/w 把/p 这个/r 角/n 分成/v 两/m 个/q 相等/v 的/u 角/n ，/w 这/r 条/q 射线/n 叫做/v 这个/r 角/n 的/u 平分/v 线/n 。/w 
+		
+			
+                                        14
+                                     ＧＯＨ/ws 的/u 平分/v 线/n 。/w 
+		
+			
+                                        15
+                                     记/v 作/v ∠/w ＧＯＫ/ws ＝/w ∠/w ＫＯＨ/ws 或/c ∠/w ＧＯＫ/ws ＝/w ∠/w ＧＯＨ/ws ／/w ２/m 或/c ∠/w ＧＯＨ/ws ＝/w ２/m ∠/w ＧＯＫ/ws （/w ＝/w ２/m ∠/w ＫＯＨ/ws ）/w 。/w 
+		
+			
+                                        16
+                                     例/n ４/m 已知/v ∠/w ＡＢＣ/ws 。/w 
+		
+			
+                                        17
+                                     画/v 它/r 的/u 角/n 平分/v 线/n 。/w 
+		
+			
+                                        18
+                                     画法/n ：/w １/m ．/w 量/v 得/v ∠/w ＡＢＣ/ws ＝/w ４２/m &#176;/w （/w 图/n １/m —/w ３３/m   ）/w ，/w 求得/v ∠/w ＡＢＣ/ws ／/w ２/m ＝/w ２/m １/m &#176;/w 。/w 
+		
+			
+                                        19
+                                     ２/m ．/w 以/p 点/n Ｂ/ws 为/vl 顶点/n ，/w ＢＡ/ws 为/vl 一/m 边/n /w 在/p ∠/w ＡＢＣ/ws 的/u 内部/nd 画/v ∠/w ＡＢＤ/ws ＝/w ２１/m &#176;/w 。/w 
+		
+			
+                                        20
+                                     射线/n ＢＤ/ws 就是/vl 所/u 求/v 的/u 角/n 平分/v 线/n 。/w 
+		
+			
+                                        21
+                                     １/m ．/w 已知/v ∠/w #2#/w ＜/w ９０/m &#176;/w ，/w 画/v 一个/mq 角/n ，/w 使/v 它/r 等于/v ２/m ∠/w #2#/w 。/w 
+		
+			
+                                        22
+                                     ２/m ．/w 用/v 一块/n 三角/n 板/n 画/v 一个/mq ９０/m &#176;/w 的/u 角/n ，/w 再/d 画/v 它/r 的/u 角/n 平分/v 线/n 。/w 
+		
+			
+                                        23
+                                     ３/m ．/w 用/v 量/v 角/n 器/k 和/c 直/a 尺/n 画/v 一个/mq 角/n 等于/v ８４/m &#176;/w ，/w 再/d 把/p 这个/r 角/n 三/m 等分/v 。/w 
+		
+			
+                                        24
+                                     ４/m ．/w 一/m 副/q 三角/n 板/n 中/nd ，/w 一块/n 三角/n 板/n 的/u 三/m 个/q 角/n 是/vl ３０/m &#176;/w 、/w ６０/m &#176;/w 、/w ９０/m &#176;/w ，/w 另/a 一块/n 三角/n 板/n 的/u 三/m 个/q 角/n 是/vl ４５/m &#176;/w 、/w ４５/m &#176;/w 、/w ９０/m &#176;/w 。/w 
+		
+			
+                                        25
+                                     利用/v 三角/n 板/n 画/v 等于/v 下列/nd 度数/n 的/u 角/n ：/w ３０/m &#176;/w 、/w ７５/m &#176;/w 、/w １０５/m &#176;/w 、/w １５/m &#176;/w 。/w 
+		
+			
+                                        26
+                                     根据/p 角/n 的/u 大小/a ，/w 我们/r 可以/vu 将/d 角/n 分成/v 不同/a 的/u 类/n 。/w 
+		
+			
+                                        27
+                                     如/v 图/n １/m －/w ３４/m ，/w 射线/n ＯＢ/ws 是/vl 平/a 角/n ∠/w ＡＯＣ/ws 的/u 平分/v 线/n 。/w 
+		
+			
+                                        28
+                                     当/p 一个/mq 角/n 等于/v 平/a 角/n 的/u 一半/m 时/nt ，/w 这个/r 角/n 叫做/v 直角/n 。/w 
+		
+			
+                                        29
+                                     图/n １/m －/w ３４/m 中/nd 的/u ∠/w ＡＯＢ/ws 、/w ∠/w ＢＯＣ/ws 都/d 是/vl 直角/n 。/w 
+		
+			
+                                        30
+                                     直角/n 可以/vu 用/v Ｒｔ/ws ∠/w 表示/v 。/w 
+		
+			
+                                        31
+                                     记/v 作/v ∠/w ＡＯＢ/ws ＝/w Ｒｔ/ws ∠/w 或/c Ｒｔ/ws ∠/w ＡＯＢ/ws 。/w 
+		
+			
+                                        32
+                                     图中/nl 角/n 顶/n 处/n 的/u 符号/n “/w ┐/w ”/w 表示/v 这个/r 角/n 是/vl 直角/n 。/w 
+		
+			
+                                        33
+                                     因为/c 每个/r 直角/n 都/d 是/vl ９０/m &#176;/w ，/w 所以/c 所有/a 的/u 直角/n 都/d 相等/v 。/w 
+		
+			
+                                        34
+                                     小于/v 直角/n 的/u 角/n 叫做/v 锐角/n ，/w 大于/v 直角/n 而/c 小于/v 平/a 角/n 的/u 角/n 叫做/v 钝/a 角/n 。/w 
+		
+			
+                                        35
+                                     ＱＤ/ws ＞/w Ｒｔ/ws ∠/w ，/w 所以/c ∠/w ＣＱＤ/ws 是/vl 钝/a 角/n 。/w 
+		
+			
+                                        36
+                                     两/m 个/q 角/n 的/u 和/n 等于/v 直角/n 时/nt ，/w 说/v 这/r 两/m 个/q 角/n 互为/v 余/n 角/n ，/w 简称/n 互余/v 。/w 
+		
+			
+                                        37
+                                     也可以说/v 其中/nd 一个/mq 角/n 是/vl 另/a 一个/mq 角/n 的/u 余/n 角/n 。/w 
+		
+			
+                                        38
+                                     两/m 个/q 角/n 的/u 和/n 等于/v 平/a 角/n 时/nt ，/w 说/v 这/r 两/m 个/q 角/n 互为/v 补/v 角/n ，/w 简称/n 互补/v ，/w 也可以说/v 其中/nd 一个/mq 角/n 是/vl 另/a 一个/mq 角/n 的/u 补/v 角/n 。/w 
+		
+			
+                                        39
+                                     将/d 一个/mq 角/n 的/u 一/m 边/n 反向/a 延长/v ，/w 这/r 条/q 反向/a 延长/v 线/n 与/c 这个/r 角/n 的/u 另/a 一/m 边/n 构成/v 一个/mq 角/n ，/w 这时/nt 说/v ，/w 它/r 和/c 原来/d 的/u 角/n 互为/v 邻/v 补/v 角/n 。/w 
+		
+			
+                                        40
+                                     上面/nd 的/u 推理/v 过程/n 中/nd ，/w 由/p （/w １/m ）/w 式/k 变到/v （/w ３/m ）/w 式/k 是/vl 将/d （/w １/m ）/w 式/k 中/nd 的/u ∠/w #4#/w 用/v 与/c 它/r 相等/v 的/u 量/n ∠/w #2#/w 来/vd 代替/v ，/w 这/r 种/q 等式/n 变形/v 叫做/v 等量/n 代/v 换/v 。/w 
+		
+			
+                                        41
+                                     图/n １/m －/w ３７/m 中/nd ，/w ∠/w ２/m 与/c ∠/w ３/m 都/d 是/vl ∠/w １/m 的/u 余/n 角/n ，/w 下面/nd 我们/r 来/vd 比较/v 这/r 两/m 个/q 角/n 的/u 大小/a 。/w 
+		
+			
+                                        42
+                                     同/a 角/n （/w 或/c 等角/n ）/w 的/u 余/n 角/n 相等/v 。/w 
+		
+			
+                                        43
+                                     同样/d 可以/vu 得到/v  同/a 角/n （/w 或/c 等角/n ）/w 的/u 补/v 角/n 相等/v 。/w 
+		
+			
+                                        44
+                                     １/m ．/w （/w １/m ）/w 把/p 两/m 块/q 三角/n 板/n 像/v 图/n 甲/m 那样/r 拼在/v 一起/n ，/w 那么/c 三/m 点/n Ａ/ws 、/w Ｏ/ws 、/w Ｂ/ws 在/p 一/m 条/q 直线/n 上/nd 。/w 
+		
+			
+                                        45
+                                     ２/m ．/w 已知/v ∠/w #2#/w ＝/w ６２/m &#176;/w １７/m ′/w １５/m ″/w ，/w 求/v ∠/w #2#/w 的/u 余/n 角/n 和/c 补/v 角/n 的/u 度数/n ，/w 并/c 指出/v 它们/r 是/vl 锐角/n 还是/v 钝/a 角/n 。/w 
+		
+			
+                                        46
+                                     ３/m ．/w 知/v 图/n ，/w ∠/w ＥＯＣ/ws ＝/w ∠/w ＡＯＣ/ws ＝/w ∠/w ＢＯＤ/ws ＝/w Ｒｔ/ws ∠/w 。/w 
+		
+			
+                                        47
+                                     在/p 图中/nl 找出/v 分别/d 与/c ∠/w ＡＯＢ/ws 、/w ∠/w ＢＯＣ/ws 互/d 余/n 的/u 角/n 。/w 
+		
+			
+                                        48
+                                     ５/m ．/w 如/v 图/n ，/w ＯＡ/ws 是/vl 表示/v 北/nd 偏/v 东/nd ３０/m &#176;/w 方向/n 的/u 一/m 条/q 射线/n 。/w 
+		
+			
+                                        49
+                                     １３/m ．/w 用/v 直/a 尺/n 和/c 量/v 角/n 器/k 画/v ∠/w ＡＯＢ/ws ＝/w １００/m &#176;/w ，/w 再/d 把/p ∠/w ＡＯＢ/ws 分成/v ５/m 等分/v 。/w 
+		
+			
+                                        50
+                                     １４/m ．/w 用/v 直/a 尺/n 和/c 量/v 角/n 器/k 把/p 一个/mq 周角/n 分成/v ９/m 等分/v 。/w 
+		
+			
+                                        51
+                                     １６/m ．/w 用/v 直/a 尺/n 和/c 量/v 角/n 器/k 画/v ∠/w ＡＯＢ/ws ＝/w ７０/m &#176;/w ，/w 再/d 画/v 它/r 的/u 角/n 平分/v 线/n 。/w 
+		
+			
+                                        52
+                                     １８/m ．/w 一个/mq 角/n 等于/v 它/r 的/u 余/n 角/n 的/u ３倍/m ，/w 求/v 这个/r 角/n 。/w 
+		
+			
+                                        53
+                                     １９/m ．/w 已知/v 一个/mq 锐角/n ，/w 画/v 它/r 的/u 余/n 角/n 与/c 补/v 角/n 。/w 
+		
+			
+                                        54
+                                     角/n 的/u 比较/v 、/w 度量/v 、/w 和/n 与/c 差/v 。/w 
+		
+			
+                                        55
+                                     ２/m ．/w 几何图形/n 的/u 概念/n ，/w 是/vl 从/p 实际/a 物体/n 中/nd 抽象/a 出来/vd 的/u ，/w 它们/r 反映/v 了/u 物体/n 在/p 形状/n 、/w 大小/a 和/c 位置/n 关系/n 方面/n 的/u 一些/m 本质/n 属性/n 。/w 
+		
+			
+                                        56
+                                     ３/m ．/w 线段/n 和/c 射线/n 都/d 是/vl 直线/n 的/u 一部分/n ，/w 线段/n 有/v 两/m 个/q 端点/n ，/w 射线/n 有/v 一个/mq 端点/n ，/w 直线/n 没有/v 端点/n 。/w 
+		
+			
+                                        57
+                                     两/m 点/n 决定/v 一/m 条/q 直线/n 。/w 
+		
+			
+                                        58
+                                     两/m 点/n 之间/nd 线段/n 最/d 短/a 。/w 
+		
+			
+                                        59
+                                     点/n 、/w 直线/n 、/w 射线/n 、/w 线段/n 是/vl 组成/v 各种/r 图形/n 的/u 基本/n 图形/n 。/w 
+		
+			
+                                        60
+                                     这些/r 图形/n 以及/c 它们/r 的/u 性质/n ，/w 是/vl 平面/n 几何/n 的/u 基础/n 。/w 
+		
+			
+                                        61
+                                     ４/m ．/w 角/n 是/vl 由/p 具有/v 公共/a 端点/n 的/u 两/m 条/q 射线/n 组成/v 的/u ，/w 两/m 条/q 边/n 成/v 一/m 直线/n 的/u 角/n 是/vl 平/a 角/n ，/w 平/a 角/n 的/u ２倍/n 是/vl 周角/n ，/w 平/a 角/n 的/u 一半/m 是/vl 直角/n 。/w 
+		
+			
+                                        62
+                                     小于/v 直角/n 的/u 角/n 是/vl 锐角/n ，/w 大于/v 直角/n 而/c 小于/v 平/a 角/n 的/u 角/n 是/vl 钝/a 角/n 。/w 
+		
+			
+                                        63
+                                     两/m 个/q 角/n 的/u 和/c 等于/v １/m 直角/n 时/nt ，/w 这/r 两/m 个/q 角/n 互为/v 余/n 角/n ；/w 两/m 个/q 角/n 的/u 和/n 等于/v １/m 平/a 角/n 时/nt ，/w 这/r 两/m 个/q 角/n 互为/v 补/v 角/n 。/w 
+		
+			
+                                        64
+                                     同/c 角/n 或/c 等角/n 的/u 余/n 角/n 相等/v ；/w 同/a 角/n 或/c 等角/n 的/u 补/v 角/n 相等/v 。/w 
+		
+			
+                                        65
+                                     ５/m ．/w 定义/n 是/vl 说明/v 名词/n 含义/n 的/u 语句/n ，/w 使/v 各/r 名词/n 互不/d 相/d 混/a 。/w 
+		
+			
+                                        66
+                                     图形/n 的/u 某些/r 性质/n 是/vl 人们/n 经过/v 长期/nt 实践/v 证实/v 是/vl 正确/a 的/u ，/w 我们/r 把/p 它/r 当作/v 公理/n ，/w 作为/v 推出/v 其他/r 图形/n 性质/n 的/u 根据/n 。/w 
+		
+			
+                                        67
+                                     在/p 所有/a 连结/v 两/m 点/n 的/u 线/n 中/nd ，/w 线段/n 最/d 短/a 。/w 
+		
+			
+                                        68
+                                     ２/m ．/w 测量/v 员/k 沿着/p 一块/n 地/n 的/u 周围/nd 测绘/v 这/r 块/q 地/n 时/nt ，/w 先/d 从/p 点/n Ａ/ws 向/p 北/nd 偏/v 东/nd ７５/m &#176;/w 走/v ２４０/m 米/q 到/v 点/n Ｂ/ws ，/w 再/d 从/p Ｂ/ws 向/p 北/nd 偏/v 西/nd ２０/m &#176;/w 走/v ３６０/m 米/q 到/v 点/n Ｃ/ws ，/w 再/d 从/p Ｃ/ws 向/p 南/nd 偏/v 西/nd ６５/m &#176;/w 走/v ４５/m ０/m 米/q 到/v 点/n Ｄ/ws ，/w 最后/n 从/p Ｄ/ws 回到/v Ａ/ws 。/w 
+		
+			
+                                        69
+                                     用/v １/m 厘米/q 表示/v １００/m 米/q ，/w 画出/v 图/n 来/vd ，/w 并/c 量/v 出/vd 点/n Ａ/ws 和/c Ｄ/ws 的/u 距离/n （/w 精确/v 到/v １０/m 米/q ）/w ，/w 以及/c 从/p Ｄ/ws 到/v Ａ/ws 的/u 方向/n （/w 精确/v 到/v １/m &#176;/w ）/w 。/w 
+		
+			
+                                        70
+                                     （/w １/m ）/w 延长/v 直线/n ＡＢ/ws ；/w （/w ２/m ）/w 延长/v 射线/n ＯＡ/ws ；/w （/w ３/m ）/w 延长/v 线段/n ＡＢ/ws 。/w 
+		
+			
+                                        71
+                                     ４/m ．/w 先/d 画/v 线段/n ＡＢ/ws ＝/w ２０/m ｍｍ/ws ，/w 延长/v ＡＢ/ws 至/v Ｃ/ws ，/w 使/v ＡＣ/ws ＝/w ２/m ＡＢ/ws ，/w 在/p 射线/n ＡＢ/ws 的/u 反向/a 延长线/n 上/nd 取/v 一/m 点/n Ｅ/ws ，/w 使/v ＡＥ/ws ＝/w ＣＥ/ws ／/w ３/m 。/w 
+		
+			
+                                        72
+                                     （/w ２/m ）/w 已知/v 线段/n ＡＣ/ws 的/u 长/n 为/vl １０/m ｃｍ/ws ，/w 在/p 线段/n ＡＣ/ws 上/nd 画/v 一/m 点/n Ｂ/ws ，/w 使/v ＡＢ/ws ＝/w ７/m ｃ/ws ｍ/ws ，/w ＢＣ/ws ＝/w ４/m ｃｍ/ws 。/w 
+		
+			
+                                        73
+                                     １０/m ．/w 已知/v 直线/d ＡＢ/ws 、/w ＣＤ/ws 相交/v 于/p 点/n Ｏ/ws ，/w 用/v 量/v 角/n 器/k 画/v 各/r 角/n 的/u 平分/v 线/n ＯＥ/ws 、/w ＯＨ/ws 、/w Ｏ/ws Ｇ/ws 、/w ＯＦ/ws ，/w 并/c 计算/v ∠/w ＥＯＨ/ws ，/w ∠/w ＨＯＧ/ws 。/w 
+		
+			
+                                        74
+                                     １２/m ．/w 把/p 一个/mq 平/a 角/n 三/m 等分/v ，/w 求/v 两旁/nd 两/m 角/n 的/u 平分/v 线/n 所/u 成/v 的/u 角/n 的/u 度数/n 。/w 
+		
+			
+                                        75
+                                     １３/m ．/w 一个/mq 角/n 的/u 补/v 角/n 等于/v 这个/r 角/n 的/u 余/n 角/n 的/u ４倍/m ，/w 画/v 这个/r 角/n 。/w 
+		
+			
+                                        76
+                                     １４/m ．/w 已知/v ∠/w #2#/w 和/c ∠/w #4#/w 互为/v 补/v 角/n ，/w 并且/c ∠/w #2#/w 比/p ∠/w #4#/w 大/a ３０/m &#176;/w ，/w 求/v ∠/w #2#/w 和/c ∠/w #4#/w 的/u 大小/a 。/w 
+		
+			
+                                        77
+                                     ∠/w ＢＯＣ/ws 的/u 平分/v 线/n 。/w 
+		
+			
+                                        78
+                                     （/w ４/m ）/w 指出/v ∠/w ＥＯＣ/ws 的/u 余/n 角/n 、/w 补/v 角/n 、/w 邻/n 补/v 角/n 。/w 
+		
+			
+                                        79
+                                     交叉/v 的/u 道路/n 、/w 管道/n （/w 图/n ２/m －/w １/m ）/w 等/u 都/d 给/v 我们/r 以/p 相交/v 直线/n 的/u 形象/n 。/w 
+		
+			
+                                        80
+                                     如/v 图/n ２/m －/w ２/m ，/w 直线/n ＡＢ/ws 、/w ＣＤ/ws 相交/v 于/p 点/n Ｏ/ws ，/w 点/n Ｏ/ws 把/p 直线/n ＡＢ/ws 、/w ＣＤ/ws 分成/v 四/m 条/q 射/v 线/n ，/w 构成/v 以/p 点/n Ｏ/ws 为/vl 顶点/n 的/u 四/m 个/q 角/n ；/w ∠/w １/m 、/w ∠/w ２/m 、/w ∠/w ３/m 、/w ∠/w ４/m 。/w 
+		
+			
+                                        81
+                                     其中/nd ∠/w １/m 的/u 两边/n ＯＢ/ws 、/w ＯＤ/ws 分别/d 是/vl ∠/w ３/m 的/u 两边/n ＯＡ/ws 、/w ＯＣ/ws 的/u 反向/a 延长线/n 。/w 
+		
+			
+                                        82
+                                     一个/mq 角/n 的/u 两边/n 分别/d 是/vl 另/a 一个/mq 角/n 的/u 两边/n 的/u 反向/a 延长线/n ，/w 这/r 两/m 个/q 角/n 叫做/v 对/p 顶/n 角/n 。/w 
+		
+			
+                                        83
+                                     例如/v ，/w ∠/w １/m 和/c ∠/w ３/m 是/vl 对/p 顶/n 角/n ；/w 同样/a ，/w ∠/w ２/m 和/c ∠/w ４/m 也是/v 对/p 顶/n 角/n 。/w 
+		
+			
+                                        84
+                                     我们/r 来看/v ∠/w １/m 和/c ∠/w ３/m 。/w 
+		
+			
+                                        85
+                                     因为/c ＡＯＢ/ws 是/vl 直线/n ，/w 所以/c ∠/w １/m 和/c ∠/w ２/m 是/vl 邻/n 补/v 角/n 。/w 
+		
+			
+                                        86
+                                     同理/v ∠/w ３/m 和/c ∠/w ２/m 也是/vl 邻/n 补/v 角/n 。/w 
+		
+			
+                                        87
+                                     根据/p 同/v 角/n 的/u 补/v 角/n 相等/v ，/w 所以/c ∠/w １/m ＝/w ∠/w ３/m 。/w 
+		
+			
+                                        88
+                                     对/p 顶/n 角/n 相等/v 。/w 
+		
+			
+                                        89
+                                     根据/p 对/p 顶/n 角/n 相等/v 这个/r 性质/n ，/w 已知/v ∠/w ２/m 和/c ∠/w ４/m 是/vl 对/p 顶/n 角/n （/w 图/n ２/m －/w ２/m ）/w ，/w 我们/r 就/d 可以/vu 得到/v ∠/w ２/m ＝/w ∠/w ４/m 。/w 
+		
+			
+                                        90
+                                     （/w ３/m ）/w 怎么样/r 的/u 两/m 个/q 角/n 才是/vl 对/p 顶/n 角/n 。/w 
+		
+			
+                                        91
+                                     ２/m ．/w 如/v 图/n ＡＢ/ws 、/w ＣＤ/ws 、/w ＥＦ/ws 是/vl 经过/v 点/n Ｏ/ws 的/u 三/m 条/q 直线/n ，/w 说出/v ∠/w ＡＯＣ/ws 、/w ∠/w ＦＯＢ/ws 的/u 对/p 顶/n 角/n 。/w 
+		
+			
+                                        92
+                                     ３/m ．/w 如/v 图/n ，/w 直线/n ｌ/ws １/m 截/v 直线/n ｌ/ws ２/m 和/c ｌ/ws ３/m ，/w 构成/v 八/m 个/q 角/n 。/w 
+		
+			
+                                        93
+                                     已知/v ∠/w １/m ＝/w ∠/w ５/m ＝/w ６０/m &#176;/w 。/w 
+		
+			
+                                        94
+                                     我们/r 研究/v 两/m 条/q 相交/v 直线/n 的/u 特殊/a 情形/n 。/w 
+		
+			
+                                        95
+                                     如/v 图/n ２/m －/w ３/m ，/w 直线/n ＡＢ/ws 、/w ＣＤ/ws 相交/v 于/p 点/n Ｏ/ws ，/w ∠/w ＢＯＣ/ws 为/vl 直角/n 。/w 
+		
+			
+                                        96
+                                     根据/p 邻/n 补/v 角/n 的/u 性质/n 与/c 对/p 顶/n 角/n 的/u 性质/n ，/w 可以/vu 知道/v ，/w 其他/r 三/m 个/q 角/n ∠/w ＡＯＣ/ws 、/w ∠/w ＢＯＤ/ws 、/w ∠/w ＡＯＤ/ws 都/d 是/vl 直角/n 。/w 
+		
+			
+                                        97
+                                     当/p 两/m 条/q 直线/n 相交/v 所/u 构成/v 的/u 四/m 个/q 角/n 中/nd 有/v 一个/mq 是/vl 直角/n 时/nt ，/w 我们/r 说/v 这/r 两/m 条/q 直线/n 互相/d 垂直/a ，/w 其中/nd 的/u 一/m 条/q 直线/n 叫做/v 另/r 一/m 条/q 直线/n 的/u 垂/v 线/n 。/w 
+		
+			
+                                        98
+                                     它们/r 的/u 交点/n 叫做/v 垂足/n 。/w 
+		
+			
+                                        99
+                                     垂直/a 用/v 符号/n “/w ⊥/w ”/w 表示/v ，/w 两/m 条/q 直线/n ＡＢ/ws 与/c ＣＤ/ws 垂直/a ，/w 记/v 作/v ＡＢ/ws ⊥/w ＣＤ/ws （/w 或/c ＣＤ/ws ⊥/w ＡＢ/ws ）/w ，/w 读/v 作/v “/w ＡＢ/ws 垂直/a 于/p ＣＤ/ws ”/w 。/w 
+		
+			
+                                        100
+                                     如果/c 垂足/n 为/vl Ｏ/ws ，/w 写作/v “/w ＡＢ/ws ⊥/w ＣＤ/ws ，/w 垂足/n 为/vl Ｏ/ws ”/w （/w 图/n ２/m －/w ３/m ）/w 。/w 
+		
+			
+                                        101
+                                     如/v 图/n ２/m －/w ３/m ，/w 已知/v ∠/w ＢＯＣ/ws ＝/w ９０/m &#176;/w ，/w 根据/p 垂直/a 的/u 定义/n ，/w 可以/vu 得出/v ＡＢ/ws ⊥/w ＣＤ/ws ；/w 反过来/d ，/w 已知/v ＡＢ/ws ⊥/w ＣＤ/ws ，/w 那么/r 根据/p 垂直/a 的/u 定义/n 可/vu 得出/v ∠/w ＢＯＣ/ws ＝/w ∠/w ＡＯＣ/ws ＝/w ∠/w Ａ/ws ＯＤ/ws ＝/w ∠/w ＢＯＤ/ws ＝/w ９０/m &#176;/w 。/w 
+		
+			
+                                        102
+                                     两/m 条/q 直线/n 相交/v 不/d 成/v 直角/n 时/nt ，/w 其中/nd 的/u 一/m 条/q 叫做/v 另/r 一/m 条/q 的/u 斜线/n ，/w 它们/r 的/u 交点/n 叫做/v 斜足/n 。/w 
+		
+			
+                                        103
+                                     如/v 图/n ２/m －/w ４/m ，/w 直线/n ＣＤ/ws 是/vl ＡＢ/ws 的/u 斜线/n ，/w ＡＢ/ws 也是/vl ＣＤ/ws 的/u 斜线/n ，/w 点/n Ｏ/ws 是/vl 斜足/n 。/w 
+		
+			
+                                        104
+                                     在/p 生产/v 和/c 生活/n 中/nd ，/w 常常/d 遇到/v 两/m 条/q 直线/n 互相/d 垂直/a 的/u 情形/n 。/w 
+		
+			
+                                        105
+                                     例如/v ，/w 水平线/n 和/c 铅/n 垂/v 线/n 是/vl 互相/d 垂直/a 的/u （/w 图/n ２/m －/w ５/m ）/w ，/w 黑板/n 的/u 相邻/v 的/u 两/m 条/q 边/n 、/w 篮球场/n 地/n 的/u 相邻/v 两/m 条/q 边线/n 也/d 都/d 是/vl 互相/d 垂直/a 的/u 。/w 
+		
+			
+                                        106
+                                     经过/v 已知/v 直线/n ｌ/ws 上/nd 的/u 一/m 点/n Ａ/ws 或/c 直线/n ｌ/ws 外/nd 一/m 点/n Ｂ/ws 画/v 直线/n ｌ/ws 的/u 垂/v 线/n ，/w 可以/vu 用/v 三角/n 板/n 或/c 量/v 角/n 器/k 。/w 
+		
+			
+                                        107
+                                     用/v 三角/n 板/n 画/v 垂/v 线/n 的/u 方法/n 如/v 图/n ２/m －/w ６/m 所/u 示/v 。/w 
+		
+			
+                                        108
+                                     工人/n 师傅/n 在/p 画/v 工/n 件/n 边缘/n 的/u 垂/v 线/n 时/nt ，/w 常用/v 角/n 尺/n （/w 图/n ２/m －/w ７/m ）/w 。/w 
+		
+			
+                                        109
+                                     如/v 图/n ２/m －/w ８/m ，/w 已知/v 一/m 条/q 直线/n ｌ/ws 和/c 一/m 点/n Ｐ/ws ，/w 无论/c 是/vl 点/n Ｐ/ws 在/p 直线/n ｌ/ws 上/nd （/w 图/n ２/m －/w ８/m 甲/m ）/w ，/w 还是/c 在/p 直线/n ｌ/ws 外/nd （/w 图/n ２/m －/w ８/m 乙/m ）/w ，/w 经过/v 点/n Ｐ/ws 都/d 能/vu 画/v 一/m 条/q 直线/n 与/c 直线/n ｌ/ws 垂直/a ，/w 而且/c 也/d 只能/vu 画/v 一/m 条/q 与/c 直线/n ｌ/ws 垂直/a 。/w 
+		
+			
+                                        110
+                                     经过/v 一/m 点/n 有/v 一/m 条/q 而且/c 只有/d 一/m 条/q 直线/n 垂直/a 于/p 已知/v 直线/n 。/w 
+		
+			
+                                        111
+                                     下面/nd ，/w 我们/r 来看/v 图/n ２/m －/w ９/m 。/w 
+		
+			
+                                        112
+                                     点/n Ｐ/ws 是/vl 直线/n ｌ/ws 外/nd 的/u 一/m 点/n ，/w ＰＯ/ws ⊥/w ｌ/ws ，/w 垂足/n 为/vl Ｏ/ws ；/w 直/a 线/n ＰＡ/ws 、/w ＰＢ/ws 、/w ＰＣ/ws 、/w …/w 与/c 直线/n ｌ/ws 交于/v 点/n Ａ/ws 、/w Ｂ/ws 、/w Ｃ/ws 、/w …/w 。/w 
+		
+			
+                                        113
+                                     因为/c 过/v 点/n Ｐ/ws 与/c 直线/n ｌ/ws 垂直/a 的/u 直线/n 只有/d 一/m 条/q ，/w 所以/c ，/w 直线/n ＰＡ/ws 、/w ＰＢ/ws 、/w ＰＣ/ws 、/w …/w 都/d 是/vl 直线/n ｌ/ws 的/u 斜线/n ，/w 点/n Ａ/ws 、/w Ｂ/ws 、/w Ｃ/ws 、/w …/w 都/d 是/vl 斜足/n 。/w 
+		
+			
+                                        114
+                                     线段/n ＰＯ/ws 是/vl 点/n Ｐ/ws 到/v 直线/n ｌ/ws 的/u 垂/v 线段/n ；/w 线段/n ＰＡ/ws 、/w ＰＢ/ws 、/w ＰＣ/ws 、/w …/w 都/d 是/vl 点/n Ｐ/ws 到/v 直线/n ｌ/ws 的/u 斜线/n 段/n 。/w 
+		
+			
+                                        115
+                                     我们/r 用/v 两脚/n 规/n 比较/v 垂/v 线段/n ＰＯ/ws 和/c 斜线/n 段/n ＰＡ/ws 、/w ＰＢ/ws 、/w ＰＣ/ws 、/w …/w 的/u 大小/n ，/w 可以/vu 知道/v ，/w 垂/v 线段/n ＰＯ/ws 比/p 任何/r 一/m 条/q 斜线/n 段/n 都/d 短/a 。/w 
+		
+			
+                                        116
+                                     直线/n 外/nd —/m 点/n 与/c 直线/n 上/nd 各/r 点/n 连结/v 的/u 所有/a 线段/n 中/nd ，/w 垂/v 线段/n 最/d 短/a 。/w 
+		
+			
+                                        117
+                                     这/r 句/q 话/n 可以/vu 简单/a 说成/v ：/w 垂/v 线段/n 最/d 短/a 。/w 
+		
+			
+                                        118
+                                     从/p 直线/n 外/nd 一/m 点/n 到/v 这/r 条/q 直线/n 的/u 垂/v 线段/n 的/u 长度/n ，/w 叫做/v 点/n 到/v 直线/n 的/u 距离/n 。/w 
+		
+			
+                                        119
+                                     例如/v ，/w 图/n ２/m －/w ９/m 中/nd ，/w 垂/v 线段/n ＰＯ/ws 的/u 长度/n ，/w 就是/vl 点/n Ｐ/ws 到/v 直线/n ｌ/ws 的/u 距离/n 。/w 
+		
+			
+                                        120
+                                     在/p 图/n ２/m －/w １０/m 中/nd ，/w 过/vd 线段/n ＡＢ/ws 的/u 中点/n Ｍ/ws 画/v ＡＢ/ws 的/u 垂/v 线/n ＣＤ/ws ，/w 那么/r 直线/n ＣＤ/ws 垂直/a 于/p 线段/n ＡＢ/ws ，/w 并且/c 平分/v 线段/n ＡＢ/ws 。/w 
+		
+			
+                                        121
+                                     垂直/a 于/p 一/m 条/q 线段/n 并且/c 平分/v 这/r 条/q 线段/n 的/u 直线/n ，/w 叫做/v 这/r 条/q 线段/n 的/u 垂直/n 平分/v 线/n ，/w 或/c 中/nd 垂/v 线/n 。/w 
+		
+			
+                                        122
+                                     １/m ．/w 任意/d 画/v 一个/mq 锐角/n ＡＯＢ/ws ，/w 在/p 边/n ＯＡ/ws 上/nd 任意/d 取/v 一个/mq 点/n Ｃ/ws ，/w 过/v 点/n Ｃ/ws 用/v 三角/n 板/n 画/v ＣＤ/ws ⊥/ws ＯＡ/ws ，/w ＣＥ/ws ⊥/w ＯＢ/ws 。/w 
+		
+			
+                                        123
+                                     ２/m ．/w 从/p 直线/n ＡＢ/ws 外/nd 一/m 点/n Ｃ/ws 到/v 直线/n ＡＢ/ws ，/w 画/v 一/m 条/q 垂/v 线段/n 和/c 任意/a 的/u 三/m 条/q 斜线/n 段/n 。/w 
+		
+			
+                                        124
+                                     分别/d 量/v 出/vd 这些/r 垂/v 线段/n 和/c 斜线/n 段/n 的/u 长度/n （/w 精确/a 到/v １/m ｍｍ/ws ）/w ，/w 看/v 哪/r 一/m 条/q 最/d 短/a 。/w 
+		
+			
+                                        125
+                                     （/w ２/m ）/w 点/n Ｃ/ws 到/v 直线/n ＡＢ/ws 的/u 距离/n 。/w 
+		
+			
+                                        126
+                                     ４/m ．/w 用/v 三角/n 板/n 和/c 刻度/n 尺/n 画/v 线段/n ＡＢ/ws 、/w ＢＣ/ws 、/w ＣＡ/ws 的/u 中/nd 垂/v 线/n 。/w 
+		
+			
+                                        127
+                                     我们/r 来看/v 图/n ２/m －/w １１/m ，/w 直线/n ＡＢ/ws 、/w ＣＤ/ws 分别/d 与/c 直线/n ＥＦ/ws 相交/v （/w 或者说/c ，/w 两/m 条/q 直/a 线/n ＡＢ/ws 、/w ＣＤ/ws 被/p 第三/m 条/q 直线/n ＥＦ/ws 所/u 截/v ）/w ，/w 构成/v 了/u 八/m 个/q 角/n 。/w 
+		
+			
+                                        128
+                                     我们/r 知道/v ，/w 其中/nd 有/v 公共/a 顶/n 点/n 的/u 两/m 个/q 角/n 或者是/v 邻/n 补/v 角/n ，/w 或者是/v 对/p 顶/n 角/n 。/w 
+		
+			
+                                        129
+                                     下面/nd 来看/v 图中/nl 没有/v 公共/a 顶点/n 的/u 两/m 个/q 角/n 。/w 
+		
+			
+                                        130
+                                     如/v ∠/w １/m 与/c ∠/w ５/m ，/w 它们/r 的/u 位置/n 相同/a （/w 分别/d 在/p 两/m 条/q 直线/n 的/u 相同/a 的/u 一侧/nd ，/w 并且/c 都/d 在/p 第三/m 条/q 直线/nd 的/u 同/v 旁/nd ）/w ，/w 这样/r 的/u 一/m 对/q 角/n 叫做/v 同/v 位/n 角/n 。/w 
+		
+			
+                                        131
+                                     ∠/w ２/m 和/c ∠/w ６/m ，/w ∠/w ３/m 和/c ∠/w ７/m ，/w ∠/w ４/m 和/c ∠/w ８/m 也/d 都/d 是/vl 同/v 位/n 角/n 。/w 
+		
+			
+                                        132
+                                     图/n ２/m －/w １１/m 中/nd ，/w ∠/w ３/m 和/c ∠/w ６/m 都/d 在/p 两/m 条/q 直线/n 之间/nd ，/w 并且/c 在/p 第三/m 条/q 直线/n 的/u 同/v 旁/nd ，/w 这样/r 的/u 一/m 对/q 角/n 叫做/v 同/v 旁/nd 内角/n 。/w 
+		
+			
+                                        133
+                                     ∠/w ４/m 与/c ∠/w ５/m 也是/v 同/v 旁/nd 内角/n 。/w 
+		
+			
+                                        134
+                                     例/n 如/v 图/n ２/m －/w １２/m 。/w 
+		
+			
+                                        135
+                                     直线/n ＤＥ/ws 、/w ＢＣ/ws 被/p 直线/n ＡＢ/ws 所/u 截/v 。/w 
+		
+			
+                                        136
+                                     量/v 出/vd ＡＣ/ws 、/w ＢＣ/ws 、/w ＡＤ/ws 、/w ＢＤ/ws 的/u 长度/n （/w 精确/v 到/v １/m ｍｍ/ws ）/w ，/w 并/c 比较/v 它们/r 的/u 大小/n 。/w 
+		
+			
+                                        137
+                                     １０/m ．/w 用/v 三角/n 板/n ，/w 过/v 点/n Ｂ/ws 、/w Ｃ/ws 分别/d 画/v ＡＤ/ws 的/u 垂/v 线/n ；/w 过/v 点/n Ｂ/ws 分别/d 画/v ＡＣ/ws 、/w ＡＢ/ws 的/u 垂/v 线/n 。/w 
+		
+			
+                                        138
+                                     （/w ２/m ）/w ＡＢ/ws 和/c ＡＣ/ws 被/p ＢＣ/ws 所/u 截/v 而/c 得/v 的/u ∠/w Ｂ/ws 和/c ∠/w Ｃ/ws ，/w 被/p ＤＥ/ws 所/u 截/v 而/c 得/v 的/u ∠/w ＡＤＥ/ws 和/c ∠/w ＤＥＣ/ws 。/w 
+		
+			
+                                        139
+                                     笔直/a 的/u 两/m 条/q 铁轨/n （/w 图/n ２/m －/w １３/m ）/w 、/w 黑板/n 相对/v 的/u 两边/n ，/w 都/d 给/v 我们/r 以/p 平行线/n 的/u 形象/n 。/w 
+		
+			
+                                        140
+                                     如果/c 画出/v 它们/r 的/u 图形/n ，/w 都/d 是/vl 在/p 同一/a 平面/n 内/nd 的/u 两/m 条/q 线段/n （/w 图/n ２/m －/w １４/m ）/w 。/w 
+		
+			
+                                        141
+                                     我们/r 把/p 这样/r 的/u 两/m 条/q 线段/n 都/d 向/p 两/m 方/n 延长/v ，/w 它们/r 总/d 不会/vu 相交/v 。/w 
+		
+			
+                                        142
+                                     这就是说/i ，/w 在/p 同/v 一个/mq 平面/n 内/nd ，/w 两/m 条/q 直/a 线/n 除/p 相交/v 的/u 情形/n 外/nd ，/w 还有/v 不/d 相交/v 的/u 情形/n 。/w 
+		
+			
+                                        143
+                                     在/p 同/v 一个/mq 平面/n 内/nd 不/d 相交/v 的/u 两/m 条/q 直线/n 叫做/v 平行线/n 。/w 
+		
+			
+                                        144
+                                     平行/a 用/v 符号/n “/w ∥/w ”/w 表示/v 。/w 
+		
+			
+                                        145
+                                     Ｂ/ws ∥/w ＣＤ/ws ”/w ，/w 读/v 作/v “/w ＡＢ/ws 平行/a 于/p ＣＤ/ws ”/w 。/w 
+		
+			
+                                        146
+                                     在/p 同/v 一个/mq 平面/n 内/nd ，/w 两/m 条/q 直线/n 的/u 位置/n 关系/n 只有/d 两/m 种/q ：/w 平行/a 或/c 相交/v 。/w 
+		
+			
+                                        147
+                                     直线/n ＡＢ/ws 和/c ＣＤ/ws 相交/v ，/w 就是/d 这/r 两/m 个/q 集合/n 有/v 一个/mq 并且/c 只有/d 一个/mq 公共/a 元素/n （/w 它们/r 的/u 交点/n ）/w 。/w 
+		
+			
+                                        148
+                                     直线/n ＡＢ/ws 和/c ＣＤ/ws 平行/a ，/w 就是/d 这/r 两/m 个/q 集合/n 没有/v 公共/a 元素/n 。/w 
+		
+			
+                                        149
+                                     我们/r 先/d 学习/v 平行线/n 的/u 画法/n 。/w 
+		
+			
+                                        150
+                                     已知/v 直线/n ＡＢ/ws 和/c ＡＢ/ws 外/nd 的/u 一点/mq Ｐ/ws ，/w 经过/v 点/n Ｐ/ws 画/v 平行/a 于/p 直线/n ＡＢ/ws 的/u 直线/n （/w 图/n ２/m －/w １５/m ）/w 。/w 
+		
+			
+                                        151
+                                     画法/n ：/w １/m ．/w 把/p 三角/n 板/n 的/u 一边/nd 靠紧/v ＡＢ/ws ，/w 再/d 用/v 直/a 尺/n （/w 或/c 另/a 一块/n 三角/n 板/n ）/w 靠紧/v 三角/n 板/n 的/u 另/a 一边/nd 。/w 
+		
+			
+                                        152
+                                     ２/m ．/w 沿/p 直/a 尺/n 推动/v 三角/n 板/n ，/w 使/v 原来/d 和/c ＡＢ/ws 重合/v 的/u 一边/nd 经过/v 点/n Ｐ/ws 。/w 
+		
+			
+                                        153
+                                     ３/m ．/w 沿/p 三角/n 板/n 的/u 这/r 条/q 边/n 画/v 直线/n ＣＤ/ws 。/w 
+		
+			
+                                        154
+                                     ＣＤ/ws 就是/vl 所/u 求/v 的/u 直线/v 。/w 
+		
+			
+                                        155
+                                     这样/r 的/u 直线/n 可以/vu 画出/v 一/m 条/q ，/w 而且/c 只能/vu 画出/v 一/m 条/q 。/w 
+		
+			
+                                        156
+                                     如果/c 两/m 条/q 直线/n 都/d 和/p 第三/m 条/q 直线/n 平行/a ，/w 那么/r 这/r 两/m 条/q 直线/n 也/d 互相/d 平行/a 。/w 
+		
+			
+                                        157
+                                     例如/v ，/w 如果/c 直线/n ＡＢ/ws 与/c ＣＤ/ws 都/d 和/p 直线/n ＥＦ/ws 平行/a （/w 图/n ２/m －/w １６/m ）/w ，/w 那么/r ＡＢ/ws 与/c Ｃ/ws Ｄ/ws 必定/d 平行/a 。/w 
+		
+			
+                                        158
+                                     这/r 是/vl 因为/p ，/w 假如/c ＡＢ/ws 与/c ＣＤ/ws 不/d 平行/a ，/w 相交/v 于/p 点/n Ｐ/ws ，/w 那么/r 过/vd 点/n Ｐ/ws 就/d 会/vu 有/v 两/m 条/q 直线/n ＡＢ/ws 与/c ＣＤ/ws 都/d 和/p ＥＦ/ws 平行/a 。/w 
+		
+			
+                                        159
+                                     这/r 是/vl 不/d 符合/v 平行/a 公理/n 的/u 。/w 
+		
+			
+                                        160
+                                     １/m ．/w 照/p 图/n 的/u 样子/n ，/w 先/d 作/v 线段/n ＯＸ/ws ＝/w ５０/m ｍｍ/ws ，/w ＯＹ/ws ＝/w ５０/m ｍｍ/ws ，/w 并且/c 使/v ＯＸ/ws ⊥/w ＯＹ/ws 。/w 
+		
+			
+                                        161
+                                     再/d 过/vd Ｘ/ws 、/w Ｙ/ws 分别/d 作/v ＯＹ/ws 、/w ＯＸ/ws 的/u 平行线/n ，/w 两/m 线/n 相交/v 于/p Ａ/ws 。/w 
+		
+			
+                                        162
+                                     然后/c 用/v 刻度/n 尺/n 把/p ＯＸ/ws 、/w Ｏ/ws Ｙ/ws 各/r 分成/v １０/m 等分/v ，/w 从/p ＯＹ/ws 上/nd 每个/r 分/q 点/n 作/v 平行/a 于/p ＯＸ/ws 的/u 线段/n ，/w 从/p ＯＸ/ws 上/nd 每个/r 分/q 点/n 作/v 平行/a 于/p ＯＹ/ws 的/u 线段/n 。/w 
+		
+			
+                                        163
+                                     （/w ２/m ）/w 直线/n ＡＢ/ws 、/w ＣＤ/ws 是/vl 相交/v 直线/n ，/w 点/n Ｐ/ws 是/vl 直线/n ＡＢ/ws 、/w ＣＤ/ws 外/nd 的/u 一点/mq ，/w 直线/n Ｅ/ws Ｆ/ws 经过/v 点/n Ｐ/ws 与/c 直线/n ＡＢ/ws 平行/a ，/w 与/c 直线/n ＣＤ/ws 相交/v 于/p Ｅ/ws 。/w 
+		
+			
+                                        164
+                                     现在/nt ，/w 我们/r 来/vd 研究/v 怎样/r 才能/vu 判断/v 两/m 条/q 直线/n 是/vl 平行线/n 。/w 
+		
+			
+                                        165
+                                     公理/n 两/m 条/q 直线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 如果/c 同/v 位/n 角/n 相等/v ，/w 那么/r 这/r 两/m 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        166
+                                     这个/r 公理/n 可以/vu 简单/a 说成/v ：/w 同位角/n 相等/v ，/w 两/m 直线/n 平行/a 。/w 
+		
+			
+                                        167
+                                     例如/v ，/w 两/m 条/q 直线/n ＡＢ/ws 、/w ＣＤ/ws 被/p 直线/n ＥＦ/ws 所/u 截/v （/w 图/n ２/m －/w １７/m ）/w ，/w 如果/c 已知/v 同/v 位/n 角/n ∠/w １/m 与/c ∠/w ２/m 都/d 是/vl ８５/m &#176;/w ，/w 那么/r ∠/w １/m ＝/w ∠/w ２/m ，/w 就/d 可以/vu 判定/v ＡＢ/ws ∥/w ＣＤ/ws 。/w 
+		
+			
+                                        168
+                                     根据/p 的/u 就是/vl “/w 同/v 位/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ”/w 。/w 
+		
+			
+                                        169
+                                     根据/p 公理/n ，/w 由/p 同/v 位/n 角/n 相等/v 可以/vu 判定/v 两/m 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        170
+                                     我们/r 来看/v 图/n ２/m －/w １８/m 。/w 
+		
+			
+                                        171
+                                     因为/c 由/p 同/v 位/n 角/n ∠/w １/m ＝/w ∠/w ２/m ，/w 就/d 可以/vu 推出/v ＡＢ/ws ∥/w ＣＤ/ws 。/w 
+		
+			
+                                        172
+                                     所以/c 只要/c 找出/v 在/p 什么/r 情形/n 下/nd ，/w ∠/w １/m ＝/w ∠/w ２/m 就/d 可以/vu 了/u 。/w 
+		
+			
+                                        173
+                                     在/p 图中/nl 我们/r 发现/v ∠/w １/m ＝/w ∠/w ３/m ，/w ∠/w １/m 与/c ∠/w ４/m 互补/v 。/w 
+		
+			
+                                        174
+                                     如果/c 内/nd 错/n 角/n ∠/w ３/m ＝/w ∠/w ２/m ，/w 或/c 同/v 旁/nd 内/nd 角/n ∠/w ４/m 与/c ∠/w ２/m 互补/v ，/w 就/d 可以/vu 推出/v ∠/w １/m ＝/w ∠/w ２/m ，/w 于是/c ＡＢ/ws ∥/w ＣＤ/ws 。/w 
+		
+			
+                                        175
+                                     两/m 条/q 直线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 如果/c 内/nd 错/n 角/n 相等/v ，/w 那么/r 这/r 两/m 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        176
+                                     这/r 句/q 话/n 可以/vu 简单/a 说成/v ：/w 内/nd 错/n 角/n 相等/v ，/w 两/m 直线/n 平行/a 。/w 
+		
+			
+                                        177
+                                     两/m 条/q 直线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 如果/c 同/v 旁/nd 内角/n 互补/v ，/w 那么/r 这/r 两/m 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        178
+                                     这/r 句/q 话/n 可以/vu 简单/a 说成/v 同/v 旁/nd 内角/n 互补/v ，/w 两/m 直线/n 平行/a 。/w 
+		
+			
+                                        179
+                                     能否/d 用/v 几何/n 语言/n 说出/v 这个/r 事实/n 。/w 
+		
+			
+                                        180
+                                     上/nd 一/m 节/n 我们/r 学习/v 了/u 平行线/n 的/u 判定/v ，/w 它/r 是/vl 由/p 同/v 位/n 角/n 相等/v ，/w 或/c 内/nd 错/n 角/n 相等/v ，/w 或/c 同/v 旁/nd 内角/n 互补/v 来/vd 判定/v 两/m 条/q 直线/n 是/vl 平行线/n 。/w 
+		
+			
+                                        181
+                                     这/r 一/m 节/n 要/vu 学习/v 的/u 平行线/n 的/u 性质/n 和/c 平行线/n 的/u 判定/v 正好/d 相反/v ，/w 它/r 是/vl 已知/v 两/m 条/q 直线/n 平行/a ，/w 再/d 以/p 此/r 为/v 基础/n ，/w 推出/v 图形/n 具有/v 某种/n 性质/n 。/w 
+		
+			
+                                        182
+                                     两/m 条/q 平行线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 同/v 位/n 角/n 相等/v 。/w 
+		
+			
+                                        183
+                                     这/r 句/q 话/n 简单/a 说成/v 两/m 直线/n 平行/a ，/w 同/v 位/n 角/n 相等/v 。/w 
+		
+			
+                                        184
+                                     如/v 图/n ２/m －/w １９/m ，/w 如果/c ＡＢ/ws ∥/w ＣＤ/ws ，/w 那么/r ，/w ∠/w １/m ＝/w ∠/w ２/m 。/w 
+		
+			
+                                        185
+                                     这/r 是/vl 因为/c ，/w 假如/v ∠/w １/m ≠/w ∠/w ２/m ，/w 我们/r 就/d 可以/vu 经过/v 点/n Ｏ/ws 画/v 一/m 条/q 直线/n Ａ/ws ′/w Ｂ/ws ′/w ，/w 使/v ∠/w ＥＯＢ/ws ′/w ＝/w ∠/w ２/m 。/w 
+		
+			
+                                        186
+                                     根据/p 同/v 位/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ，/w 可得/v Ａ/ws ′/w Ｂ/ws ′/w ∥/w ＣＤ/ws 。/w 
+		
+			
+                                        187
+                                     这样/r ，/w 经过/v 点/n Ｏ/ws 就/d 有/v 两/m 条/q 直线/n ＡＢ/ws 、/w Ａ/ws ′/w Ｂ/ws ′/w 都/d 与/c ＣＤ/ws 平行/a 。/w 
+		
+			
+                                        188
+                                     这/r 与/c 平行/a 公理/n 不/d 相/d 符合/v 。/w 
+		
+			
+                                        189
+                                     根据/p 平行线/n 的/u 这个/r 性质/n ，/w 从/p 两/m 直线/n 平行/a 可以/vu 推出/v 同/v 位/n 角/n 相等/v ，/w 在/p ２/m ．/w ３/m 节/n 的/u 例/n 题/n 里/nd ，/w 我们/r 曾/d 由/p 同/v 位/n 角/n 相等/v 推出/v 了/u 内/nd 错/n 角/n 相等/v 。/w 
+		
+			
+                                        190
+                                     两/m 条/q 平行线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 内/nd 错/n 角/n 相等/v 。/w 
+		
+			
+                                        191
+                                     这/r 句/q 话/n 可以/vu 简单/a 说成/v ：/w 两/m 直线/n 平行/a ，/w 内/nd 错/n 角/n 相等/v 。/w 
+		
+			
+                                        192
+                                     两/m 条/q 平行线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 同/v 旁/nd 内角/n 互补/v 。/w 
+		
+			
+                                        193
+                                     这/r 句/q 话/n 可以/vu 简单/a 说成/v ：/w 两/m 直线/n 平行/a ，/w 同/v 旁/d 内角/n 互补/v 。/w 
+		
+			
+                                        194
+                                     下面/nd ，/w 我们/r 来看/v 图/n ２/m －/w ２１/m ，/w 其中/nd ＣＤ/ws ∥/w ＯＢ/ws 、/w ＥＦ/ws ∥/w ＯＡ/ws 。/w 
+		
+			
+                                        195
+                                     我们/r 利用/v 平行线/n 的/u 性质/n 来/vd 研究/v ∠/w １/m 与/c ∠/w Ｏ/ws 有/v 什么/r 关系/n 。/w 
+		
+			
+                                        196
+                                     由此/d ，/w 我们/r 得到/v 了/u 两边/n 分别/d 平行/a 的/u 两/m 个/q 角/n ∠/w １/m ＝/w ∠/w Ｏ/ws 。/w 
+		
+			
+                                        197
+                                     在/p 图/n ２/m －/w ２１/m 中/nd ，/w 除了/d ∠/w １/m 与/c ∠/w Ｏ/ws 的/u 两边/n 分别/d 平行/a 以外/nd ，/w ∠/w ３/m 、/w ∠/w ４/m 、/w ∠/w ５/m 的/u 两边/n 也是/vl 与/c ∠/w Ｏ/ws 的/u 两边/n 分别/d 平行/a 的/u 。/w 
+		
+			
+                                        198
+                                     我们/r 再/d 来/vd 研究/v 它们/r 与/c ∠/w Ｏ/ws 有/v 什么/r 关系/n 。/w 
+		
+			
+                                        199
+                                     如果/c 一个/mq 角/n 的/u 两边/n 分别/d 平行/a 于/p 另/r 一个/mq 角/n 的/u 两边/n ，/w 那么/r 这/r 两/m 个/q 角/n 相等/v 或/c 互补/v 。/w 
+		
+			
+                                        200
+                                     １/m ．/w 如/v 图/n ，/w 一/m 条/q 公路/n ，/w 两/m 次/q 拐弯/v 后/nd ，/w 和/p 原来/d 的/u 方向/n 平行/a 。/w 
+		
+			
+                                        201
+                                     ２/m ．/w 如/v 图/n ，/w 已知/v 平行线/n ＡＢ/ws 、/w ＣＤ/ws 被/p 直线/n ＡＥ/ws 所/u 截/v 。/w 
+		
+			
+                                        202
+                                     ３/m ．/w 已知/v Ｄ/ws 是/vl ＡＢ/ws 上/nd 一/m 点/n ，/w Ｅ/ws 是/vl ＡＣ/ws 上/nd 一/m 点/n ，/w ∠/w ＡＤＥ/ws ＝/w ６０/m &#176;/w ，/w ∠/w Ｂ/ws /w ６０/m &#176;/w ，/w ∠/w ＡＥＤ/ws ＝/w ４０/m &#176;/w 。/w 
+		
+			
+                                        203
+                                     ２/m ．/w 画/v 线段/n ＡＢ/ws ＝/w ４５/m ｍｍ/ws 。/w 
+		
+			
+                                        204
+                                     画/v 任意/a 射线/n ＡＸ/ws 。/w 
+		
+			
+                                        205
+                                     在/p ＡＸ/ws 上/nd 取/v Ｃ/ws ′/w 、/w Ｄ/ws ′/w 、/w Ｂ/ws ′/w 三/m 点/n ，/w 使/v ＡＣ/ws ′/w ＝/w Ｃ/ws ′/w Ｄ/ws ′/w ＝/w Ｄ/ws ′/w Ｂ/ws ′/w ，/w 连结/v ＢＢ/ws ′/w 。/w 
+		
+			
+                                        206
+                                     用/v 三角/n 板/n 画/v Ｃ/ws ′/w Ｃ/ws ∥/w Ｂ/ws ′/w Ｂ/ws 、/w Ｄ/ws ′/w Ｄ/ws ∥/w Ｂ/ws ′/w Ｂ/ws ，/w 分别/d 交/v ＡＢ/ws 于/p Ｃ/ws 、/w Ｄ/ws 。/w 
+		
+			
+                                        207
+                                     量/v ＡＣ/ws 、/w ＣＤ/ws 、/w ＤＢ/ws 的/u 长/n （/w 精确/a 到/v １/m ｍｍ/ws ）/w 。/w 
+		
+			
+                                        208
+                                     （/w ３/m ）/w 过/v 点/n Ｃ/ws 画/v ＣＥ/ws ∥/w ＤＡ/ws ，/w 和/c ＡＢ/ws 交于/v 点/n Ｅ/ws ；/w 过/v 点/n Ｃ/ws 画/v ＣＦ/ws ∥/w ＤＢ/ws ，/w 和/c ＡＢ/ws 的/u 延长线/n 交于/v 点/n Ｆ/ws （/w 图/n 丙/m ）/w 。/w 
+		
+			
+                                        209
+                                     ４/m ．/w 已知/v 直线/n ＡＢ/ws 和/c ＡＢ/ws 外/nd 一/m 点/n Ｐ/ws ，/w 经过/v 点/n Ｐ/ws 画/v 直线/n ＣＤ/ws 平行/a 于/p ＡＢ/ws 。/w 
+		
+			
+                                        210
+                                     （/w ２/m ）/w 根据/p “/w 内/nd 错/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ”/w 来/vd 画/v 。/w 
+		
+			
+                                        211
+                                     ∠/w ３/m ＝/w ７８/m &#176;/w 。/w 
+		
+			
+                                        212
+                                     （/w １/m ）/w 已知/v ∠/w １/m 和/c ∠/w ２/m 相等/a ，/w 根据/p 内/nd 错/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ，/w 所以/c ＡＢ/ws 和/c ＥＦ/ws 平行/a 。/w 
+		
+			
+                                        213
+                                     （/w ２/m ）/w 已知/v ＤＥ/ws 和/c ＢＣ/ws 平行/a ，/w 根据/p 两/m 直线/n 平行/a ，/w 同/v 位/n 角/n 相等/v ，/w 所以/c ∠/w １/m 等于/v ∠/w Ｂ/ws ，/w ∠/w ３/m 等于/v ∠/w Ｃ/ws 。/w 
+		
+			
+                                        214
+                                     前面/nd ，/w 我们/r 学/v 过/u 一些/m 图形/n 的/u 性质/n ，/w 例如/v ，/w “/w 对/p 顶/n 角/n 相等/v ”/w ，/w “/w 如果/c 两/m 条/q 直线/n 都/d 和/p 第三/m 条/q 直线/n 平行/a ，/w 那么/r 这/r 两/m 条/q 直线/n 也/d 互相/d 平行/a ”/w ，/w “/w 两/m 条/q 直线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 如果/c 内/nd 错/n 角/n 相等/v ，/w 那么/r 这/r 两/m 条/q 直线/n 平行/a ”/w ，/w “/w 两/m 条/q 平行线/n 被/p 第三/m 条/q 直线/n 所/u 截/v ，/w 同/v 旁/nd 内角/n 互补/v ”/w ，/w 等等/u ，/w 都/d 是/vl 判断/v 某/r 一/m 件/q 事情/n 的/u 语句/n 。/w 
+		
+			
+                                        215
+                                     像/v 这样/r ，/w 判断/v 一/m 件/q 事情/n 的/u 语句/n ，/w 叫做/v 命题/n 。/w 
+		
+			
+                                        216
+                                     每/r 一个/mq 命题/n 都/d 是/vl 由/p 题设/n 、/w 结论/n 两/m 部分/n 组成/v 的/u 。/w 
+		
+			
+                                        217
+                                     题设/n 是/vl 已知/v 事项/n ；/w 结论/n 是/vl 由/p 已知/v 事项/n 推出/v 的/u 事项/n 。/w 
+		
+			
+                                        218
+                                     的/u 形式/n ，/w 用/v “/w 如果/c ”/w 开始/v 的/u 部分/n 就是/vl 题设/n ，/w 用/v “/w 那么/r ”/w 开始/v 的/u 部分/n 就是/vl 结论/n 。/w 
+		
+			
+                                        219
+                                     例如/v ：/w 命题/n “/w 如果/c 两/m 条/q 直线/n 都/d 和/p 第三/m 条/q 直线/n 平行/a ，/w 那么/r 这/r 两/m 条/q 直线/n 也/d 互相/d 平行/a ”/w 。/w 
+		
+			
+                                        220
+                                     其中/nd “/w 两/m 条/q 直线/n 都/d 和/p 第三/m 条/q 直线/n 平行/a ”/w 是/vl 题设/n ；/w “/w 这/r 两/m 条/q 直线/n 也/d 互相/d 平行/a ”/w 是/vl 结论/n 。/w 
+		
+			
+                                        221
+                                     但/c 有的/r 命题/n ：/w 如/v “/w 对/p 顶/n 角/n 相等/v ”/w ，/w 它/r 的/u 题设/n 与/c 结论/n 不/d 十分/d 明显/a ，/w 对于/p 这样/r 的/u 命题/n ，/w 应/vu 分清/v 它/r 的/u 题设/n 和/c 结论/n 。/w 
+		
+			
+                                        222
+                                     也/d 可以/vu 将/d 它/r 写成/v “/w 如果/c …/w ，/w 那么/r …/w 。/w ”/w 
+		
+			
+                                        223
+                                     例如/v ，/w 写成/v “/w 如果/c 两/m 个/q 角/n 是/vl 对/p 顶/n 角/n （/w 题设/n ）/w ，/w 那么/r 这/r 两/m 个/q 角/n 相等/v （/w 结论/n ）/w ”/w 。/w 
+		
+			
+                                        224
+                                     上面/nd 列举/v 的/u 一些/m 命题/n 都/d 是/vl 正确/a 的/u 命题/n ，/w 叫做/v 真/a 命题/n 。/w 
+		
+			
+                                        225
+                                     还有/v 一/m 类/n 命题/n 是/vl 错误/n 的/u 命题/n ，/w 叫做/v 假/a 命题/n 。/w 
+		
+			
+                                        226
+                                     例如/v ，/w “/w 相等/v 的/u 两/m 个/q 角/n 是/vl 对/p 顶/n 角/n ”/w 、/w “/w 内/nd 错/n 角/n 互补/v ，/w 两/m 直线/n 平行/a ”/w 都/d 是/vl 假/a 命题/n 。/w 
+		
+			
+                                        227
+                                     “/w 平行/a 公理/n ”/w ；/w “/w 同/v 位/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ”/w 也是/vl 命题/n ，/w 它们/r 都/d 是/vl 人们/n 从/p 长期/nt 的/u 实践/n 中/nd 总结/v 出来/vd 的/u 真/a 命题/n ，/w 并/c 把/p 它们/r 作为/v 判断/v 其他/r 命题/n 的/u 正确性/n 的/u 根据/n 。/w 
+		
+			
+                                        228
+                                     本/r 节/n 开头/n 所/u 列举/v 的/u 一些/m 命题/n ，/w 都/d 是/vl 用/v 推理/v 的/u 方法/n 判断/v 为/vl 正确/a 的/u 命题/n 。/w 
+		
+			
+                                        229
+                                     用/v 推理/v 的/u 方法/n 判断/v 为/vl 正确/a 的/u 命题/n 叫做/v 定理/n 。/w 
+		
+			
+                                        230
+                                     １/m ．/w 判断/v 下列/v 语句/n 中/nd ，/w 哪些/r 是/vl 命题/n ，/w 哪些/r 不是/vl 命题/n 。/w 
+		
+			
+                                        231
+                                     如果/c 是/vl 命题/n ，/w 指出/v 它/r 的/u 题设/n 和/c 结论/n 。/w 
+		
+			
+                                        232
+                                     （/w ３/m ）/w 同/v 角/n 的/u 余角/n 相等/v 。/w 
+		
+			
+                                        233
+                                     前面/nd ，/w 我们/r 学/v 过/u 一些/m 定理/n ，/w 如/v “/w 对/p 顶/n 角/n 相等/v ”/w ；/w “/w 内/nd 错/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ”/w 等/u 。/w 
+		
+			
+                                        234
+                                     它们/r 的/u 正确性/n 是/vl 经过/v 推理/v 证实/v 的/u ，/w 推理/v 的/u 过程/n 就是/vl 证明/n 。/w 
+		
+			
+                                        235
+                                     一个/mq 命题/n ，/w 除了/d 公理/n 之外/nd ，/w 它/r 是/vl 真/a 命题/n 还是/vl 假/a 命题/n ，/w 需要/v 经过/v 证明/v 才能/vu 知道/v 。/w 
+		
+			
+                                        236
+                                     证明/n 要/vu 从/p 命题/n 的/u 题设/n 出发/v ，/w 通过/p 推理/v 来/vd 判断/v 命题/n 的/u 结论/n 是否/d 成立/v 。/w 
+		
+			
+                                        237
+                                     结论/n 成立/v ，/w 就是/vl 真/a 命题/n ，/w 结论/n 不/d 成立/v ，/w 就是/vl 假/a 命题/n 。/w 
+		
+			
+                                        238
+                                     学习/v 几何/n 就要/vu 学会/v 证明/n 。/w 
+		
+			
+                                        239
+                                     下面/nd 我们/r 来看/v 一个/mq 证明/n 的/u 例子/n 。/w 
+		
+			
+                                        240
+                                     定理/n 如果/c 两/m 条/q 直线/n 都/d 和/p 第三/m 条/q 直线/n 垂直/a ，/w 那么/r 这/r 两/m 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        241
+                                     组成/v 的/u 推理/v ，/w 直/d 到/v 得出/v 结论/n 。/w 
+		
+			
+                                        242
+                                     推理/v 的/u 每/r 一/m 步/n 都/d 必须/d 有/v 根据/n ，/w 根据/n 是/vl 题/n 设/v 和/c 已/d 证/v 事项/n 、/w 定义/n 、/w 公理/n 和/c 定理/n 。/w 
+		
+			
+                                        243
+                                     ３/m ．/w 在/p 证明/n 一/m 项/q 中/nd ，/w 写出/v 证明/n 过程/n 。/w 
+		
+			
+                                        244
+                                     定理/n 如果/c 一/m 条/q 直线/n 和/c 两/m 条/q 平行线/n 中/nd 的/u 一/m 条/q 垂直/a ，/w 那么/c ，/w 这/r 条/q 直线/n 也/d 和/c 另/a 一/m 条/q 垂直/a 。/w 
+		
+			
+                                        245
+                                     我们/r 先/d 来/vd 画出/v 符合/v 题意/n 的/u 图形/n 。/w 
+		
+			
+                                        246
+                                     先/d 画出/v 两/m 条/q 平行线/n ＡＢ/ws ∥/w ＣＤ/ws 。/w 
+		
+			
+                                        247
+                                     ＥＦ/ws ⊥/w ＡＢ/ws 。/w 
+		
+			
+                                        248
+                                     这样/r 我们/r 就/d 画出/v 了/u 符合/v 题意/n 的/u 图形/n （/w 图/n ２/m －/w ２３/m ）/w 。/w 
+		
+			
+                                        249
+                                     下面/nd ，/w 我们/r 再/d 来/vd 写/v 已知/v 求证/v 。/w 
+		
+			
+                                        250
+                                     命题/n 的/u 题/n 设/v 是/vl “/w 一/m 条/q 直线/n 和/c 两/m 条/q 平行线/n 中/nd 的/u 一/m 条/q 垂直/a ”/w 。/w 
+		
+			
+                                        251
+                                     体现/v 在/p 图上/nl 是/vl ＡＢ/ws ∥/w ＣＤ/ws ，/w ＥＦ/ws ⊥/w ＡＢ/ws 。/w 
+		
+			
+                                        252
+                                     命题/n 的/u 结论/n 是/vl “/w 这/r 条/q 直线/n 也/d 和/c 另/a 一/m 条/q 垂直/a ”/w 。/w 
+		
+			
+                                        253
+                                     体现/v 在/p 图上/nl 是/vl ＥＦ/ws ⊥/w ＣＤ/ws 。/w 
+		
+			
+                                        254
+                                     有些/r 命题/v 是/vl 假/a 命题/n 。/w 
+		
+			
+                                        255
+                                     要/vu 证明/v 一个/mq 命题/n 是/vl 假/a 命题/n ，/w 只要/c 能/vu 举出/v 一个/mq 例子/n 说明/v 这个/r 命题/n 不/d 成立/v 就/d 可以/vu 。/w 
+		
+			
+                                        256
+                                     例如/v ，/w 证明/v “/w 相等/a 的/u 角/n 是/vl 对/p 顶/n 角/n ”/w 是/vl 假/a 命题/n 时/nt ，/w 可/vu 画/v 一个/mq 角/n 的/u 平分/v 线/n ，/w 得到/v 两/m 个/q 相等/v 的/u 角/n ，/w 但/c 它们/r 不是/v 对/p 顶/n 角/n ，/w 就/d 可以/vu 肯定/d 要/vu 证/v 的/u 命题/n 是/vl 假/a 命题/n 了/u 。/w 
+		
+			
+                                        257
+                                     （/w ２/m ）/w 正数/n 与/c 负数/n 的/u 和/n 是/vl 负数/n 。/w 
+		
+			
+                                        258
+                                     （/w ２/m ）/w 直角/n 都/d 相等/v 。/w 
+		
+			
+                                        259
+                                     （/w ３/m ）/w 一个/mq 锐角/n 与/c 一个/mq 钝/a 角/n 的/u 和/n 等于/v 一个/mq 平/a 角/n 。/w 
+		
+			
+                                        260
+                                     （/w ３/m ）/w 对/p 顶/n 角/n 的/u 平分/v 线/n 成/v 一/m 条/q 直线/d 。/w 
+		
+			
+                                        261
+                                     １/m ．/w 本章/n 的/u 主要/a 内容/n 是/vl 相交/v 线/n 和/c 平行线/n ，/w 重点/d 是/vl 垂/v 线/n 和/c 平行线/n 的/u 概念/n 、/w 判定/v 和/c 性质/n ，/w 以及/c 命题/n 、/w 定理/n 和/c 证明/n 。/w 
+		
+			
+                                        262
+                                     ２/m ．/w 在/p 同/v 一个/mq 平面/n 内/nd ，/w 两/m 条/q 直线/n 的/u 位置/n 关系/n 只有/d 两/m 种/q ：/w 相交/v 、/w 平行/a 。/w 
+		
+			
+                                        263
+                                     两/m 条/q 直线/n 相交/v ，/w 对/p 顶/n 角/n 相等/v 。/w 
+		
+			
+                                        264
+                                     所/u 构成/v 的/u 四/m 个/q 角/n 有/v 一个/mq 是/vl 直角/n 时/nt ，/w 两/m 条/q 直线/n 互相/d 垂直/a 。/w 
+		
+			
+                                        265
+                                     经过/v 一/m 点/n 有/v 一/m 条/q 而且/c 只有/d 一/m 条/q 直线/n 垂直/a 于/p 已知/v 直线/n 。/w 
+		
+			
+                                        266
+                                     垂/v 线段/n 最/d 短/a 。/w 
+		
+			
+                                        267
+                                     经过/v 直线/n 外/nd 一/m 点/n ，/w 有/v 一/m 条/q 而且/c 只有/d 一/m 条/q 直线/n 和/c 这/r 条/q 直线/n 平行/a 。/w 
+		
+			
+                                        268
+                                     平行线/n 的/u 判定/v 方法/n ：/w （/w １/m ）/w 同/v 位/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ；/w （/w ２/m ）/w 内/nd 错/n 角/n 相等/v ，/w 两/m 直线/n 平行/a ；/w （/w ３/m ）/w 同/c 旁/nd 内角/n 互补/v ，/w 两/m 直线/n 平行/a 。/w 
+		
+			
+                                        269
+                                     平行线/n 的/u 性质/n ：/w 两/m 直线/n 平行/a ，/w 同/c 位/q 角/n 相等/v ；/w 内/nd 错/n 角/n 相等/v ；/w 同/c 旁/nd 内角/n 互补/v 。/w 
+		
+			
+                                        270
+                                     平行/a 于/p 同一/a 条/q 直线/n 的/u 两/m 条/q 直线/n 互相/d 平行/a 。/w 
+		
+			
+                                        271
+                                     垂直/a 于/p 同一/n 条/q 直线/n 的/u 两/m 条/q 直线/n 互相/d 平行/a 。/w 
+		
+			
+                                        272
+                                     一/m 条/q 直线/n 和/c 两/m 条/q 平行线/n 中/nd 的/u 一/m 条/q 垂直/a ，/w 这/r 条/q 直线/n 也/d 和/c 另/a 一/m 条/q 垂直/a 。/w 
+		
+			
+                                        273
+                                     ３/m ．/w 命题/n 是/vl 判断/v 某/r 一/m 件/q 事情/n 的/u 语句/n 。/w 
+		
+			
+                                        274
+                                     定理/n 是/vl 经过/v 推理/v 判断/v 为/vl 真/a 命题/n 的/u 命题/n 。/w 
+		
+			
+                                        275
+                                     证明/v 是/vl 从/p 题/n 设/v 出发/v ，/w 经过/v 逐次/d 推理/v ，/w 来/vd 判断/v 命题/v 是否/v 正确/a 的/u 过程/n 。/w 
+		
+			
+                                        276
+                                     证明/n 中/nd 的/v 每/r 一/m 步/n 推理/v 都/d 要/vu 有/v 根据/n ，/w 推理/v 的/u 根据/n 是/vl 命题/n 中/nd 的/v 题/n 设/v ，/w 已/d 讲过/v 的/u 定义/n 、/w 公理/n 以及/c 已经/d 学/v 过/u 的/u 定理/n 。/w 
+		
+			
+                                        277
+                                     ２/m ．/w 已知/v 直线/n ＡＢ/ws 与/c ＣＤ/ws 相交/v 于/p 点/n Ｏ/ws ，/w 并且/c ∠/w ＡＯＤ/ws ＋/w ∠/w ＢＯＣ/ws ＝/w ２２０/m &#176;/w ，/w 求/v ∠/w ＡＯＣ/ws 。/w 
+		
+			
+                                        278
+                                     ３/m ．/w （/w １/m ）/w 指出/v ∠/w １/m 、/w ∠/w ２/m 、/w ∠/w ３/m 、/w ∠/w ４/m 与/c ∠/w Ａ/ws 中/nd 的/u 对/p 顶/n 角/n 、/w 同/c 位/n 角/n 、/w 内/nd 错/n 角/n 、/w 同/v 旁/nd 内角/n ，/w 并/c 指出/v 它们/r 是/vl 由/p 哪些/r 直线/n 相交/v 而/c 成/v 的/u 。/w 
+		
+			
+                                        279
+                                     （/w ２/m ）/w 已知/v ∠/w １/m ＝/w ９５/m &#176;/w ，/w ∠/w ２/m ＝/w ５０/m &#176;/w ，/w 求/v ∠/w ３/m 、/w ∠/w ４/m 的/u 大小/a 。/w 
+		
+			
+                                        280
+                                     ４/m ．/w 画/v 一/m 条/q 线段/n ＡＢ/ws ＝/w ６/m ｃｍ/ws 。/w 
+		
+			
+                                        281
+                                     取/v ＡＢ/ws 的/u 中点/n Ｃ/ws ，/w 过/v 点/n Ｃ/ws 画/v 直线/d ＣＤ/ws ⊥/w ＡＢ/ws ，/w 垂/v 足/n 为/vl Ｃ/ws 。/w 
+		
+			
+                                        282
+                                     在/p ＣＤ/ws 上/nd 取/v 一/m 点/n Ｅ/ws ，/w 使/v ＣＥ/ws ＝/w ４/m ｃｍ/ws 。/w 
+		
+			
+                                        283
+                                     测量/v ＡＥ/ws 、/w ＢＥ/ws 的/u 长/n ，/w 并/c 比较/v 它们/r 的/u 大小/n 。/w 
+		
+			
+                                        284
+                                     （/w ４/m ）/w 已知/v 直线/n ＡＢ/ws 及/c ＡＢ/ws 上/nd 一/m 点/n Ｃ/ws ，/w 过/v 点/n Ｃ/ws 画/v ＣＤ/ws ⊥/w ＣＡ/ws ，/w 画/v ＣＥ/ws ⊥/w ＣＢ/ws 。/w 
+		
+			
+                                        285
+                                     ７/m ．/w 画/v ∠/w ＢＡＣ/ws ＝/w ５７/m &#176;/w 。/w 
+		
+			
+                                        286
+                                     在/p ＡＢ/ws 上/nd 取/v 点/n Ｄ/ws ，/w 使/v ＡＤ/ws ＝/w ３０/m ｍｍ/ws ；/w 在/p ＡＣ/ws 上/nd 取/v 点/n Ｅ/ws ，/w 使/v ＡＥ/ws ＝/w ４０/m ｍｍ/ws 。/w 
+		
+			
+                                        287
+                                     经过/v Ｄ/ws 画/v ＡＣ/ws 的/u 平行线/n ，/w 经过/v Ｅ/ws 画/v ＡＢ/ws 的/u 平行线/n ，/w 两/m 线/n 相交/v 于/p 点/n Ｆ/ws 。/w 
+		
+			
+                                        288
+                                     ８/m ．/w 一块/n 钢板/n 的/u 两边/n ＡＢ/ws 和/c ＣＤ/ws 平行/a ，/w 已知/v ∠/w Ａ/ws ＝/w ９８/m &#176;/w ，/w ∠/w Ｃ/ws ＝/w ７５/m &#176;/w ，/w 求/v ∠/w Ｂ/ws 和/c ∠/w Ｄ/ws 的/u 度数/n ，/w 并且/c 说明/v 根据/n 。/w 
+		
+			
+                                        289
+                                     三角形/n 是/vl 一/m 种/q 很/d 简单/a 但/c 又是/vl 最/d 常见/v 的/u 几何图形/n 。/w 
+		
+			
+                                        290
+                                     例如/v ，/w 大桥/n 的/u 钢梁/n ，/w 起重机/n 的/u 支架/n 等/u ，/w 都/d 是/vl 三角形/n 结构/n （/w 图/n ３/m －/w １/m ）/w 。/w 
+		
+			
+                                        291
+                                     在/p 小学/n 已经/d 学/v 过/u 一些/m 三角形/n 的/u 初步/a 知识/n ，/w 本章/n 里/nd ，/w 我们/r 将/d 比较/d 系统/a 地/u 研究/v 三角形/n 的/u 许多/a 重要/a 性质/n 以及/c 它们/r 的/u 应用/v 。/w 
+		
+			
+                                        292
+                                     如/v 图/n ３/m －/w ２/m ，/w 由/p 三/m 条/q 线段/n 首尾/n 顺/p 次/n 连结/v 所/u 组成/v 的/u 图形/n 叫做/v 三角形/n 。/w 
+		
+			
+                                        293
+                                     组成/v 三角形/n 的/u 三/m 条/q 线段/n 叫做/v 三角形/n 的/u 边/n ，/w 相邻/v 两边/n 的/u 公共/a 端点/n 叫做/v 三角形/n 的/u 顶点/n 。/w 
+		
+			
+                                        294
+                                     例如/v ，/w 线段/n ＡＢ/ws 、/w ＢＣ/ws 、/w ＣＡ/ws 是/vl 三角形/n 的/u 边/n ，/w 点/n Ａ/ws 、/w Ｂ/ws 、/w Ｃ/ws 是/vl 三角形/n 的/u 顶点/n 。/w 
+		
+			
+                                        295
+                                     “/w 三角形/n ”/w 可以/vu 用/v 符号/n “/w △/w ”/w 表示/v ，/w 顶点/n 是/vl Ａ/ws 、/w Ｂ/ws 、/w Ｃ/ws 的/u 三角形/n ，/w 记/v 作/v “/w △/w Ａ/ws ＢＣ/ws ”/w ，/w 读/v 作/v “/w 三角形/n ＡＢＣ/ws ”/w 。/w 
+		
+			
+                                        296
+                                     三角形/n 相邻/v 两边/n 组成/v 的/u 角/n 叫做/v 三角形/n 的/u 内角/n ，/w 简称/v 三角形/n 的/u 角/n 。/w 
+		
+			
+                                        297
+                                     三角形/n 的/u 角/n 的/u 一边/nd 与/c 另/r 一边/nd 的/u 反向/a 延长线/n 组成/v 的/u 角/n 叫做/v 三角形/n 的/u 外/nd 角/n 。/w 
+		
+			
+                                        298
+                                     例如/v 在/p 图/n ３/m －/w ３/m 中/nd ，/w ∠/w Ｂ/ws ＡＣ/ws 是/vl △/w ＡＢＣ/ws 的/u 一个/mq 内角/n ，/w ∠/w ＢＡＤ/ws 是/vl 一个/mq 外/nd 角/n 。/w 
+		
+			
+                                        299
+                                     三角形/n 的/u 外/nd 角/n 也就是/d 与/c 它/r 有/v 公共/a 顶点/n 的/u 内角/n 的/u 邻/n 补/v 角/n 。/w 
+		
+			
+                                        300
+                                     三角形/n 一个/mq 角/n 的/u 平分/v 线/n 和/c 这个/r 角/n 的/u 对/v 边/n 相交/v ，/w 这个/r 角/n 的/u 顶点/n 和/c 交点/n 之间/nd 的/u 线段/n 叫做/v 三角形/n 的/u 角/n 平分/v 线/n 。/w 
+		
+			
+                                        301
+                                     连结/v 三角形/n 一个/mq 顶点/n 和/c 它/r 的/u 对边/n 中点/n 的/u 线段/n 叫做/v 三角形/n 的/u 中线/n 。/w 
+		
+			
+                                        302
+                                     三角形/n 一个/mq 顶点/n 到/v 它/r 的/u 对/p 边/n 所/u 在/v 直线/n 的/u 垂线段/n 叫做/v 三角形/n 的/u 高/n 。/w 
+		
+			
+                                        303
+                                     在/p 图/n ３/m －/w ４/m 中/nd ，/w 线段/n ＡＤ/ws 是/vl △/w ＡＢＣ/ws 的/u 角/n 平分/v 线/n ，/w ＡＥ/ws 是/vl 中线/n ，/w ＡＦ/ws 是/vl 高/n 。/w 
+		
+			
+                                        304
+                                     三角形/n 有/v 三/m 条/q 角/n 平分/v 线/n （/w 图/n ３/m －/w ５/m 甲/m ）/w ，/w 三/m 条/q 中线/n （/w 图/n ３/m －/w ５/m 乙/m ）/w 。/w 
+		
+			
+                                        305
+                                     它们/r 都/d 在/p 三角形/n 的/u 内部/nd 。/w 
+		
+			
+                                        306
+                                     三角形/n 也/d 有/v 三/m 条/q 高/n 。/w 
+		
+			
+                                        307
+                                     由于/c 三角形/n 的/u 内角/n 可能/vu 是/vl 锐角/n 也/d 可能/vu 是/vl 钝/a 角/n 或/c 直角/n ，/w 三角/n 形/n 的/u 高/n 不一定/d 都/d 在/p 三角形/n 内部/nd 。/w 
+		
+			
+                                        308
+                                     如/v 图/n ３/m －/w ６/m ，/w 图/n 甲/m 中/nd 三/m 条/q 高/n 都/d 在/p 三角形/n 内部/nd ；/w 图/n 乙/m 中/nd 有/v 一/m 条/q 在/p 三角形/n 内部/nd ，/w 另外/r 两/m 条/q 在/p 三角形/n 外部/nd ；/w 图/n 丙/m 中/nd 有/v 一/m 条/q 在/p 三角形/n 内部/nd ，/w 而/c 另外/r 两/m 条/q 恰好/d 是/vl 三角形/n 的/u 两/m 条/q 边/n 。/w 
+		
+			
+                                        309
+                                     １/m ．/w （/w １/m ）/w 说出/v 图中/nl 有/v 几个/mq 三角形/n ，/w 把/p 它们/r 读/v 出来/vd 。/w 
+		
+			
+                                        310
+                                     （/w ２/m ）/w 写出/v 在/p △/w ＡＢＤ/ws 中/nd ，/w ∠/w Ｂ/ws 所/u 对/p 的/u 边/n 、/w 边/n ＢＤ/ws 所/u 对/p 的/u 角/n 。/w 
+		
+			
+                                        311
+                                     在/p △/w ＡＢＣ/ws 中/nd ，/w ∠/w Ａ/ws 、/w ∠/w Ｂ/ws 、/w ∠/w Ｃ/ws 所/u 对/p 的/u 边/n ＢＣ/ws 、/w ＣＡ/ws 、/w ＡＢ/ws ，/w 通常/d 用/v ａ/ws 、/w ｂ/ws 、/w ｃ/ws 表示/v （/w 图/n ３/m －/w ７/m ）/w 。/w 
+		
+			
+                                        312
+                                     我们/r 知道/v ，/w 两/m 点/n 间/nd 线段/n 最/d 短/a 。/w 
+		
+			
+                                        313
+                                     定理/n 三角形/n 任何/r 两边/n 的/u 和/n 大于/v 第三/m 边/n 。/w 
+		
+			
+                                        314
+                                     从/p 定理/n 直接/a 推出/v 来/vd 的/u 定理/n 叫做/v 推论/n 。/w 
+		
+			
+                                        315
+                                     推论/n 三角形/n 任何/r 两边/n 的/u 差/n 小于/v 第三/m 边/n 。/w 
+		
+			
+                                        316
+                                     ）/w 即/d ａ/ws －/w ｂ/ws ＜/w ｃ/ws 。/w 
+		
+			
+                                        317
+                                     有的/r 三角形/n ，/w 三/m 条/q 边/n 各/r 不/d 相等/v ，/w 有的/r 有/v 两/m 条/q 边/n 相等/v ，/w 有的/r 三/m 条/q 边/n 都/d 相等/v 。/w 
+		
+			
+                                        318
+                                     因此/c ，/w 三角形/n 可以/vu 按照/p 边/n 进行/v 分类/v 。/w 
+		
+			
+                                        319
+                                     三/m 边/n 两/m 两/m 不等/a 的/u 三角形/n 叫做/v 不等/a 边/n 三角形/n （/w 图/n ３/m －/w ８/m 甲/m ）/w 。/w 
+		
+			
+                                        320
+                                     三/m 边/n 中/nd 有/v 两边/n 相等/v 的/u 三角形/n 叫做/v 等/v 腰/n 三角形/n （/w 图/n ３/m －/w ８/m 乙/m ）/w 。/w 
+		
+			
+                                        321
+                                     三/m 边/n 都/d 相等/v 的/u 三角形/n 叫做/v 等边/a 三角形/n （/w 图/n ３/m －/w ８/m 丙/m ）/w 。/w 
+		
+			
+                                        322
+                                     在/p 等/v 腰/n 三角形/n 中/nd ，/w 相等/v 的/u 两边/n 都/d 叫做/v 腰/n ，/w 另外/r 一边/nd 叫做/v 底边/n ，/w 两/m 腰/n 的/u 夹角/n 叫做/v 顶/n 角/n ，/w 腰/n 和/c 底边/n 的/u 夹角/n 叫做/v 底/n 角/n 。/w 
+		
+			
+                                        323
+                                     等边/a 三角形/n 是/vl 特殊/a 的/u 等/v 腰/n 三角形/n ，/w 即/d 底边/n 和/c 腰/n 相等/v 的/u 等/v 腰/n 三角形/n 。/w 
+		
+			
+                                        324
+                                     三角形/n 集合/n 包含/v 不等/a 边/n 三角形/n 集合/n 和/c 等/v 腰/n 三角形/n 集合/n ，/w 而/c 等/v 腰/n 三角形/n 集合/n ，/w 又/d 包含/v 底边/n 和/c 腰/n 不/d 相等/v 的/u 等/v 腰/n 三角形/n 集合/n 和/c 等边/v 三角形/n 集合/n 。/w 
+		
+			
+                                        325
+                                     ２/m ．/w （/w 口/n 答/v ）/w 如/v 图/n ：/w 已知/v 点/n Ｄ/ws 在/p ＡＣ/ws 上/nd ，/w ＡＢ/ws ＝/w ＡＣ/ws ，/w ＡＤ/ws ＝/w ＢＤ/ws ＝/w ＢＣ/ws 。/w 
+		
+			
+                                        326
+                                     说出/v 它们/r 的/u 腰/n 、/w 底边/n 、/w 顶/n 角/n 和/c 底/n 角/n 。/w 
+		
+			
+                                        327
+                                     在/p 小学/n ，/w 我们/r 曾经/d 把/p 一个/mq 三角形/n 纸板/n 的/u 三/m 个/q 角/n 拼在/v 一起/n ，/w 发现/v 它们/r 组成/v 一个/mq 平角/n （/w 图/n ３/m －/w １０/m ）/w 。/w 
+		
+			
+                                        328
+                                     这/r 表明/v ，/w 三角形/n 三/m 个/q 内角/n 的/u 和/n 等于/v １８０/m &#176;/w 。/w 
+		
+			
+                                        329
+                                     三角形/n 内角/n 和/n 定理/n 三角形/n 三/m 个/q 内角/n 的/u 和/n 等于/v １８０/m &#176;/w 。/w 
+		
+			
+                                        330
+                                     分析/v ：/w 实验/n 是/vl 把/p 三/m 个/q 内角/n 拼在/v 一起/n 组成/v 一个/mq 平角/n ，/w 这/r 启发/v 我们/r ，/w 要/vu 证明/n 这个/r 命题/n ，/w 可/vu 先/d 以/p ＣＡ/ws 为/vl 一边/nd ，/w 在/p △/w ＡＢＣ/ws 的/u 外部/n 作/v ∠/w ＡＣＥ/ws ＝/w ∠/w Ａ/ws ，/w 再/d 延长/v ＢＣ/ws ，/w 然后/c 只要/c 能/vu 证明/n ∠/w ＥＣＤ/ws ＝/w ∠/w Ｂ/ws 就/d 可以/vu 了/u 。/w 
+		
+			
+                                        331
+                                     证明/n ：/w 作/v ＢＣ/ws 的/u 延长线/n ＣＤ/ws ，/w 在/p △/w ＡＢＣ/ws 的/u 外部/nd ，/w 以/p ＣＡ/ws 为/vl 一边/nd ，/w ＣＥ/ws 为/vl 另/r 一/m 边/n 作/v ∠/w １/m ＝/w ∠/w Ａ/ws （/w 图/n ３/m －/w １１/m ）/w 。/w 
+		
+			
+                                        332
+                                     为了/p 证明/n 的/u 需要/n ，/w 在/p 原来/d 图形/n 上/nd 添/v 画/n 的/u 线/n 叫做/v 辅助/v 线/n 。/w 
+		
+			
+                                        333
+                                     在/p 平面/n 几何/n 里/nd ，/w 辅助/v 线/n 通常/d 画成/v 虚线/n 。/w 
+		
+			
+                                        334
+                                     推论/n １/m 三角形/n 的/u 一个/mq 外/nd 角/n 等于/v 和/p 它/r 不/d 相邻/v 的/u 两/m 个/q 内角/n 的/u 和/n 。/w 
+		
+			
+                                        335
+                                     推论/n ２/m 三角形/n 的/u 一个/m 外/nd 角/n 大于/v 任何/r 一个/mq 和/p 它/r 不/d 相邻/v 的/u 内角/n 。/w 
+		
+			
+                                        336
+                                     由/p 内角/n 和/n 定理/n 我们/r 知道/v ，/w 三角形/n 的/u 每/r 一个/mq 内角/n 都/d 不/d 大于/v １８０/m &#176;/w ，/w 所以/c 一个/mq 三/m 角/n 形/n 的/u 三/m 个/q 内角/n 可能/vu 都/d 是/vl 锐角/n ，/w 也/d 可能/vu 有/v 一个/mq 是/vl 直角/n 或/c 钝/a 角/n ，/w 因此/c ，/w 三角形/n 可以/vu 按/p 角/n 进行/v 分类/v 。/w 
+		
+			
+                                        337
+                                     三/m 个/q 角/n 都/d 是/vl 锐角/n 的/u 三角形/n 叫做/v 锐角/n 三角形/n （/w 图/n ３/m －/w １３/m 甲/m ）/w 。/w 
+		
+			
+                                        338
+                                     有/v 一个/mq 角/n 是/vl 直角/n 的/u 三角形/n 叫做/v 直角/n 三角形/n （/w 图/n ３/m －/w １３/m 乙/m ）/w 。/w 
+		
+			
+                                        339
+                                     有/v 一个/mq 角/n 是/vl 钝/a 角/n 的/u 三角形/n 叫做/v 钝/a 角/n 三/m 角/n 形/n （/w 图/n ３/m －/w １３/m 丙/m ）/w 。/w 
+		
+			
+                                        340
+                                     锐角/n 三角形/n 和/c 钝/a 角/n 三角形/n 合称/v 斜/a 三角形/n 。/w 
+		
+			
+                                        341
+                                     在/p 直角/n 三角形/n 中/nd ，/w 夹直角/n 的/u 两边/n 叫做/v 直角/n 边/n ，/w 直角/n 的/u 对边/n 叫做/v 斜边/n 。/w 
+		
+			
+                                        342
+                                     边/n 相等/v 的/u 直角/n 三角形/n 叫做/v 等/v 腰/n 直角/n 三角形/n 。/w 
+		
+			
+                                        343
+                                     ２/m ．/w 画/n 一个/mq △/w ＡＢＣ/ws ，/w 再/d 画出/v 它/r 的/u 所有/a 外/nd 角/n 。/w 
+		
+			
+                                        344
+                                     ４/m ．/w （/w 口/n 答/v ）/w 如/v 图/n ，/w 已知/v ∠/w ＡＣＢ/ws ＝/w ９０/m &#176;/w ，/w ＣＤ/ws ⊥/w ＡＢ/ws ，/w 垂足/n 是/vl Ｄ/ws 。/w 
+		
+			
+                                        345
+                                     说出/v 它们/r 的/u 直角/n 边/n 和/c 斜边/n 。/w 
+		
+			
+                                        346
+                                     ２/m ．/w 在/p 下面/nd 的/u 每个/r 三角形/n 中/nd ，/w 过/v 顶点/n Ａ/ws 画出/v 中线/n 、/w 角/n 平分/v 线/n 和/c 高/n 。/w 
+		
+			
+                                        347
+                                     （/w ２/m ）/w 已知/v 等/v 腰/n 三角形/n 的/u 一边/nd 等于/v ４/m ，/w 一边/nd 等于/v ９/m ，/w 求/v 它/r 的/u 周长/n 。/w 
+		
+			
+                                        348
+                                     ６/m ．/w 已知/v 等/v 腰/n 三角形/n 的/u 周长/n 是/vl １６/m ｃｍ/ws ，/w 腰/n 比/p 底/n 边/n 长/a ２/m ｃｍ/ws ，/w 求/v 这个/r 等/v 腰/n 三角形/n 各/r 边/n 的/u 长/n 。/w 
+		
+			
+                                        349
+                                     ８/m ．/w 一块/mq 模板/n 如/v 图/n ，/w 按/p 规定/n ＡＢ/ws 、/w ＣＤ/ws 的/u 延长线/n 应/vu 相交/v 成/v ８５/m &#176;/w 角/n ，/w 因/c 交点/n 不/d 在/p 板/n 上/nd ，/w 不便/a 测量/v ，/w 工人/n 师傅/n 连结/v ＡＣ/ws ，/w 测得/v ∠/w ＢＡＣ/ws ＝/w ３２/m &#176;/w ，/w ∠/w ＤＣＡ/ws ＝/w ６５/m &#176;/w ，/w 这时/nt 就/d 可以/vu 知道/v ，/w ＡＢ/ws 、/w ＣＤ/ws 的/u 延长线/n 相交/v 所/u 成/v 的/u 角/n 是不是/v 符合/v 规定/n 。/w 
+		
+			
+                                        350
+                                     把/p 一块/mq 样板/n 按在/v 纸板/n 上/nd ，/w 画下/v 图形/n ，/w 照/p 图形/n 裁/v 下来/vd 的/u 纸板/n 就/d 和/p 样板/n 完全/d 一样/a ，/w 把/p 样板/n 和/c 裁/v 得/v 的/u 纸板/n 放在/v 一起/n 能够/vu 完全/d 重合/v 。/w 
+		
+			
+                                        351
+                                     从/p 同一/d 张/q 底片/n 冲洗/v 出来/vd 的/u 两/m 张/q 照片/n 上/nd 的/u 图形/n ，/w 放在/v 一起/n 也/d 能够/vu 完全/d 重合/v 。/w 
+		
+			
+                                        352
+                                     能够/vu 完全/d 重合/v 的/u 两/m 个/q 图形/n 叫做/v 全等形/n ，/w 两/m 个/q 全/d 等/v 三角形/n 重合/v 时/nt ，/w 互相/d 重合/v 的/u 顶/n 点/n 叫做/v 对应/v 顶点/n ，/w 互相/d 重合/v 的/u 边/n 叫做/v 对应/v 边/n ，/w 互相/d 重合/v 的/u 角/n 叫做/v 对应/v 角/n 。/w 
+		
+			
+                                        353
+                                     例如/v ，/w 图/n ３/m －/w １４/m 中/nd 的/u 两/m 个/q 三角形/n 能够/vu 完全/d 重合/v ，/w 就是/vl 全/d 等/v 三角形/n ，/w “/w 全/d 等/v ”/w 用/v 符号/n “/w ≌/w ”/w 来/vd 表示/v ，/w 读/v 作/v “/w 全/d 等于/v ”/w 。/w 
+		
+			
+                                        354
+                                     图/n ３/m －/w １４/m 中/nd 的/u △/w ＡＢＣ/ws 和/c △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 全/d 等/v ，/w 记/v 作/v “/w △/w ＡＢＣ/ws ≌/w △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 。/w 
+		
+			
+                                        355
+                                     其中/nd Ａ/ws 和/c Ａ/ws ′/w 、/w Ｂ/ws 和/c Ｂ/ws ′/w 、/w Ｃ/ws 和/c Ｃ/ws ′/w 是/vl 对应/v 顶点/n ，/w ＢＣ/ws 和/c Ｂ/ws ′/w Ｃ/ws ′/w 、/w ＣＡ/ws 和/c Ｃ/ws ′/w Ａ/ws ′/w 、/w ＡＢ/ws 和/c Ａ/ws ′/w Ｂ/ws ′/w 是/vl 对应/v 边/n ，/w ∠/w Ａ/ws 和/c ∠/w Ａ/ws ′/w 、/w ∠/w Ｂ/ws 和/c ∠/w Ｂ/ws ′/w 、/w ∠/w Ｃ/ws 和/c ∠/w Ｃ/ws ′/w 是/vl 对应/v 角/n 。/w 
+		
+			
+                                        356
+                                     我们/r 知道/v ，/w 能够/vu 重合/v 的/u 两/m 条/q 线段/n 是/vl 相等/v 的/u 线段/n ，/w 能够/vu 重合/v 的/u 两/m 个/q 角/n 是/vl 相等/v 的/u 角/n ，/w 所以/c 全/d 等/v 三角形/n 的/u 对应/v 边/n 相等/v ，/w 对应/v 角/n 相等/v 。/w 
+		
+			
+                                        357
+                                     记/v 两/m 个/q 全/d 等/v 三角形/n 时/nt ，/w 我们/r 通常/d 把/p 表示/v 对应/v 顶点/n 的/u 字母/n 写在/v 对应/v 的/u 位置/n 上/nd 。/w 
+		
+			
+                                        358
+                                     例如/v ，/w 图/n ３/m －/w １５/m 中/nd 两/m 个/q 三角形/n 全/d 等/v ，/w 点/n Ａ/ws 、/w Ａ/ws ′/w ，/w Ｂ/ws 、/w Ｂ/ws ′/w ，/w Ｃ/ws 、/w Ｃ/ws ′/w 是/vl 对应/v 点/n ，/w 记/v 作/v “/w △/w ＡＢＣ/ws ≌/w △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w ”/w ，/w 而/c 不/d 记/v 作/v “/w △/w ＡＢＣ/ws ≌/w △/w Ａ/ws ′/w Ｃ/ws ′/w Ｂ/ws ′/w ”/w 或/c “/w △/w ＡＢＣ/ws ≌/w △/w Ｂ/ws ′/w Ａ/ws ′/w Ｃ/ws ′/w 等/u 。/w 
+		
+			
+                                        359
+                                     ３/m ．/w （/w 口/n 答/v ）/w 如/v 图/n ，/w △/w ＯＣＡ/ws ≌/w △/w ＯＢＤ/ws ，/w Ｃ/ws 和/c Ｂ/ws ，/w Ａ/ws 和/c Ｄ/ws 是/vl 对应/v 顶点/n ，/w 说出/v 这/r 两/m 个/q 三角形/n 中/nd 相等/v 的/u 边/n 和/c 角/n 。/w 
+		
+			
+                                        360
+                                     根据/p 定义/n 来/vd 判定/v 两/m 个/q 三角形/n 全/d 等/v ，/w 需要/v 知道/v 三/m 条/q 边/n 对应/v 相等/v 和/c 三/m 个/q 角/n 对应/v 相等/v 。/w 
+		
+			
+                                        361
+                                     现在/nt 我们/r 来/vd 研究/v 是否/d 可以/vu 减少/v 一些/m 条件/n ，/w 找到/v 比较/d 简单/a 的/u 判定/v 方法/n 。/w 
+		
+			
+                                        362
+                                     为此/c ，/w 我们/r 先/d 举例/v 说明/v 如何/r 画出/v 满足/v 一定/a 条件/n 的/u 三角形/n 。/w 
+		
+			
+                                        363
+                                     用/v 刻度/n 尺/n 和/c 量/v 角/n 器/k ，/w 画/v 一个/mq 三角形/n ，/w 使/v 它/r 的/u 两/m 条/q 边长/n 分别/d 是/vl ２/m ．/w ８/m ｃｍ/ws 和/c ３/m ．/w １/m ｃｍ/ws ，/w 这/r 两/m 条/q 边/n 的/u 夹角/n 等于/v ４５/m &#176;/w 。/w 
+		
+			
+                                        364
+                                     画法/n ：/w １/m ．/w 画/v ∠/w ＤＡＥ/ws ＝/w ４５/m &#176;/w （/w 图/n ３/m －/w １６/m ）/w 。/w 
+		
+			
+                                        365
+                                     ２/m ．/w 在/p ＡＤ/ws 、/w ＡＥ/ws 上/nd 分别/d 截取/v ＡＢ/ws 、/w ＡＣ/ws 。/w 
+		
+			
+                                        366
+                                     ３/m &#183;/w 连结/v ＢＣ/ws 。/w 
+		
+			
+                                        367
+                                     △/w ＡＢＣ/ws 就是/vl 所/u 求/v 的/u 三角形/n 。/w 
+		
+			
+                                        368
+                                     如果/c 按照/p 上面/nd 的/u 条件/n ，/w 用/v 同样/a 的/u 方法/n 另/d 画/v 一个/mq △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w ，/w 再/d 把/p △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 剪/v 下来/vd 放到/v △/w ＡＢＣ/ws 上/nd ，/w 我们/r 可以/vu 看到/v ，/w △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 与/c △/w ＡＢＣ/ws 能够/vu 完全/d 重合/v 。/w 
+		
+			
+                                        369
+                                     这个/r 事实/n 说明/v ，/w 只要/c 是/vl 按/p 上述/v 条件/n 画出/v 的/u 三角形/n ，/w 它们/r 总是/d 全/d 等/v 的/u 。/w 
+		
+			
+                                        370
+                                     边角/n 边/n 公理/n 有/v 两边/n 和/c 它们/r 的/u 夹角/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 全/d 等/v （/w 可以/vu 简写/v 成/v “/w 边角/n 边/n ”/w 或/c “/w ＳＡＳ/ws ”/w ）/w 。/w 
+		
+			
+                                        371
+                                     例/v ３/m 如/v 图/n ３/m －/w ２０/m ，/w 有/v 一/m 池塘/n 。/w 
+		
+			
+                                        372
+                                     要/vu 测/v 池塘/n 两端/n Ａ/ws 、/w Ｂ/ws 的/u 距离/n ，/w 可/vu 先/d 在/p 平地/n 上/nd 取/v 一个/mq 可以/vu 直接/a 到达/v Ａ/ws 和/c Ｂ/ws 的/u 点/n Ｃ/ws ，/w 连结/v ＡＣ/ws 并/d 延长/v 到/v Ｄ/ws ，/w 使/v ＣＤ/ws ＝/w ＣＡ/ws 。/w 
+		
+			
+                                        373
+                                     连结/v Ｂ/ws Ｃ/ws 并/d 延长/v 到/v Ｅ/ws ，/w 使/v ＣＥ/ws ＝/ws ＣＢ/ws 。/w 
+		
+			
+                                        374
+                                     连结/v ＤＥ/ws ，/w 那么/r 量/v 出/vd ＤＥ/ws 的/u 长/n ，/w 就是/vl Ａ/ws 、/w Ｂ/ws 的/u 距离/n 。/w 
+		
+			
+                                        375
+                                     按/p 图/n 写出/v “/w 已知/v ”/w 、/w “/w 求证/v ”/w ，/w 并/c 证明/v 。/w 
+		
+			
+                                        376
+                                     因为/c 全/d 等/v 三角形/n 的/u 对应/v 边/n 、/w 对应/v 角/n 相等/v ，/w 所以/c ，/w 证明/v 分别/d 属于/v 两/m 个/q 三角形/n 的/u 线段/n 相等/v 或者/d 角/n 相等/v 的/u 问题/n ，/w 可以/vu 通过/p 证明/v 这/r 两/m 个/q 三角形/n 全/d 等/v 来/vd 解决/v 。/w 
+		
+			
+                                        377
+                                     现在/nt 研究/v 三角形/n 全/d 等/v 的/u 另/r 一个/mq 判定/v 方法/n 。/w 
+		
+			
+                                        378
+                                     画/v 一个/mq 三角形/n ，/w 使/v 它/r 的/u 两/m 个/q 角/n 分别/d 等于/v ３０/m &#176;/w 和/c ４５/m &#176;/w ，/w 它们/r 所/u 夹/v 的/u 边/n 的/u 长/n 等/v 于/p ２/m ．/w ５/m ｃｍ/ws 。/w 
+		
+			
+                                        379
+                                     画法/n ：/w １/m ．/w 画/v 线段/n ＢＣ/ws ＝/w ２/m ．/w ５/m ｃｍ/ws （/w 图/n ３/m －/w ２１/m ）/w 。/w 
+		
+			
+                                        380
+                                     ４５/m &#176;/w ，/w ＢＤ/ws 和/c ＣＥ/ws 相交/v 于/p Ａ/ws 。/w 
+		
+			
+                                        381
+                                     △/w ＡＢＣ/ws 就是/vl 所/u 求/v 的/u 三角形/n 。/w 
+		
+			
+                                        382
+                                     如果/c 按照/p 上面/nd 的/u 条件/n ，/w 用/v 同样/a 的/u 方法/n 另/a 画/v 一个/mq △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w ，/w 再/d 把/p △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 剪/v 下来/vd 放到/v △/w ＡＢＣ/ws 上/nd ，/w △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 与/c △/w ＡＢＣ/ws 能够/vu 完全/d 重合/v 。/w 
+		
+			
+                                        383
+                                     所以/c ，/w 只要/c 是/vl 按/p 上面/nd 条件/n 画出/v 的/u 三角形/n ，/w 总是/d 全/d 等/v 的/u 。/w 
+		
+			
+                                        384
+                                     角/n 边/n 角/n 公理/n 有/v 两/m 角/n 和/c 它们/r 的/u 夹/v 边/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 全/d 等/v （/w 可以/vu 简写/v 成/v “/w 角/n 边/n 角/n ”/w 或/c “/w ＡＳＡ/ws ”/w ）/w 。/w 
+		
+			
+                                        385
+                                     在/p △/w ＡＢＣ/ws 和/c △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 中/nd ，/w 如果/c ＡＢ/ws ＝/w Ａ/ws ′/w Ｂ/ws ′/w ，/w ∠/w Ｂ/ws ＝/w ∠/w Ｂ/ws ′/w ，/w ∠/w Ｃ/ws ＝/w ∠/w Ｃ/ws ′/w （/w 图/n ３/m －/w ２２/m ）/w ，/w 那么/c ，/w 由/p 三角形/n 内角/n 和/c 定理/n 可得/v ∠/w Ａ/ws ＝/w ∠/w Ａ/ws ′/w 。/w 
+		
+			
+                                        386
+                                     根据/p 角/n 边角/n 公理/n ，/w △/w ＡＢＣ/ws ≌/w △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 。/w 
+		
+			
+                                        387
+                                     推论/n 有/v 两/m 角/n 和/c 其中/nd 一角/n 的/u 对/p 边/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 全/d 等/v （/w 可以/vu 简写/v 成/v “/w 角/n 角/n 边/n ”/w 或/c “/w ＡＡＳ/ws ”/w ）/w 。/w 
+		
+			
+                                        388
+                                     例/n １/m 已知/v ：/w 点/n Ｄ/ws 在/p ＡＢ/ws 上/nd ，/w 点/n Ｅ/ws 在/p ＡＣ/ws 上/nd ，/w ＢＥ/ws 和/c ＣＤ/ws 相交/v 于/p 点/n Ｏ/ws ，/w ＡＢ/ws ＝/w ＡＣ/ws ，/w ∠/w Ｂ/ws ＝/w ∠/w Ｃ/ws （/w 图/n ３/m －/w ２３/m ）/w 。/w 
+		
+			
+                                        389
+                                     求证/v ：/w ＢＤ/ws ＝/w ＣＥ/ws 。/w 
+		
+			
+                                        390
+                                     分析/v ：/w ＢＤ/ws 和/c ＣＥ/ws 分别/d 在/p △/w ＢＯＤ/ws 和/c △/w ＣＯＥ/ws 中/nd ，/w 由/p 已知/v 条件/n 不能/vu 直接/d 证明/v △/w ＢＯＤ/ws ≌/w △/w ＣＯＥ/ws 。/w 
+		
+			
+                                        391
+                                     但/c 已知/v ＡＢ/ws ＝/w ＡＣ/ws ，/w ＡＢ/ws 、/w ＢＤ/ws 及/c ＡＣ/ws 、/w ＣＥ/ws 分别/d 在/p 一/m 条/q 直线/n 上/nd ，/w 如果/c 能/vu 证明/v ＡＤ/ws ＝/w ＡＥ/ws ，/w 就/d 可以/vu 得到/v ＢＤ/ws ＝/w ＣＥ/ws 。/w 
+		
+			
+                                        392
+                                     例/n ２/m 求证/v ：/w 全/d 等/v 三角形/n 对应/v 角/n 的/u 平分/v 线/n 相等/v 。/w 
+		
+			
+                                        393
+                                     到/v 现在/nt 为止/v ，/w 我们/r 学/v 过/u 三/m 种/q 判定/v 三角形/n 全/d 等/v 的/u 方法/n ，/w 即/d 边/n 角/n 边/c 公理/n ，/w 角/n 边/n 角/n 公理/n 以及/c 推论/n 角/n 角/n 边/n 。/w 
+		
+			
+                                        394
+                                     看/v 下面/nd 几/m 种/q 情况/n 。/w 
+		
+			
+                                        395
+                                     例如/v ，/w 在/p △/w ＡＢＣ/ws 和/c △/w ＡＢＤ/ws 中/nd ，/w 已知/v ＡＢ/ws ＝/w ＡＢ/ws ，/w ＡＣ/ws ＝/w ＡＤ/ws ，/w ∠/w Ｂ/ws ＝/w ∠/w Ｂ/ws ，/w 显然/a 它们/r 不/d 全/d 等/v （/w 图/n ３/m －/w ２５/m ）/w 。/w 
+		
+			
+                                        396
+                                     这/r 说明/v ，/w 两边/n 和/c 其中/nd 一边/n 的/u 对角/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 不一定/d 全/d 等/v 。/w 
+		
+			
+                                        397
+                                     又/d 如/v ，/w 在/p △/w ＡＢＣ/ws 和/c △/w ＡＤＥ/ws 中/nd ，/w 如果/c ＤＥ/ws ∥/w ＢＣ/ws ，/w 那么/c ∠/w ＡＤＥ/ws ＝/w ∠/w Ｂ/ws ，/w ∠/w ＡＥＤ/ws ＝/w ∠/w Ｃ/ws ，/w 又/d ∠/w Ａ/ws ＝/w ∠/w Ａ/ws ，/w 但/c △/w ＡＢＣ/ws 和/c △/w ＡＤＥ/ws 并不/d 全/d 等/v （/w 图/n ３/m －/w ２６/m ）/w 。/w 
+		
+			
+                                        398
+                                     这/r 说明/v 三/m 个/q 角/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 也/d 不一定/d 全/d 等/v 。/w 
+		
+			
+                                        399
+                                     但是/c ，/w 如果/c 两/m 个/q 三角形/n 的/u 三/m 条/q 边/n 对应/v 相等/v ，/w 这/r 两/m 个/q 三角形/n 一定/d 全/d 等/v 。/w 
+		
+			
+                                        400
+                                     边/c 边/c 边/n 定理/n 有/v 三/m 边/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 全/d 等/v （/w 可以/vu 简写/v 成/v “/w 边/n 边/n 边/n ”/w 或/c “/w ＳＳＳ/ws ”/w ）/w 。/w 
+		
+			
+                                        401
+                                     由/p 边/n 边/n 边/n 定理/n 可以/vu 看出/v ，/w 只要/vu 三角形/n 三/m 边/n 的/u 长度/n 固定/a ，/w 这个/r 三角形/n 的/u 形状/n 大小/n 就/d 完全/d 确定/v 。/w 
+		
+			
+                                        402
+                                     例如/v ，/w 取/v 三/m 根/q 长度/n 适当/a 的/u 木条/n ，/w 用/v 钉子/n 把/p 它们/r 钉成/v 一个/mq 三角形/n 框架/n ，/w 所/u 得到/v 的/u 框架/n 形状/n 和/c 大小/n 就/d 固定/a 了/u （/w 图/n ３/m －/w ２９/m ）/w 。/w 
+		
+			
+                                        403
+                                     三角形/n 这个/r 性质/n 叫做/v 三角形/n 的/u 稳定性/n 。/w 
+		
+			
+                                        404
+                                     这/r 是/vl 三角形/n 特有/v 的/u 性质/n 。/w 
+		
+			
+                                        405
+                                     用/v 四/m 根/q 木条/n 钉成/v 的/u 框架/n 就/d 没有/v 这个/r 性质/n ，/w 它/r 的/u 形/n 状/n 是/vl 可以/vu 改变/v 的/u （/w 图/n ３/m －/w ３０/m ）/w 。/w 
+		
+			
+                                        406
+                                     三角形/n 的/u 稳定性/n 在/p 生产/v 和/c 生活/n 中/nd 是/vl 很/d 有用/v 的/u 。/w 
+		
+			
+                                        407
+                                     例如/v ，/w 房屋/n 的/u 人字/n 梁/n 具有/v 三角形/n 的/u 结构/n ，/w 它/r 就/d 坚固/a 和/c 稳定/a ；/w 在/p 栅栏门/n 上/nd 斜/a 着/u 钉/v 一/m 条/q （/w 或/c 两/m 条/q ）/w 木板/n ，/w 构成/v 一些/m 三角/n 形/n ，/w 就/d 可以/vu 使/v 栅栏门/n 不/d 变形/v 。/w 
+		
+			
+                                        408
+                                     构/n ，/w 也是/v 这个/r 道理/n 。/w 
+		
+			
+                                        409
+                                     １/m ．/w 如/v 图/n 是/vl 一个/mq 平分/v 角/n 的/u 仪器/n ，/w 其中/nd ＡＢ/ws ＝/w ＡＤ/ws ，/w ＢＣ/ws ＝/w ＤＣ/ws 。/w 
+		
+			
+                                        410
+                                     为了/p 平分/v 一个/mq 角/n ，/w 只要/c 将/p 点/n Ａ/ws 放在/v 角/n 的/u 顶点/n ，/w ＡＢ/ws 和/c ＡＤ/ws 沿着/p 角/n 的/u 两边/n 放下/v ，/w 沿/p ＡＣ/ws 画/v 一/m 条/q 射线/n ＡＥ/ws ，/w ＡＥ/ws 就是/vl 角/n 平分/v 线/n 。/w 
+		
+			
+                                        411
+                                     说明/v 它/r 的/u 道理/n 。/w 
+		
+			
+                                        412
+                                     ９/m ．/w 如/v 图/n ，/w 可以/vu 用/v 两/m 根/q 钢条/n ＡＡ/ws ′/w 和/c ＢＢ/ws ′/w ，/w 在/p 中点/n Ｏ/ws 处/n 连在/v 一起/n 做成/v 的/u 工具/n （/w 卡/n 钳/n ）/w 测量工/n 件/q 内/nd 槽/n 的/u 宽/n 。/w 
+		
+			
+                                        413
+                                     按照/p 图/n 写出/v “/w 已知/v ”/w 、/w “/w 求证/v ”/w ，/w 并/c 证明/v ＡＢ/ws ＝/w Ａ/ws ′/w Ｂ/ws ′/w 。/w 
+		
+			
+                                        414
+                                     １３/m ．/w 要/vu 测量/v 河/n 两岸/n 相对/v 的/u 两/m 点/n Ａ/ws 、/w Ｂ/ws 的/u 距离/n ，/w 可以/vu 在/p ＡＢ/ws 的/u 垂/v 线/n ＢＦ/ws 上/nd 取/v 两/m 点/n Ｃ/ws 、/w Ｄ/ws ，/w 使/v ＣＤ/ws ＝/w ＢＣ/ws ，/w 再/d 定出/v ＢＦ/ws 的/u 垂/v 线/n ＤＥ/ws ，/w 使/v Ａ/ws 、/w Ｃ/ws 、/w Ｅ/ws 在/p 一/m 条/q 直线/n 上/nd ，/w 这时/nt 测/v 得/v 的/u ＤＥ/ws 的/u 长/n 就是/vl ＡＢ/ws 的/u 长/n 。/w 
+		
+			
+                                        415
+                                     写出/v 已知/v 和/c 求证/v ，/w 并且/c 进行/v 证明/v 。/w 
+		
+			
+                                        416
+                                     ２３/m ．/w 求证/v ：/w 如果/c 两/m 个/q 三角形/n 有/v 两/m 条/q 边/n 和/c 其中/nd 一边/n 上/nd 的/u 中线/n 对应/v 相等/v ，/w 那么/c 这/r 两/m 个/q 三角形/n 全/d 等/v 。/w 
+		
+			
+                                        417
+                                     等/v 腰/n 三角形/n 是/vl 一/m 种/q 特殊/a 的/u 三角形/n ，/w 它/r 有/v 许多/a 重要/a 性质/n 。/w 
+		
+			
+                                        418
+                                     我们/r 先/d 做/v 个/q 实验/n 。/w 
+		
+			
+                                        419
+                                     取/v 一/m 张/q 等/v 腰/n 三角形/n 的/u 纸片/n （/w 图/n ３/m －/w ３１/m ）/w ，/w 把/p 两/m 腰/n ＡＢ/ws 、/w ＡＣ/ws 叠在/v 一起/n ，/w 我们/r 发现/v ，/w 两/m 个/q 底/n 角/n 互相/d 重合/v 。/w 
+		
+			
+                                        420
+                                     这/r 说明/v 等/v 腰/n 三角形/n 的/u 两/m 个/q 底/n 角/n 相等/v 。/w 
+		
+			
+                                        421
+                                     下面/nd 我们/r 来/vd 证明/v 这个/r 性质/n 。/w 
+		
+			
+                                        422
+                                     等/v 腰/n 三角形/n 的/u 性质/n 定理/n 等/v 腰/n 三角形/n 的/u 两/m 个/q 底/n 角/n 相等/a 。/w 
+		
+			
+                                        423
+                                     （/w 简写/v 成/v “/w 等边/n 对/p 等角/n ”/w 。/w 
+		
+			
+                                        424
+                                     推论/n １/m 等/v 腰/n 三角形/n 顶/n 角/n 的/u 平分/v 线/n 平分/v 底边/n 并且/c 垂直/a 于/p 底边/n 。/w 
+		
+			
+                                        425
+                                     推论/n ２/m 等边/a 三角形/n 的/u 各/r 角/n 都/d 相等/v ，/w 并且/c 每/r 一个/mq 角/n 都/d 等于/v ６０/m &#176;/w 。/w 
+		
+			
+                                        426
+                                     例/n １/m 求证/v ：/w 等/v 腰/n 三角形/n 两/m 个/q 底/n 角/n 的/u 平分/v 线/n 相等/v 。/w 
+		
+			
+                                        427
+                                     例/n ３/m 在/p 一个/mq 三角形/n 中/nd ，/w 如果/c 两/m 条/q 边/n 不等/a ，/w 那么/r 它们/r 所/u 对/p 的/u 角/n 也/d 不等/a ，/w 大/a 边/n 所/u 对/p 的/u 角/n 较/d 大/a 。/w 
+		
+			
+                                        428
+                                     （/w 简写/v 成/v “/w 大/a 边/n 对/p 大/a 角/n ”/w 。/w 
+		
+			
+                                        429
+                                     注意/v ：/w 证明/v 三角形/n 的/u 边/n 或/c 角/n 不等/a 的/u 问题/n ，/w 常/d 通过/p 添加/v 辅助/v 线/n 的/u 办法/n ，/w 把/p 它/r 化成/v 相等/v 的/u 情况/n 进行/v 研究/v 。/w 
+		
+			
+                                        430
+                                     辅助/v 线/n 的/u 一般/a 作法/n 是/vl ，/w 在/p 大/a 边/n 上/nd （/w 或/c 大/a 角/n 内/nd ）/w 作出/v 一部分/n 等/v 于/p 小/a 边/n （/w 或/c 小/a 角/n ）/w ，/w 得到/v 等/v 腰/n 三角形/n 。/w 
+		
+			
+                                        431
+                                     （/w ３/m ）/w 等/v 腰/n 直角/n 三角形/n 斜边/n 上/nd 的/u 高/n 把/p 直角/n 分成/v 两/m 个/q 角/n ，/w 求/v 这/r 两/m 个/q 角/n 的/u 度数/n 。/w 
+		
+			
+                                        432
+                                     我们/r 已经/d 知道/v ，/w 等/v 腰/n 三角形/n 有/v 两/m 个/q 角/n （/w 底/n 角/n ）/w 相等/v ，/w 现在/nt 来/vd 证明/v 有/v 两/m 个/q 角/n 相等/v 的/u 三角形/n 一定/d 是/vl 等/v 腰/n 三角形/n 。/w 
+		
+			
+                                        433
+                                     等/v 腰/n 三角形/n 的/u 判定/v 定理/n 如果/c 一个/mq 三角形/n 有/v 两/m 个/q 角/n 相等/v ，/w 那么/r 这/r 两/m 个/q 角/n 所/u 对/p 的/u 边/n 也/d 相等/v 。/w 
+		
+			
+                                        434
+                                     （/w 简写/v 成/v “/w 等角/a 对/p 等边/a ”/w 。/w 
+		
+			
+                                        435
+                                     推论/n １/m 三/m 个/q 角/n 都/d 相等/v 的/u 三角形/n 是/vl 等边/a 三角形/n 。/w 
+		
+			
+                                        436
+                                     推论/n ２/m 有/v 一个/mq 角/n 等于/v ６０/m &#176;/w 的/u 等/v 腰/n 三角形/n 是/vl 等边/a 三角形/n 。/w 
+		
+			
+                                        437
+                                     例/n １/m 求证/v ：/w 如果/c 三角形/n 一个/mq 外/nd 角/n 的/u 平分/v 线/n 平行/a 于/p 三角形/n 的/u 一边/nd ，/w 那么/r 这个/r 三/m 角/n 形/n 是/vl 等/v 腰/n 三角形/n 。/w 
+		
+			
+                                        438
+                                     例/n ２/m 上午/nt ８/m 时/nt ，/w 一/m 条/q 船/n 从/p Ａ/ws 处/n 出发/v 以/p 每/r 小时/nt １５/m 海里/q 的/u 速度/n 向/p 正北/nd 航行/v ，/w １/m ０/m 时/nt 到达/v Ｂ/ws 处/n 。/w 
+		
+			
+                                        439
+                                     从/p Ａ/ws 、/w Ｂ/ws 望/v 灯塔/n Ｃ/ws ，/w 测得/v ∠/w ＮＡＣ/ws ＝/w ４２/m &#176;/w ，/w ∠/w ＮＢＣ/ws ＝/w ８４/m &#176;/w 。/w 
+		
+			
+                                        440
+                                     求/v 从/p Ｂ/ws 处/n 到/v 灯塔/n Ｃ/ws 的/u 距离/n （/w 图/n ３/m —/w ３７/m ）/w 。/w 
+		
+			
+                                        441
+                                     答/v Ｂ/ws 到/v 灯塔/n 的/u 距离/n 是/vl ３０/m 海里/q 。/w 
+		
+			
+                                        442
+                                     例/n ３/m 在/p 一个/mq 三角形/n 中/nd ，/w 如果/c 两/m 个/q 角/n 不等/a ，/w 那么/r 它们/r 所/u 对/p 的/u 边/n 也/d 不等/a ，/w 大/a 角/n 所/u 对/p 的/u 边/n 较/d 大/a （/w 简写/v 成/v “/w 大/a 角/n 对/p 大/a 边/n ”/w ）/w 。/w 
+		
+			
+                                        443
+                                     ３/m ．/w （/w 口/n 答/v ）/w 直角/n 三角形/n 的/u 斜边/n 大于/v 直角/n 边/n ，/w 即/d 斜线/n 段/n 大于/v 垂线段/n 。/w 
+		
+			
+                                        444
+                                     ４/m ．/w （/w 口/n 答/v ）/w 在/p △/w ＡＢＣ/ws 中/nd ，/w 如果/c ＡＢ/ws 最大/a ，/w 那么/r ∠/w Ａ/ws 、/w ∠/w Ｂ/ws 一定/d 是/vl 锐角/n 。/w 
+		
+			
+                                        445
+                                     １/m ．/w 已知/v 屋/n 椽/n ＡＢ/ws 和/c ＡＣ/ws 的/u 长/n 相等/v ，/w 它们/r 的/u 夹角/n 是/vl １１８/m &#176;/w ，/w 计算/v 屋/n 椽/n 与/c 水平线/n Ｂ/ws Ｃ/ws 所/u 成/v 的/u 角/n 的/u 度数/n 。/w 
+		
+			
+                                        446
+                                     ２/m ．/w 已知/v 等/v 腰/n 三角形/n 的/u 一个/mq 底/n 角/n 等于/v 顶/n 角/n 的/u ４倍/m ，/w 求/v 这个/r 等/v 腰/n 三角形/n 各/r 角/n 的/u 度数/n 。/w 
+		
+			
+                                        447
+                                     ３/m ．/w 已知/v △/w ＡＢＣ/ws 的/u ∠/w ＡＢＣ/ws ＝/w ５０/m &#176;/w ，/w ∠/w ＡＣＢ/ws ＝/w ７０/m &#176;/w 。/w 
+		
+			
+                                        448
+                                     延长/v ＣＢ/ws 至/v 点/n Ｄ/ws ，/w 使/v ＢＤ/ws ＝/w ＢＡ/ws 。/w 
+		
+			
+                                        449
+                                     延长/v ＢＣ/ws 至/v 点/n Ｅ/ws ，/w 使/v ＣＥ/ws ＝/w ＣＡ/ws ，/w 连结/v ＡＤ/ws 、/w ＡＥ/ws 。/w 
+		
+			
+                                        450
+                                     求/v △/w ＡＤＥ/ws 的/u 各/r 角/n 的/u 度数/n 。/w 
+		
+			
+                                        451
+                                     ４/m ．/w 如/v 图/n 的/u 三角/n 测/v 平/a 架/n 中/nd ，/w ＡＢ/ws ＝/w ＡＣ/ws ，/w 在/p ＢＣ/ws 的/u 中点/n Ｄ/ws 挂/v 一个/mq 重/a 锤/n ，/w 自然/a 下垂/v 。/w 
+		
+			
+                                        452
+                                     调整/v 架/n 身/n ，/w 使/v 点/n Ａ/ws 恰好/d 在/p 重/a 锤/n 线上/nl 。/w 
+		
+			
+                                        453
+                                     ６/m ．/w 求证/v ：/w 等/v 腰/n 三角形/n 底边/n 中点/n 到/v 两/m 腰/n 的/u 距离/n 相等/v 。/w 
+		
+			
+                                        454
+                                     ９/m ．/w 求证/v ：/w 等/v 腰/n 三角形/n 两/m 个/q 底/n 角/n 的/u 平分/v 线/n 的/u 交点/n 到/v 底/n 边/n 的/u 两端/n 距离/n 相等/v 。/w 
+		
+			
+                                        455
+                                     ３/m ．/w １０/m 尺/n 规/n 作图/v 与/c 边/n 边/n 边/n 定理/n  以前/nt ，/w 我们/r 使用/v 刻度/n 尺/n 、/w 三角/n 板/n 、/w 量/v 角/n 器/n 和/c 圆规/n 等/u 多种/mq 工具/n 来/vd 画图/v 。/w 
+		
+			
+                                        456
+                                     现在/nt ，/w 我们/r 来/vd 学习/v 只用/v 直/a 尺/n （/w 没有/v 刻度/n ）/w 和/c 圆规/n 画图/v 的/u 方法/n ，/w 这/r 种/q 方法/n 简称/v 尺/n 规/n 作图/v 。/w 
+		
+			
+                                        457
+                                     尺/n 规/n 作图/v 与/c 边/n 边/n 边/n 定理/n 有/v 密切/a 关系/n 。/w 
+		
+			
+                                        458
+                                     下面/nd 我们/r 来/vd 证明/v 边/n 边/n 边/n 定理/n ：/w 有/v 三/m 边/n 对应/v 相等/v 的/u 两/m 个/q 三角形/n 全/d 等/v 。/w 
+		
+			
+                                        459
+                                     证明/n ：/w 如/v 图/n ，/w 把/p △/w ＡＢＣ/ws 拼/v 在/p △/ws Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 上/nd ，/w 使/v 最/d 长/a 的/u 边/n ＢＣ/ws 和/c Ｂ/ws ′/w Ｃ/ws ′/w 重合/v ，/w 并且/c 使/v 点/n Ａ/ws 和/c 点/n Ａ/ws ′/w 在/p Ｂ/ws ′/w Ｃ/ws ′/w 边/n 的/u 两旁/nl ，/w 连结/v Ａ/ws ′/w Ａ/ws 。/w 
+		
+			
+                                        460
+                                     例/n 根据/p 边/n 边/n 边/n 定理/n ，/w 用/v 直/a 尺/n 和/c 圆规/n 作/v 一个/mq 三角形/n 与/c 已知/v 三角形/n 全/d 等/v 。/w 
+		
+			
+                                        461
+                                     作法/n ：/w １/m ．/w 作/v Ｂ/ws ′/w Ｃ/ws ′/w ＝/w ＢＣ/ws 。/w 
+		
+			
+                                        462
+                                     ２/m ．/w 以/p 点/n Ｂ/ws ′/w 为/vl 圆心/n ，/w ＡＢ/ws 为/vl 半径/n 作/v 弧/n 。/w 
+		
+			
+                                        463
+                                     ３/m ．/w 以/p 点/n Ｃ/ws ′/w 为/vl 圆心/n ，/w ＡＣ/ws 为/vl 半径/n 作/v 弧/n ，/w 与/c 前/nd 弧/n 交于/v 点/n Ａ/ws ′/w 。/w 
+		
+			
+                                        464
+                                     ４/m ．/w 连结/v Ａ/ws ′/w Ｂ/ws ′/w 、/w Ａ/ws ′/w Ｃ/ws ′/w 。/w 
+		
+			
+                                        465
+                                     △/w Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w 就是/vl 所/u 求/v 的/u 三角形/n 。/w 
+		
+			
+                                        466
+                                     先/d 介绍/v 几/m 种/q 最/d 简单/a 最/d 常用/a 的/u 尺/n 规/n 作图/v ，/w 通常/d 称为/v 基本/n 作图/v 。/w 
+		
+			
+                                        467
+                                     其他/r 较/d 复杂/a 的/u 作图/v ，/w 都/d 是/vl 由/p 基本/a 作图/v 组成/v 的/u 。/w 
+		
+			
+                                        468
+                                     作法/n ：/w １/m ．/w 作/v 射线/n Ｏ/ws ′/w Ａ/ws ′/w 。/w 
+		
+			
+                                        469
+                                     ２/m ．/w 以/p 点/n Ｏ/ws 为/vl 圆心/n ，/w 以/p 任意/d 长/a 为/vl 半径/n 作/v 弧/n ，/w 交/v ＯＡ/ws 于/p Ｃ/ws ，/w 交/v ＯＢ/ws 于/p Ｄ/ws 。/w 
+		
+			
+                                        470
+                                     ３/m ．/w 以/p 点/n Ｏ/ws ′/w 为/vl 圆心/n ，/w 以/p ＯＣ/ws 长/n 为/vl 半径/n 作/v 弧/n ，/w 交/v Ｏ/ws ′/w Ａ/ws ′/w 于/p Ｃ/ws ′/w 。/w 
+		
+			
+                                        471
+                                     ４/m ．/w 以/p 点/n Ｃ/ws ′/w 为/vl 圆心/n ，/w 以/p ＣＤ/ws 长/n 为/vl 半径/n 作/v 弧/n ，/w 交/v 前/nd 弧/n 于/p Ｄ/ws ′/w 。/w 
+		
+			
+                                        472
+                                     ５/m ．/w 经过/v 点/n Ｄ/ws ′/w 作/v 射线/n Ｏ/ws ′/w Ｂ/ws ′/w 。/w 
+		
+			
+                                        473
+                                     ∠/w Ａ/ws ′/w Ｏ/ws ′/w Ｂ/ws ′/w 就是/vl 所/u 求/v 的/u 角/n 。/w 
+		
+			
+                                        474
+                                     作法/n ：/w １/m ．/w 在/p ＯＡ/ws 和/c ＯＢ/ws 上/nd ，/w 分别/d 截取/v ＯＤ/ws 、/w ＯＥ/ws ，/w 使/v ＯＤ/ws ＝/w ＯＥ/ws 。/w 
+		
+			
+                                        475
+                                     ２/m ．/w 分别/d 以/p Ｄ/ws 、/w Ｅ/ws 为/vl 圆心/n ，/w 大于/v ＤＥ/ws ／/w ２/m 的/u 长/n 为/vl 半径/n 作/v 弧/n ，/w 在/p ∠/w ＡＯＢ/ws 内/nd ，/w 两/m 弧/n 交于/v 点/n Ｃ/ws 。/w 
+		
+			
+                                        476
+                                     ３/m ．/w 作/v 射线/n ＯＣ/ws 。/w 
+		
+			
+                                        477
+                                     ＯＣ/ws 就是/vl 所/u 求/v 的/u 射线/n 。/w 
+		
+			
+                                        478
+                                     Ⅲ/w ．/w 经过/v 一/m 点/n 作/v 已知/v 直线/n 的/u 垂/v 线/n 。/w 
+		
+			
+                                        479
+                                     （/w １/m ）/w 经过/v 已知/v 直线/n 上/nd 的/u 一/m 点/n 作/v 这/r 条/q 直线/n 的/u 垂/v 线/n 。/w 
+		
+			
+                                        480
+                                     已知/v ：/w 直线/n ＡＢ/ws 和/c ＡＢ/ws 上/nd 一/m 点/n Ｃ/ws （/w 图/n ３/m －/w ４３/m ）/w 。/w 
+		
+			
+                                        481
+                                     求/v 作/v ：/w ＡＢ/ws 的/u 垂/v 线/n ，/w 使/v 它/r 经过/v 点/n Ｃ/ws 。/w 
+		
+			
+                                        482
+                                     作法/n ：/w 作/v 平角/n ＡＣＢ/ws 的/u 平分/v 线/n ＣＦ/ws 。/w 
+		
+			
+                                        483
+                                     直线/n ＣＦ/ws 就是/vl 所/u 求/v 的/u 垂线/n 。/w 
+		
+			
+                                        484
+                                     （/w ２/m ）/w 经过/v 已知/v 直线/n 外/nd 一/m 点/n 作/v 这/r 条/q 直线/n 的/u 垂/v 线/n 。/w 
+		
+			
+                                        485
+                                     已知/v ：/w 直线/n ＡＢ/ws 和/c ＡＢ/ws 外/nd 一/m 点/n Ｃ/ws （/w 图/n ３/m －/w ４４/m ）/w 。/w 
+		
+			
+                                        486
+                                     求/v 作/v ：/w ＡＢ/ws 的/u 垂/v 线/n ，/w 使/v 它/r 经过/v 点/n Ｃ/ws 。/w 
+		
+			
+                                        487
+                                     作法/n ：/w １/m ．/w 任意/d 取/v 一/m 点/n Ｋ/ws ，/w 使/v Ｋ/ws 和/c Ｃ/ws 在/p ＡＢ/ws 的/u 两旁/nl 。/w 
+		
+			
+                                        488
+                                     ２/m ．/w 以/p Ｃ/ws 为/vl 圆心/n ，/w ＣＫ/ws 长/n 为/vl 半径/n 作/v 弧/n ，/w 交/v ＡＢ/ws 于/p 点/n Ｄ/ws 和/c Ｅ/ws 。/w 
+		
+			
+                                        489
+                                     ３/m ．/w 分别/d 以/p Ｄ/ws 和/c Ｅ/ws 为/vl 圆心/n ，/w 大于/v ＤＥ/ws ／/w ２/m 的/u 长/n 为/vl 半径/n 作/v 弧/n ，/w 两/m 弧/n 交于/v 点/n Ｆ/ws 。/w 
+		
+			
+                                        490
+                                     ４/m ．/w 作/v 直线/n ＣＦ/ws 。/w 
+		
+			
+                                        491
+                                     直线/n ＣＦ/ws 就是/vl 所/u 求/v 的/u 垂/v 线/n 。/w 
+		
+			
+                                        492
+                                     Ⅳ/w ．/w 作/v 线段/n 的/u 垂直/a 平分/v 线/n 。/w 
+		
+			
+                                        493
+                                     已知/v ：/w 线段/n ＡＢ/ws （/w 图/n ３/m －/w ４５/m ）/w 。/w 
+		
+			
+                                        494
+                                     求/v 作/v ：/w 线段/n ＡＢ/ws 的/u 垂直/a 平分/v 线/n 。/w 
+		
+			
+                                        495
+                                     作法/n ：/w １/m ．/w 分别/d 以/p 点/n Ａ/ws 和/c Ｂ/ws 为/vl 圆心/n ，/w 大于/v ＡＢ/ws ／/w ２/m 的/u 长/n 为/vl 半径/n 作/v 弧/n ，/w 两/m 弧/n 相/d 交于/v 点/n Ｃ/ws 和/c Ｄ/ws 。/w 
+		
+			
+                                        496
+                                     ２/m ．/w 作/v 直线/n ＣＤ/ws 。/w 
+		
+			
+                                        497
+                                     直线/n ＣＤ/ws 就是/vl 线段/n ＡＢ/ws 的/u 垂直/a 平分/v 线/n 。/w 
+		
+			
+                                        498
+                                     分/v 已知/v 线段/n 或/c 作/v 线段/n 的/u 中点/n 。/w 
+		
+			
+                                        499
+                                     Ｖ/ws ．/w 经过/v 已知/v 直线/n 外/nd 的/u 一/m 点/n 作/v 这/r 条/q 直线/n 的/u 平行线/n 。/w 
+		
+			
+                                        500
+                                     已知/v ：/w 直线/n ＡＢ/ws 和/c ＡＢ/ws 外/nd 一/m 点/n Ｍ/ws （/w 图/n ３/m －/w ４６/m ）/w 。/w 
+		
+	

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:security="http://www.springframework.org/schema/security" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+          http://www.springframework.org/schema/security
+          http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+	<bean id="dictionary.unit" class="net.phoenix.nlp.dictionary.plain.PlainCharDictionary" init-method="init" destroy-method="destroy">
+		<property name="path" value="file:D:/jigsaw/source/jsnlp/data/units.dic"/>
+	</bean>
+	<bean id="dictionary.char.tree" class="net.phoenix.nlp.dictionary.plain.PlainCharTreeDictionary" init-method="init" destroy-method="destroy">
+		<property name="charFreqFile" value="file:D:/jigsaw/source/jsnlp/data/chars.dic"/>
+		<property name="wordFiles" value="file:D:/jigsaw/source/jsnlp/data/words*.dic"/>
+	</bean>
+	<bean id="mmseg.complex" class="net.phoenix.nlp.tokenizer.mmseg.ComplexSegmenter">
+		<property name="charTreeDictionary" ref="dictionary.char.tree"/>
+		<property name="unitDictionary" ref="dictionary.unit"/>
+	</bean>
+	<bean id="mmseg.max.word" class="net.phoenix.nlp.tokenizer.mmseg.MaxWordSegmenter">
+		<property name="charTreeDictionary" ref="dictionary.char.tree"/>
+		<property name="unitDictionary" ref="dictionary.unit"/>
+	</bean>
+	<bean id="mmseg.simple" class="net.phoenix.nlp.tokenizer.mmseg.SimpleSegmenter">
+		<property name="charTreeDictionary" ref="dictionary.char.tree"/>
+		<property name="unitDictionary" ref="dictionary.unit"/>
+	</bean>
+	
+	<bean id="tokenizer.mmseg" class="net.phoenix.nlp.tokenizer.mmseg.MMTokenizerAdapter">
+		<property name="segmenter" ref="mmseg.complex"/>
+	</bean>
+	<bean id="dictionary.asia.name" class="net.phoenix.nlp.pos.dictionary.AsianNameDictionary" init-method="load">
+		<property name="boundaryFrequencyPath" value="file:D:/jigsaw/source/jsnlp/data/pos/person/person.dic"/>
+		<property name="nameFrequencyPath" value="file:D:/jigsaw/source/jsnlp/data/pos/person/asian_name_freq.data"/>
+		<property name="DFADictionary" ref="dictionary.dfa"/>
+	</bean>
+	<bean id="dictionary.company" class="net.phoenix.nlp.pos.dictionary.CompanyDictionary" init-method="load">
+		<property name="companyNamePath" value="file:D:/jigsaw/source/jsnlp/data/pos/company/company.data"/>
+		<property name="DFADictionary" ref="dictionary.dfa"/>	
+	</bean>
+	
+	<bean id="dictionary.nature" class="net.phoenix.nlp.pos.dictionary.BasicNatureLibrary" init-method="load">
+		<property name="natureMapFile" value="file:D:/jigsaw/source/jsnlp/data/pos/nature/nature.map"/>
+		<property name="natureTableFile" value="file:D:/jigsaw/source/jsnlp/data/pos/nature/nature.table"/>
+	</bean>
+		<bean id="dictionary.cooccurrence" class="net.phoenix.nlp.pos.dictionary.CooccurrenceLibrary" init-method="load">
+		<property name="bigramFilePath" value="file:D:/jigsaw/source/jsnlp/data/pos/cooccurrence.data"/>			
+	</bean>
+	<bean id="dictionary.dfa" class="net.phoenix.nlp.pos.dictionary.CharTreeDictionary" init-method="load">
+		<property name="DFAFilePath" value="file:D:/jigsaw/source/jsnlp/data/pos/arrays.dic"/>
+		<property name="mapFilePath" value="file:D:/jigsaw/source/jsnlp/data/pos/jianFan.dic"/>		
+		<property name="natureLibrary" ref="dictionary.nature"/>		
+	</bean>
+	<!-- bean id="dictionary.number" class="net.phoenix.nlp.pos.dictionary.NumberDictionary" init-method="load">
+		<property name="DFADictionary" ref="dictionary.dfa"/>
+	</bean-->
+	
+	<bean id="recognitor.abstract" class="net.phoenix.nlp.pos.recognitor.AbstractRecognitor" init-method="init" abstract="true">
+		<property name="natureLibrary" ref="dictionary.nature"/>	
+	</bean>
+	<bean id="segmenter.dfa" class="net.phoenix.nlp.pos.segmenter.CharTreeSegmenter">
+		<property name="charLibrary" ref="dictionary.dfa"/>
+		<property name="natureLibrary" ref="dictionary.nature"/>			
+	</bean>
+	<bean id="npath.cooccurrence" class="net.phoenix.nlp.pos.npath.CooccurrenceNPathGenerator">
+		<property name="cooccurrenceLibrary" ref="dictionary.cooccurrence" />
+	 </bean>
+	 <bean id="scorer.simple" class="net.phoenix.nlp.pos.scorer.SimplePathScorer">
+	 </bean>
+	<bean id="scorer.nature" class="net.phoenix.nlp.pos.scorer.NatureScorer">
+		<property name="natureLibrary" ref="dictionary.nature"/>	
+	</bean>
+	<bean id="recognitor.number" class="net.phoenix.nlp.pos.recognitor.NumberRecognitor" parent="recognitor.abstract">
+		<property name="numberCharacterPath" value="file:D:/jigsaw/source/jsnlp/data/pos/number.data"/>
+	</bean>
+	<bean id="recognitor.asian.name" class="net.phoenix.nlp.pos.recognitor.AsianNameRecognitor" parent="recognitor.abstract">
+	<property name="cooccurrenceLibrary" ref="dictionary.cooccurrence" />
+	</bean>
+	<bean id="recognitor.foreign.name" class="net.phoenix.nlp.pos.recognitor.ForeignNameRecognitor" parent="recognitor.abstract">
+	<property name="candidateFiles">
+		<array>
+			<value>file:D:/jigsaw/source/jsnlp/data/pos/person/english_name.dic</value>
+			<value>file:D:/jigsaw/source/jsnlp/data/pos/person/indian_name.dic</value>
+			<value>file:D:/jigsaw/source/jsnlp/data/pos/person/russian_name.dic</value>
+		</array>
+	</property>
+	<property name="cooccurrenceLibrary" ref="dictionary.cooccurrence" />
+	</bean>
+	
+	<bean id="recognitor.company" class="net.phoenix.nlp.pos.recognitor.CompanyRecognitor"  parent="recognitor.abstract">
+	    	<property name="companyFrequencyPath" value="file:D:/jigsaw/source/jsnlp/data/pos/company/company.map"/>
+	</bean>
+	<bean id="recognitor.datetime" class="net.phoenix.nlp.pos.recognitor.DateTimeRecognitor" parent="recognitor.abstract">
+	<property name="qualifierCharacterPath" value="file:D:/jigsaw/source/jsnlp/data/pos/datetime/qualifier.dic"/>
+	<property name="numberCharacterPath" value="file:D:/jigsaw/source/jsnlp/data/pos/datetime/number.dic"/>
+		</bean>
+	<bean id="recognitor.nature" class="net.phoenix.nlp.pos.recognitor.NatureRecognitor"  parent="recognitor.abstract">
+	</bean>
+	
+	<!-- bean id="filter.shortest.path" class="net.phoenix.nlp.pos.filter.ShortestPathFilter">
+	</bean>
+	<bean id="filter.nature" class="net.phoenix.nlp.pos.filter.NatureFilter">
+	<property name="natureLibrary" ref="dictionary.nature" />
+	</bean>
+	
+	<bean id="filter.bellman.shortest.path" class="net.phoenix.nlp.pos.filter.BellmanFordShortestPathFilter">
+	</bean-->
+	
+	<bean id="analyzer.standard" class="net.phoenix.nlp.pos.analysizer.StandardAnalysizer">
+	<property name="segmenter" ref="segmenter.dfa"/>
+	<property name="nPathGenerator" ref="npath.cooccurrence"/>
+	<property name="pathScorer" ref="scorer.simple"/>
+	<property name="recognitors">
+	<array>
+	<ref bean="recognitor.number"/>
+	<ref bean="recognitor.datetime"/>
+	<ref bean="recognitor.asian.name"/>
+	<ref bean="recognitor.foreign.name"/>
+	<ref bean="recognitor.company"/>
+	<ref bean="recognitor.nature" />
+	</array>
+	</property>
+	</bean>
+
+<bean id="analyzer.standard2" class="net.phoenix.nlp.pos.analysizer.StandardAnalysizer">
+	<property name="segmenter" ref="segmenter.dfa"/>
+	<property name="nPathGenerator" ref="npath.cooccurrence"/>
+	<property name="pathScorer" ref="scorer.simple"/>
+	<property name="recognitors">
+	<array>
+	<ref bean="recognitor.number"/>
+	<ref bean="recognitor.asian.name"/>
+	<ref bean="recognitor.foreign.name"/>
+	<ref bean="recognitor.company"/>
+	<ref bean="recognitor.nature" />
+	</array>
+	</property>
+	</bean>
+	
+</beans>

@@ -1,0 +1,2005 @@
+
+		
+			序号例句出处
+		
+			
+                                        1
+                                     １５/m ．/w Ａ/ws 是/vl ⊙/w Ｏ/ws 的/u 直径/n 上/nd 的/u 一点/m ，/w ＯＢ/ws 是/vl 和/c 这/r 条/q 直径/n 垂直/v 的/u 半径/n ，/w ＢＡ/ws 和/c ⊙/w Ｏ/ws 相交/v 于/p 另/r 一点/m Ｃ/ws ，/w 过/v 点/n Ｃ/ws 的/u 切线/n 和/c ＯＡ/ws 的/u 延长线/n 相交/v 于/p 点/n Ｄ/ws 。/w 
+		
+			
+                                        2
+                                     举例/v 说明/v 。/w 
+		
+			
+                                        3
+                                     ３３/m ．/w 已知/v ⊙/w Ｏ/ws 上/nd 一点/m Ａ/ws ，/w 说明/v 并/c 作出/v 以/p 点/n Ａ/ws 为/vl 端点/n 的/u 弦/n 的/u 中点/n 的/u 轨迹/n （/w 不/d 要求/v 证明/v ）/w 。/w 
+		
+			
+                                        4
+                                     ３４/m ．/w 求/v 作/v 一/m 个/q 圆/n ，/w 使/v 它/r 的/u 半径/n 等于/vu ３/m ｃｍ/ws ，/w 经过/v 已知/v 点/n Ａ/ws ，/w 并且/c 和/c 半径/n 为/vl ２/m ｃｍ/ws 的/u 已知/v 圆/n Ｏ/ws 相切/v （/w 已知/v ＯＡ/ws ＝/w ６/m ｃｍ/ws ）/w 。/w 
+		
+			
+                                        5
+                                     ３５/m ．/w 在/p 如/v 图/n 所/u 示/v 的/u 坐标系/n 中/nd ，/w ⊙/w Ｏ/ws 的/u 半径/n 为/vl １０/m ，/w □/w 的/u 坐标/n 为/vl （/w ３５/m ，/w ０/m ）/w ，/w □/w 的/u 半径/n 为/vl ８/m 。/w 
+		
+			
+                                        6
+                                     □/w 与/c ⊙/w Ｏ/ws 上/nd 的/u 弧/n 外/nd 连接/v ，/w 与/c □/w 上/nd 的/u 弧/n 内/nd 连接/v 。/w 
+		
+			
+                                        7
+                                     计算/v □/w 所在/n 圆/n 的/u  我们/r 早/a 就/d 学/v 过/u ：/w “/w 圆周/n 长/n ＝/w 直径/n &#215;/w 圆周率/n #32#/w ”/w 。/w 
+		
+			
+                                        8
+                                     在/p 半径/n 为/vl Ｒ/ws 的/u 圆/n 中/nd （/w 图/n ７/m －/w ８６/m ）/w ，/w 内/nd 接/v 正/a 六/m 边/n 形/n 的/u 周长/n 是/vl □/w ，/w 圆/n 内/nd 接/v 正/a 六/m 边/n 形/n 的/u 周长/n 与/c 圆/n 的/u 直径/n 的/u 比/n 是/vl ６/m Ｒ/ws ／/w ２/m Ｒ/ws ＝/w ３/m ，/w 这个/r 比值/n 与/c Ｒ/ws 无关/v ，/w 也/d 就是/d 说/v ，/w 不管/c 圆/n 的/u 大小/n 怎样/r ，/w 它/r 是/vl 一/m 个/q 常数/n 。/w 
+		
+			
+                                        9
+                                     如果/c 把/p 圆/n 内/nd 接/v 正/a ６/m 边/n 形/n 的/u 周长/n 看作/v 是/vl 圆/n 的/u 周长/n 的/u 近似/v 值/n ，/w 把/p 圆/n 内/nd 接/v 正/a ６/m 边/n 形/n 的/u 周长/n 与/c 直径/n 的/u 比/n （/w 等于/vu ３/m ）/w 看作/v 是/vl 圆/n 的/u 周长/n 与/c 直径/n 的/u 比/n 的/u 近似/v 值/n ，/w 当然/d ，/w 误差/n 是/vl 很/d 大/a 的/u 。/w 
+		
+			
+                                        10
+                                     把/p 圆/n 内/nd 接/v 正/a ６/m 边/n 形/n 的/u 边数/n 加倍/v ，/w 可以/vu 得到/v 圆/n 内/nd 接/v 正/a １２/m 边/n 形/n ；/w 再/d 加倍/v ，/w 可以/vu 得到/v 圆/n 内/nd 接/v 正/a ２４/m 边/n 形/n ；/w …/w …/w 。/w 
+		
+			
+                                        11
+                                     我们/r 可以/vu 把/p 这样/r 一些/m 圆/n 内/nd 接/v 正/a 多边形/n 的/u 周长/n 看作/v 是/vl 圆/n 的/u 周长/n 的/u 近似/v 值/n ，/w 把/p 这些/r 圆/n 内/nd 接/v 正/a 多边形/n 的/u 周长/n 与/c 直径/n 的/u 比/n 作为/n 圆/n 的/u 周长/n 与/c 直径/n 的/u 比/n 的/u 近似/v 值/n 。/w 
+		
+			
+                                        12
+                                     当/p 圆/n 内/nd 接/v 正/a 多边形/n 的/u 边数/n 不断/d 地/u 成倍/n 增加/v 时/nt ，/w 它们/r 的/u 周长/n □/w 不断/d 地/u 增大/v ，/w 越来越/d 接近/v 于/p 圆/n 的/u 周长/n ，/w 圆/n 内/nd 接/v 正/a 多边形/n 的/u 周长/n □/w 和/c 直径/n ２/m Ｒ/ws 的/u 比值/n 就/d 越来越/d 接近/v 于/p 圆周/n 长/n Ｃ/ws 和/c 直径/n ２/m Ｒ/ws 的/u 比值/n ，/w 误差/n 越来越/d 小/a ，/w 只要/c 边数/n ｎ/ws 充分/a 大/a ，/w 误差/n 可以/vu 任意/d 地/u 小/a 。/w 
+		
+			
+                                        13
+                                     为了/p 说明/v ，/w 我们/r 先/d 证明/v 下列/v “/w 倍/n 边/n 公式/n ”/w 。/w 
+		
+			
+                                        14
+                                     设/v ⊙/w Ｏ/ws 的/u 半径/n 为/vl Ｒ/ws （/w 图/n ７/m －/w ８７/m ）/w 。/w 
+		
+			
+                                        15
+                                     圆/n 内/nd 接/v 正/a ｎ/ws 边/n 形/n 及/c 正/a ２/m ｎ/ws 边/n 形/n 的/u 边长/n 分别/d 为/vl □/w 及/c □/w 。/w 
+		
+			
+                                        16
+                                     因为/c 半径/n ＯＣ/ws 垂直/v 平分/v ＡＢ/ws ，/w 由/p 勾股/n 定理/n 可知/v ，/w □/w 。/w 
+		
+			
+                                        17
+                                     利用/v 这个/r 等式/n ，/w 半径/n 为/vl Ｒ/ws 的/u 圆/n 内/nd 接/v 正/a ６/m 、/w １２/m 、/w ２４/m 、/w …/w 边/n 形/n 的/u 边长/n 、/w 周长/n 以及/c 周长/n 与/c 直径/n 的/u 比/n ，/w 就/d 都/d 可以/vu 计算/v 出来/vd （/w 如/v 下/nd 页/q 表/n ）/w 。/w 
+		
+			
+                                        18
+                                     可以/vu 看出/v ，/w 每/r 一/m 个/q 圆/n 内/nd 接/v 正/a ｎ/ws 边/n 形/n 的/u 周长/n 和/c 直径/n 的/u 比/n （/w □/w ）/w 都/d 是/vl 与/c 半径/n Ｒ/ws 无关/v 的/u 常数/n ，/w 所以/c ，/w 圆/n 的/u 周长/n 和/c 直径/n 的/u 比/n （/w Ｃ/ws ／/w ２/m Ｒ/ws ）/w 也/d 是/vl 一/m 个/q 与/c Ｒ/ws 无关/v 的/u 常数/n ，/w 这个/r 常数/n 就是/v #32#/w 。/w 
+		
+			
+                                        19
+                                     这样/r ，/w 我们/r 就/d 得到/v 了/u 一/m 种/q 计算/v 圆周率/n #32#/w 的/u 近似/v 值/n 的/u 方法/n 。/w 
+		
+			
+                                        20
+                                     我国/n 古代/n 数学家/n 祖冲之/nh ，/w 在/p 公元/nt 五/m 世纪/nt 就/d 已/d 算/v 得/u #32#/w 的/u 值/n 在/p ３．１４１５９２６/m 与/c ３．１４１５９２７/m 之间/nd ，/w 比/p 其他/r 国家/n 早/a 一千/m 年/nt 左右/nd 。/w 
+		
+			
+                                        21
+                                     现代/n 利用/v 电子计算机/n ，/w 已/d 有人/r 把/p #32#/w 的/u 值/n 算/v 到/v 小数点/n 后/nd 几十万/m 位/q 。/w 
+		
+			
+                                        22
+                                     #32#/w 是/vl 一/m 个/q 无限/v 不/d 循环/v 小数/n ，/w 就是/d 说/v ，/w 是/vl 一/m 个/q 无理数/n 。/w 
+		
+			
+                                        23
+                                     由于/c Ｃ/ws ／/w ２/m Ｒ/ws ＝/w #32#/w ，/w 就/d 可/vu 得到/v 圆周/n 长/n 的/u 计算/v 公式/n □/w 。/w 
+		
+			
+                                        24
+                                     此外/n ，/w 我们/r 知道/v ，/w 如/v 图/n ７/m －/w ８８/m ，/w 边心距/n 为/vl □/w 、/w 周长/n 为/vl □/w 的/u 正/a ｎ/ws 边/n 形/n 的/u 面积/n □/w 等于/vu □/w 。/w 
+		
+			
+                                        25
+                                     在/p 半径/n 为/vl Ｒ/ws 的/u 圆/n 中/nd ，/w 当/p 内/nd 接/v 正/a 多边形/n 的/u 边数/n 不断/d 地/u 成倍/n 增加/v 时/nt ，/w 正/a 多边形/n 的/u 边心距/n □/w 越来越/d 接近/v 于/p 圆/n 的/u 半径/n Ｒ/ws ，/w 正/a 多边形/n 的/u 周长/n □/w 越来越/d 接近/v 于/p 圆周/n 长/n Ｃ/ws ，/w 而/c 正/a 多边形/n 的/u 面积/n Ｓｎ/ws 就/d 越来越/d 接近/v 于/p 圆/a 面积/n Ｓ/ws 。/w 
+		
+			
+                                        26
+                                     这样/r ，/w 从/p 正/a ｎ/ws 边/n 形/n 的/u 面积/n 公式/n □/w ，/w 就/d 可以/vu 得到/v 圆/a 面积/n 公式/n □/w 。/w 
+		
+			
+                                        27
+                                     在/p 房屋/n 建筑/n 、/w 水利/n 施工/v 、/w 零件/n 制造/v 、/w 机器/n 装配/v 检修/v 中/nd ，/w 都/d 是/vl 以/p 图纸/n 为/vl 依据/n 的/u 。/w 
+		
+			
+                                        28
+                                     搞/v 技术革新/v 、/w 搞/v 自动化/n 更/d 是/vl 离不开/v 图纸/n 。/w 
+		
+			
+                                        29
+                                     这/r 是/vl 因为/c 只/d 用/v 文字/n 语言/n ，/w 很/d 难/a 清楚/a 地/u 表达/v 出/vd 一/m 个/q 机器/n 的/u 结构/n 、/w 形状/n 和/c 大小/n ，/w 所以/c 图纸/n 是/vl 一/m 种/q 重要/a 的/u 技术/n 文件/n 。/w 
+		
+			
+                                        30
+                                     为了/p 学会/v 看/v 图纸/n 的/u 基本/n 技能/n ，/w 在/p 这/r 一/m 章/q 里/nd ，/w 我们/r 介绍/v 视图/n 的/u 一些/m 初步/n 知识/n 。/w 
+		
+			
+                                        31
+                                     ８/m ．/w １/m 视图/n  图/n ８/m －/w １/m 是/vl 工厂/n 里/nd 常见/v 的/u 一/m 个/q 机械/n 零件/n 的/u 直观/a 图/n ，/w 这/r 种/q 图/n 虽/c 富有/v 立体感/n ，/w 但/c 不/d 能/vu 准确/a 地/u 表示/v 出/vd 物体/n 各/r 部分/n 的/u 真实/a 形状/n 和/c 内部/nd 结构/n 。/w 
+		
+			
+                                        32
+                                     如/v 长方形/n 变成/v 了/u 平行/v 四边形/n ，/w 圆/n 变成/v 了/u 椭圆/n ，/w 并且/c 看/v 不/d 清/a 圆孔/n 的/u 深度/n ，/w 图形/n 各/r 部分/n 尺寸/n 也/d 有/v 了/u 变化/n 。/w 
+		
+			
+                                        33
+                                     因此/c ，/w 一般/a 不/d 根据/p 直观/a 图/n 来/vd 加工/v 零件/n ，/w 而/c 把/p 它/r 作为/v 辅助/v 图/n 来/vd 使用/v 。/w 
+		
+			
+                                        34
+                                     为了/p 准确/a 地/u 表示/v 物体/n 的/u 实际/a 形状/n 和/c 尺寸/n 大小/n ，/w 在/p 生产/v 中/nd 主要/d 采用/v 视图/n ，/w 视图/n 是/vl 用/p 投影/n 原理/n 画/v 出来/vd 的/u 。/w 
+		
+			
+                                        35
+                                     １/m ．/w 投影/n  投影/n 现象/n 广泛/a 地/u 存在/v 于/p 自然界/n 和/c 日常生活/n 中/nd ，/w 如/v 在/p 灯光/n 下/nd ，/w 将/p 两/m 手/n 交叉/v 握紧/v ，/w 墙/n 上/nd 就/d 会/vu 出现/v 象/v 动物/n 头部/n 的/u 影子/n （/w 图/n ８/m －/w ２/m ）/w ，/w 墙壁/n 是/vl 投影面/n ，/w 光线/n 是/vl 投射/v 线/n ，/w 影子/n 就是/v 手/n 在/p 墙/n 上/nd 的/u 投影/n ，/w 由于/c 灯光/n 的/u 光线/n 可以/vu 看作/v 是/vl 从/p 一点/m 发出/v 的/u ，/w 我们/r 称/v 这/r 种/q 投影/n 为/vl 中心/n 投影/n 。/w 
+		
+			
+                                        36
+                                     又/d 如/v 在/p 阳光/n 下/nd ，/w 树/n 的/u 影子/n 是/vl 树/n 在/p 地面/n 上/nd 的/u 投影/n ，/w 地面/n 是/vl 投影面/n ，/w 光线/n 是/vl 投射/v 线/n 。/w 
+		
+			
+                                        37
+                                     由于/c 太阳/n 的/u 光线/n 可/vu 看作/v 是/vl 平行/v 的/u ，/w 这时/nt ，/w 我们/r 称/v 这/r 种/q 投影/n 为/vl 平行/v 投影/n 。/w 
+		
+			
+                                        38
+                                     在/v 平行/v 投影/n 中/nd ，/w 如果/c 投射/v 线/n 垂直/v 于/p 投影面/n ，/w 那么/c 这/r 种/q 投影/n 就/d 称为/v 正/a 投影/n 。/w 
+		
+			
+                                        39
+                                     如/v 图/n ８/m －/w ３/m ，/w 一/m 块/q 三角/n 板/n 对于/p 投影面/n Ｈ/ws 平放/v 着/u ，/w 光线/n 垂直/v 于/p 投影面/n ，/w 这时/nt 三角/n 板/n 的/u 投影/n 与/c 它/r 本身/n 的/u 形状/n 、/w 大小/n 都/d 一样/a 。/w 
+		
+			
+                                        40
+                                     我们/r 看出/v ，/w 正/a 投影/n 能够/vu 反映/v 物体/n 的/u 真实/a 形状/n 和/c 大小/n 。/w 
+		
+			
+                                        41
+                                     因此/c ，/w 在/p 工程/n 技术/n 上/nd 使用/v 的/u 图纸/n ，/w 多/a 采用/v 正/a 投影/n 方法/n 绘制/v 。/w 
+		
+			
+                                        42
+                                     ２/m ．/w 正/a 投影/n 的/u 规律/n  （/w １/m ）/w 线段/n 的/u 正/a 投影/n  如/v 图/n ８/m －/w ４/m ，/w 点/n Ａ/ws 的/u 投影/n 为/vl 点/n Ａ/ws ′/w ，/w 记/v 作/v Ａ/ws →/w Ａ/ws ′/w ，/w 点/n Ｂ/ws 的/u 投影/n 为/vl 点/n Ｂ/ws ′/w ，/w 记/v 作/v Ｂ/ws →/w Ｂ/ws ′/w ；/w 线段/n ＡＢ/ws 的/u 投影/n 为/vl 线段/n Ａ/ws ′/w Ｂ/ws ′/w ，/w 记/v 作/v ＡＢ/ws →/w Ａ/ws ′/w Ｂ/ws ′/w 。/w 
+		
+			
+                                        43
+                                     当/p ＡＢ/ws 平行/v 于/p 投影面/n Ｈ/ws 时/nt ，/w Ａ/ws ′/w Ｂ/ws ′/w ＝/w ＡＢ/ws ，/w “/w 长/n 不变/v ”/w ；/w  当/p ＡＢ/ws 倾斜/v 于/p 投影面/n Ｈ/ws 时/nt ，/w Ａ/ws ′/w Ｂ/ws ′/w ＜/w ＡＢ/ws ，/w “/w 长/n 缩短/v ”/w ；/w  当/p ＡＢ/ws 垂直/v 于/p 投影面/n Ｈ/ws 时/nt ，/w Ａ/ws ′/w □/w Ｂ/ws ′/w ，/w “/w 成/v 一点/m ”/w 。/w 
+		
+			
+                                        44
+                                     由此/d 得到/v 线段/n 的/u 正/a 投影/n 规律/n ：/w □/w 。/w 
+		
+			
+                                        45
+                                     （/w ２/m ）/w 平面/n 形/n 的/u 正/a 投影/n  如/v 图/n ８/m －/w ５/m ，/w 平面/n 形/n Ｐ/ws （/w 即/vl 四边形/n ＡＢＣＤ/ws ）/w 在/p 投影面/n Ｈ/ws 上/nd 的/u 投影/n 为/vl 四边形/n Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w Ｄ/ws ′/w 。/w 
+		
+			
+                                        46
+                                     当/p 图形/n Ｐ/ws 平行/v 于/p 投影面/n Ｈ/ws 时/nt ，/w 四边形/n Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w Ｄ/ws ′/w ≌/w 四边形/n ＡＢＣＤ/ws ，/w “/w 形状/n 不变/v ”/w ；/w  当/p 图形/n Ｐ/ws 倾斜/v 于/p 投影面/n Ｈ/ws 时/nt ，/w “/w 形状/n 改变/v ”/w ；/w  当/p 图形/n Ｐ/ws 垂直/v 于/p 投影面/n 行/v 时/nt ，/w “/w 成/v 线段/n ”/w 。/w 
+		
+			
+                                        47
+                                     由此/d 得到/v 平面/n 形/n 的/u 正/a 投影/n 规律/n ：/w □/w 。/w 
+		
+			
+                                        48
+                                     （/w ３/m ）/w 几何/n 体/n 的/u 正/a 投影/n  一/m 个/q 正方/n 体/n 与/c 投影面/n Ｖ/ws 的/u 相对/v 位置/n 如/v 图/n ８/m －/w ６/m 所/u 示/v ，/w 正方/n 体/n 有/v 六/m 个/q 面/n ：/w 面/n Ｐ/ws 、/w Ｑ/ws 、/w Ｒ/ws 和/c 分别/d 与/c 它们/r 相对/v 的/u 三/m 个/q 面/n 。/w 
+		
+			
+                                        49
+                                     根据/p 平面/n 形/n 的/u 正/a 投影/n 规律/n ，/w 我们/r 可以/vu 得到/v 这/r 六/m 个/q 面/n 的/u 正/a 投影/n 。/w 
+		
+			
+                                        50
+                                     因为/c 面/n Ｐ/ws 、/w Ｑ/ws 及其/c 相对/v 的/u 面/n 都/d 与/p 投影面/n Ｖ/ws 垂直/v ，/w 就/d 有/v 面/n Ｐ/ws →/w Ａ/ws ′/w Ｂ/ws ′/w ，/w 面/n Ｐ/ws 相对/v 的/u 面/n →/w Ｄ/ws ′/w Ｃ/ws ′/w ；/w  面/n Ｑ/ws →/w Ｂ/ws ′/w Ｃ/ws ′/w ，/w 面/n Ｑ/ws 相对/v 的/u 面/n →/w Ａ/ws ′/w Ｄ/ws ′/w ；/w  面/n Ｒ/ws 及其/c 相对/v 的/u 面/n 平行/v 于/p 投影面/n Ｖ/ws ，/w 就/d 有/v 面/n Ｒ/ws →/w 正方形/n Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w Ｄ/ws ′/w ，/w 面/n Ｒ/ws 相对/v 的/u 面/n →/w 正方形/n Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w Ｄ/ws ′/w 。/w 
+		
+			
+                                        51
+                                     所以/c ，/w 正方/n 体/n 在/p 投影面/n Ｖ/ws 上/nd 的/u 正/a 投影/n 是/vl 正方形/n Ａ/ws ′/w Ｂ/ws ′/w Ｃ/ws ′/w Ｄ/ws ′/w 。/w 
+		
+			
+                                        52
+                                     物体/n 的/u 正/a 投影/n 称为/v 物体/n 的/u 视图/n 。/w 
+		
+			
+                                        53
+                                     物体/n 的/u 视图/n 与/c 物体/n 对于/p 投影/n 面/n 的/u 位置/n 有关/v ，/w 当/p 正方/n 体/n 在/v 如/v 图/n ８/m －/w ６/m 中/nd 的/u 位置/n 时/nt ，/w 它/r 在/p 投影面/n Ｖ/ws 上/nd 的/u 视图/n 是/vl 一/m 个/q 正方形/n 。/w 
+		
+			
+                                        54
+                                     而/c 在/p 其他/r 位置/n 时/nt 就/d 不/d 一定/d 是/vl 正方形/n 。/w 
+		
+			
+                                        55
+                                     １/m ．/w 举出/v 几/m 个/q 日常生活/n 中/nd 的/u 例子/n 说明/v 投影/n 概念/n 。/w 
+		
+			
+                                        56
+                                     ３/m ．/w 已知/v 长方/n 体/n 的/u 长/n 、/w 宽/n 、/w 高/n 分别/d 为/vl ３/m ｃｍ/ws 、/w ２/m ｃｍ/ws 、/w １/m ｃｍ/ws ，/w 说/v 出/vd 图/n 中/nl 所/u 示/v 方向/n 的/u 视图/n ，/w 并/d 用/p 平面/n 形/n 的/u 正/a 投影/n 规律/n 加以/v 说明/v 。/w 
+		
+			
+                                        57
+                                     ８/m ．/w ２/m 二/m 视图/n  １/m ．/w 二/m 视图/n 的/u 概念/n  当/p 一些/m 物体/n 或/c 零件/n 比较/d 复杂/a 时/nt ，/w 只/d 用/p 一/m 个/q 正/a 投影/n 图/n 很/d 难/a 把/p 它/r 的/u 形状/n 特征/n 表示/v 清楚/a ，/w 这时/nt 往往/d 需要/v 从/p 不同/a 的/u 投射/v 方向/n ，/w 把/p 物体/n 或/c 零件/n 投影/v 到/v 两/m 个/q 互相/d 垂直/v 的/u 投影面/n 上/nd ，/w 用/p 两/m 个/q 正/a 投影/n 图/n 来/vd 表示/v 它们/r 。/w 
+		
+			
+                                        58
+                                     下面/n 我们/r 来/vd 看/v 将/p 一/m 个/q 圆柱/n 放/v 在/p 互相/d 垂直/v 的/u 两/m 个/q 投影/n 面/n 间/nd 进行/v 正/a 投影/n 的/u 情形/n 。/w 
+		
+			
+                                        59
+                                     如/v 图/n ８/m －/w ７/m 所/u 示/v ，/w 在/p 正面/n 投影面/n Ｖ/ws 上/nd 的/u 视图/n 是/vl 一/m 个/q 矩形/n ，/w 长/n 等于/vu 圆柱/n 的/u 直径/n ，/w 高/n 等于/vu 圆柱/n 的/u 高/n ，/w 在/p 水平/n 投影面/n Ｈ/ws 上/nd 的/u 视图/n 是/vl 一/m 个/q 圆/n ，/w 它/r 与/c 圆柱/n 的/u 底/n 是/vl 等/v 圆/n 。/w 
+		
+			
+                                        60
+                                     将/p 圆柱/n 拿/v 走/v ，/w 把/p 水平/n 投影面/n Ｈ/ws 往/p 下/nd 转/v ９０&#176;/ws ，/w 使/v 投影面/n Ｈ/ws 与/c Ｖ/ws 在/p 同一/a 平面/n 上/nd ，/w 我们/r 就/d 得到/v 如/v 图/n ８/m －/w ８/m 所/u 示/v 的/u 图形/n 。/w 
+		
+			
+                                        61
+                                     在/p 水平/n 投影面/n Ｈ/ws 上/nd 所/u 得到/v 的/u 视图/n 称为/v 俯视/v 图/n 。/w 
+		
+			
+                                        62
+                                     主/f 视图/n 和/c 俯视/v 图/n 统称/v 为/vl 二/m 视图/n 。/w 
+		
+			
+                                        63
+                                     画/v 物体/n 的/u 二/m 视图/n 时/nt ，/w 主/f 视图/n 画/v 在/p 上面/nd ，/w 俯视/v 图画/n 在/p 它/r 的/u 下面/nd ，/w 而且/c 两/m 个/q 视图/n 要/vu 对正/v 。/w 
+		
+			
+                                        64
+                                     画/v 对称/a 形/n 物体/n 的/u 视图/n 时/nt ，/w 要/vu 先/d 画/v 物体/n 的/u 对称/a 轴线/n 或/c 中心/n 线/n ，/w 用/p 点/n 划线/v 表示/v 。/w 
+		
+			
+                                        65
+                                     现在/nt 我们/r 以/p 图/n ８/m －/w １/m 中/nd 的/u 零件/n 上/nd 半/m 部/n 为/vl 例/n ，/w 研究/v 这个/r 空心/n 圆柱/n 的/u 二/m 视图/n 。/w 
+		
+			
+                                        66
+                                     空心/n 圆柱/n 的/u 外形/n 是/vl 圆柱/n ，/w 空心/n 部分/n 也/d 是/vl 圆柱/n ，/w 所以/c 它/r 的/u 俯视/v 图/n 是/vl 两/m 个/q 同心圆/n ，/w 它/r 的/u 主/f 视图/n 是/vl 两/m 个/q 矩形/n 。/w 
+		
+			
+                                        67
+                                     如/v 图/n ８/m －/w ９/m 所/u 示/v ，/w 圆柱/n 的/u 外形/n 部分/n 是/vl 看/v 得/u 见/v 的/u ，/w 画/v 粗/a 实/a 线/n ；/w 圆柱/n 的/u 空心/n 部分/n 是/vl 看/v 不/d 见/v 的/u ，/w 画/v 虚线/n 。/w 
+		
+			
+                                        68
+                                     在/p 画/v 视图/n 时/nt 规定/v ，/w 看/v 得/u 见/v 部分/n 的/u 轮廓/n 线/n 画/v 粗/a 实/a 线/n ，/w 看/v 不/d 见/v 部分/n 的/u 轮廓/n 线/n 画/n 虚线/n 。/w 
+		
+			
+                                        69
+                                     每/r 一/m 个/q 视图/n 画/v 好/a 后/nd ，/w 都/d 要/vu 标注/v 尺寸/n ，/w 这样/r 便于/v 加工/v 。/w 
+		
+			
+                                        70
+                                     图纸/n 上/nd 不/d 具体/a 注明/v 尺寸/n 单位/n 的/u 都/d 是/vl 指/v ｍｍ/ws ，/w 如/v 图/n ８/m －/w ９/m ，/w 图/n 中/nd 高/n ５０/m 就是/v ５０/m ｍｍ/ws ，/w #42#/w ４０/m 就是/v 直径/n 为/vl ４０/m ｍｍ/ws 。/w 
+		
+			
+                                        71
+                                     根据/p 二/m 视图/n 的/u 画法/n 规则/n ，/w 圆锥/n 的/u 主/f 视图/n 是/vl 一/m 个/q 等腰/n 三角形/n ，/w 俯视/v 图/n 是/vl 一/m 个/q 圆/n 。/w 
+		
+			
+                                        72
+                                     圆锥/n 的/u 二/m 视图/n 的/u 具体/a 画法/n 如下/v ：/w  （/w １/m ）/w 画/v 出/vd 对称/a 轴线/n —/w —/w 点/n 划线/v ，/w 如/v 图/n ８/m －/w １０/m （/w ｂ/ws ）/w ；/w  （/w ２/m ）/w 画/v 出/vd 俯视/v 图/n ，/w 即/vl 画/v 直径/n 为/vl １８/m ｍｍ/ws 的/u 圆/n ，/w 如/v 图/n ８/m －/w １０/m （/w ｃ/ws ）/w ；/w  （/w ３/m ）/w 根据/p 主/f 视图/n 、/w 俯视/v 图/n 上下/n 长/n 对正/v 与/c 已知/v 圆锥/n 的/u 高/n 等于/vu ２４/m ｍｍ/ws ，/w 画/v 出/vd 等腰/n 三角形/n ，/w 如/v 图/n ８/m －/w １０/m （/w ｄ/ws ）/w ；/w  （/w ４/m ）/w 标注/v 尺寸/n ，/w 擦/v 去/vd 不/d 必要/a 的/u 辅助/v 线/n ，/w 如/v 图/n ８/m －/w １０/m （/w ｅ/ws ）/w 。/w 
+		
+			
+                                        73
+                                     再/d 如/v 画/v 圆台/n 的/u 二/m 视图/n ，/w 如/v 图/n ８/m －/w １１/m （/w ａ/ws ）/w ，/w 已知/v 圆台/n 上下/n 两/m 底/n 的/u 直径/n 分别/d 为/vl ２０/m ｍｍ/ws 和/c ４０/m ｍｍ/ws ，/w 高/n 为/vl ４０/m ｍｍ/ws ，/w 它/r 的/u 二/m 视图/n 的/u 画法/n 步骤/n 与/c 圆锥/n 二/m 视图/n 的/u 画法/n 相同/a ，/w 具体/a 画法/n 如/v 图/n ８/m －/w １１/m （/w ｂ/ws ）/w 、/w （/w ｃ/ws ）/w 、/w （/w ｄ/ws ）/w 、/w （/w ｅ/ws ）/w ，/w 由/p 同学/n 自己/r 分析/v 。/w 
+		
+			
+                                        74
+                                     画图/v 时/nt ，/w 可以/vu 根据/p 实物/n 的/u 大小/n 和/c 其/r 结构/n 的/u 复杂/a 程度/n ，/w 用/p 一定/a 的/u 比例尺/n 进行/v 放大/v 或/c 缩小/v 。/w 
+		
+			
+                                        75
+                                     加工/v 零件/n 时/nt ，/w 以/p 图/n 上/nd 的/u 尺寸/n 数字/n 为/vl 准/a 。/w 
+		
+			
+                                        76
+                                     ２/m ．/w 说/v 出/vd 下列/v 几何/n 体/n 的/u 二/m 视图/n 。/w 
+		
+			
+                                        77
+                                     ２/m ．/w 画/v 出/vd 下列/v 几何/n 体/n 在/p 指定/v 方向/n 的/u 视图/n 。/w 
+		
+			
+                                        78
+                                     ３/m ．/w 画/v 出/vd 底/n 面/n 半径/n 为/vl １５/m ｍｍ/ws ，/w 高/n 为/vl ３０/m ｍｍ/ws 的/u 圆柱/n 的/u 二/m 视图/n 。/w 
+		
+			
+                                        79
+                                     画/v 出/vd 下列/v 几何/n 体/n 的/u 二/m 视图/n 。/w 
+		
+			
+                                        80
+                                     ８/m ．/w ３/m 三/m 视图/n  １/m ．/w 三/m 视图/n 的/u 概念/n  有/v 两/m 个/q 大小/n 一样/a 的/u 正方/n 体/n ，/w 棱/n 长/n 为/vl ４０/m ｍｍ/ws ，/w 分别/d 切/v 去/vd 一/m 块/q ，/w 如/v 图/n ８/m －/w １２/m 所/u 示/v 。/w 
+		
+			
+                                        81
+                                     如果/c 根据/p 指定/v 的/u 方向/n 画/v 它们/r 的/u 二/m 视图/n ，/w 两/m 个/q 几何/n 体/n 的/u 二/m 视图/n 是/vl 完全/d 一样/a 的/u 。/w 
+		
+			
+                                        82
+                                     可见/c ，/w 对于/p 一些/m 比较/d 复杂/a 的/u 几何/n 体/n ，/w 当/p 用/v 二/m 视图/n 不/d 能/vu 反映/v 它/r 的/u 形状/n 和/c 大小/n 时/nt ，/w 往往/d 需要/v 画/v 三/m 个/q 视图/n 或者/d 更/d 多/a 的/u 视图/n 。/w 
+		
+			
+                                        83
+                                     这里/r 我们/r 只/d 介绍/v 三/m 视图/n 。/w 
+		
+			
+                                        84
+                                     如/v 图/n ８/m －/w １３/m ，/w 三/m 视图/n 是/vl 一/m 个/q 几何/n 体/n 在/p 三/m 个/q 互相/d 垂直/v 的/u 投影面/n 上/nd 同时/d 进行/v 正/a 投/v 影/n 所得/v 的/u 三/m 个/q 视图/n 。/w 
+		
+			
+                                        85
+                                     除了/p 在/p 正面/n 投影面/n Ｖ/ws 和/c 水平/n 投影面/n Ｈ/ws 上/nd 的/u 视图/n 外/nd ，/w 还/d 增加/v 了/u 在/p 侧面/n 投影面/n Ｗ/ws 上/nd 的/u 视图/n 。/w 
+		
+			
+                                        86
+                                     物体/n 在/p 侧面/n 投影面/n Ｗ/ws 上/nd 的/u 视图/n 称为/v 左/nd 视图/n 。/w 
+		
+			
+                                        87
+                                     主/f 视图/n 、/w 俯视/v 图/n 和/c 左/nd 视图/n 统称/v 为/vl 三/m 视图/n 。/w 
+		
+			
+                                        88
+                                     在/p 几何/n 体/n 拿/v 走/v 后/nd ，/w 把/p 投影面/n Ｈ/ws 向/p 下/nd 转/v ９０&#176;/ws ，/w 投影面/n Ｗ/ws 向/p 后/nd 转/v ９０&#176;/ws ，/w 使/v 三/m 个/q 投影面/n 摊平/v ，/w 三/m 个/q 视图/n 就/d 在/p 同/v 一/m 个/q 平面/n 上/nd ，/w 如/v 图/n ８/m －/w １４/m 。/w 
+		
+			
+                                        89
+                                     三/m 视图/n 的/u 位置/n 是/vl ，/w 俯视/v 图/n 在/v 主/f 视图/n 的/u 下面/n ，/w 左/nd 视图/n 在/p 主/f 视图/n 的/u 右面/nd 。/w 
+		
+			
+                                        90
+                                     主/f 视图/n 反映/v 出/vd 物体/n 的/u 长/n 和/c 高/n ，/w 俯视/v 图/n 反映/v 出/vd 物体/n 的/u 长/n 和/c 宽/n ，/w 左/nd 视图/n 反映/v 出/vd 物体/n 的/u 高/n 和/c 宽/n 。/w 
+		
+			
+                                        91
+                                     因此/c ，/w 三/m 视图/n 的/u 画法/n 规则/n 可以/vu 归结/v 为/vl  ２/m ．/w 三/m 视图/n 的/u 画法/n  我们/r 以/p 图/n ８/m －/w １５/m （/w ａ/ws ）/w 中/nd 的/u 物体/n 为/vl 例/n ，/w 说明/v 三/m 视图/n 的/u 画法/n ，/w 画图/v 步骤/n 如下/v ：/w  （/w １/m ）/w 先/d 画/v 辅助/v 轴线/n ＸＹ/ws 、/w ＹＺ/ws （/w 图/n 画/v 好/a 后/nd 可/vu 擦掉/v ）/w ；/w  （/w ２/m ）/w 确定/v 主/f 视图/n 的/u 位置/n ，/w 画/v 出/vd 主/f 视图/n ；/w  （/w ３/m ）/w 根据/p “/w 长/n 对/v 正/a ”/w 与/c 物体/n 的/u 宽度/n 画/v 出/vd 俯视/v 图/n ；/w  （/w ４/m ）/w 再/d 根据/p “/w 高/a 平/a 齐/a ”/w 与/c “/w 宽/a 相等/v ”/w 画/v 出/vd 左/nd 视图/n （/w 宽度/n ，/w 可/vu 通过/p 以/p 点/n Ｏ/ws 为/vl 中心/n 的/u 旋转/v 画/v 出/vd ）/w ；/w  （/w ５/m ）/w 标注/v 尺寸/n ，/w 擦/v 去/vd 不/d 必要/a 的/u 辅助/v 线/n 。/w 
+		
+			
+                                        92
+                                     为了/p 正确/a 表达/v 零件/n 的/u 内外/nd 形状/n ，/w 使/v 图/n 面/n 清楚/a 易/a 读/v ，/w 绘图/v 中/nd 使用/v 的/u 图/n 线/n ，/w 即/vl 线型/n ，/w 应/vu 符合/v 统一/a 标准/n ：/w 轮廓/n 线/n 用/v 粗/a 实/a 线/n ，/w 看/v 不/d 见/v 部分/n 的/u 轮廓/n 线/n 用/v 虚线/n ，/w 尺寸/n 线/n 、/w 尺寸/n 界线/n 用/v 细/a 实/a 线/n ，/w 对称/a 轴线/n 用/p 点/n 划线/v ，/w 等等/u （/w 见/v 本/r 章/n 附录/n ）/w 。/w 
+		
+			
+                                        93
+                                     ８/m ．/w ４/m 简单/a 几何/n 体/n 的/u 三/m 视图/n  在/p 生产/v 中/nd 所/u 遇到/v 的/u 零件/n ，/w 形状/n 虽然/c 各/r 不/d 相同/a ，/w 但/c 它们/r 一般/a 是/vl 由/p 一些/m 简单/a 几何/n 体/n （/w 柱体/n 、/w 锥体/n 、/w 台体/n 和/c 球体/n 等/u ）/w 组合/v 或/c 切割/v 而/c 成/v 的/u 。/w 
+		
+			
+                                        94
+                                     因此/c 熟悉/v 简单/a 几何/n 体/n 的/u 视图/n 是/vl 非常/d 必要/a 的/u ，/w 同时/c 这些/r 视图/n 又/d 是/vl 工程/n 、/w 机械/n 等/u 制图/v 、/w 识/v 图/n 的/u 基础/n 。/w 
+		
+			
+                                        95
+                                     前面/nd 已/d 学/v 了/u 一/m 部分/n 简单/a 几何/n 体/n 的/u 视图/n ，/w 这里/r 再/d 介绍/v 棱柱/n 、/w 棱锥/n 、/w 棱台/n 的/u 三/m 视图/n 。/w 
+		
+			
+                                        96
+                                     １/m ．/w 棱柱/n 的/u 三/m 视图/n  画/v 简单/a 体/n 的/u 三/m 视图/n ，/w 一般/a 先/d 画/v 底/n 。/w 
+		
+			
+                                        97
+                                     以/p 正/a 六/m 棱柱/n 的/u 三/m 视图/n 为/vl 例/vl ，/w 如果/c 正/a 六/m 棱柱/n 如/v 图/n ８/m －/w １６/m （/w ａ/ws ）/w 这样/r 放置/v ，/w 那么/c 应该/vu 先/d 画/v 俯视/v 图/n ，/w 然后/c 再/d 画/v 其他/r 的/u 视图/n 。/w 
+		
+			
+                                        98
+                                     具体/a 画法/n 同/p 前面/nd 的/u 三/m 视图/n 画法/n 类似/a ，/w 同学/n 们/k 可/vu 按/p 图/n ８/m －/w １６/m （/w ｂ/ws ）/w 、/w （/w ｃ/ws ）/w 、/w （/w ｄ/ws ）/w 一/m 步/n 步/n 自行/d 分析/v 。/w 
+		
+			
+                                        99
+                                     描/v 好/a 轮廓/n 线/n 后/nd ，/w 擦/v 去/vd 不/d 必要/a 的/u 辅助/v 线/n ，/w 再/d 标注/v 尺寸/n （/w 图/n ８/m －/w １６/m （/w ｅ/ws ）/w ）/w ，/w 这样/r ，/w 一/m 张/q 图/n 才/d 算/v 完成/v 。/w 
+		
+			
+                                        100
+                                     如果/c 正/a 六/m 棱柱/n 如/v 图/n ８/m －/w １７/m 这样/r 放置/v ，/w 这时/nt 画/v 三/m 视图/n 应/vu 先/d 画/v 主/f 视图/n ，/w 然后/c 再/d 画/v 其他/r 视图/n ，/w 具体/a 画法/n 与/p 上面/nd 一样/a 。/w 
+		
+			
+                                        101
+                                     六/m 角/n 螺母/n 毛坯/n 的/u 三/m 视图/n ，/w 可以/vu 看作/v 正/a 六/m 棱柱/n 和/c 圆柱/n 的/u 两/m 个/q 三/m 视图/n 的/u 组合/v ，/w 如/v 图/n ８/m －/w １８/m 。/w 
+		
+			
+                                        102
+                                     因为/c 孔/n 的/u 轮廓/n 线/n 是/vl 看/v 不/d 见/v 的/u ，/w 所以/c 在/p 主/f 视图/n 与/c 左/nd 视图/n 上/nd 都/d 要/vu 画/v 虚线/n 。/w 
+		
+			
+                                        103
+                                     ２/m ．/w 棱锥/n 、/w 棱台/n 的/u 三/m 视图/n  棱锥/n 与/c 棱台/n 的/u 视图/n 画法/n 与/c 棱柱/n 的/u 视图/n 画法/n 是/vl 一样/a 的/u ，/w 也/d 是/vl 先/d 画/v 底/n 的/u 视图/n ，/w 然后/c 根据/p 三/m 视图/n 规律/n 画/v 出/vd 其他/r 的/u 视图/n 。/w 
+		
+			
+                                        104
+                                     这里/r 的/u 画法/n 请/v 同学/n 们/k 自行/d 分析/v 。/w 
+		
+			
+                                        105
+                                     为了/p 便于/v 同学/n 们/k 考虑/v ，/w 图/n 中/nd 的/u 辅助/v 线/n 都/d 保留/v 着/u 。/w 
+		
+			
+                                        106
+                                     底/n 面/n 边长/n 为/vl ３０/m ｍｍ/ws 、/w 高/n 为/vl ３０/m ｍｍ/ws 的/u 正/a 三/m 棱锥/n 的/u 三/m 视图/n ，/w 如/v 图/n ８/m －/w １９/m 所/u 示/v 。/w 
+		
+			
+                                        107
+                                     上/nd 底/n 面/n 边长/n 为/vl ２０/m ｍｍ/ws ，/w 下/nd 底/n 面/n 边长/n 为/vl ４０/m ｍｍ/ws ，/w 高/n 为/vl ３０/m ｍｍ/ws 的/u 正/a 四/m 棱台/n 的/u 三/m 视图/n ，/w 如/v 图/n ８/m －/w ２０/m 所/u 示/v 。/w 
+		
+			
+                                        108
+                                     视图/n 要求/v 简明扼要/i ，/w 通常/d 要/vu 使/v 主/f 视图/n 能/vu 比较/d 全面/a 地/u 反映/v 物体/n 的/u 特征/n ，/w 而且/c 在/p 不/d 影响/v 表达/v 清楚/a 的/u 前提/n 下/nd ，/w 可以/vu 省略/v 左/nd 视图/n 或/c 俯视/v 图/n 。/w 
+		
+			
+                                        109
+                                     如/v 球/n 、/w 圆柱/n 等/u 旋转/v 体/n 在/p 图纸/n 中/nd 常用/v 一/m 个/q 视图/n 来/vd 表示/v （/w 如/v 图/n ８/m －/w ２１/m （/w ａ/ws ）/w 、/w （/w ｂ/ws ）/w ）/w ；/w 棱柱/n 、/w 棱锥/n 、/w 棱台/n 等/u 几何/n 体/n ，/w 常用/v 二/m 视图/n 来/vd 表示/v 。/w 
+		
+			
+                                        110
+                                     当然/d 也/d 有些/r 复杂/a 的/u 零件/n 用/p 三/m 视图/n 还/d 不/d 能够/vu 清楚/a 地/u 表示/v 出来/vd ，/w 需要/v 用/p 其他/r 的/u 视图/n 加以/v 补充/v ，/w 这里/r 不再/d 详细/a 说明/v 了/u 。/w 
+		
+			
+                                        111
+                                     试/v 画/v 出/vd 一/m 个/q 铸件/n 的/u 三/m 视图/n ，/w 尺寸/n 如/v 图/n （/w 铸件/n 上面/nd 是/vl 一/m 个/q 圆柱/n ，/w 下面/n 也/d 是/vl 一/m 个/q 圆柱/n ，/w 中间/nd 挖/v 去/vd 一/m 个/q 直径/n 为/vl ２００/m ｍｍ/ws 的/u 圆柱/n ，/w 直通/v 到底/v ）/w 。/w 
+		
+			
+                                        112
+                                     （/w 提示/v ：/w 用/p 适当/a 的/u 比例尺/n 画图/v ，/w 尺寸/n 仍/d 注/v 原件/n 实际/a 尺寸/n 。/w 
+		
+			
+                                        113
+                                     ）/w  ２/m ．/w 以/p 比例尺/n １．５/m ∶/w １/m 画/v 出/vd 下列/v 零件/n 的/u 三/m 视图/n （/w 提示/v ：/w 比例尺/n １．５/m ∶/w １/m 就是/d 放大/v 成/v 原来/f 的/u １．５倍/m ）/w 。/w 
+		
+			
+                                        114
+                                     一/m 、/w 视图/n 是/vl 利用/v 正/a 投影/n 的/u 原理/n 画/v 出/vd 的/u 。/w 
+		
+			
+                                        115
+                                     正/a 投影/n 的/u 概念/n 是/vl 从/p 日常/f 生活/n 中/nd 的/u “/w 影子/n ”/w 加以/v 科学/n 的/u 抽象/a 而/c 得出/v 的/u 。/w 
+		
+			
+                                        116
+                                     正/a 投影/n 与/c 光线/n 下/nd 物体/n 的/u “/w 影子/n ”/w 是/vl 有/v 区别/v 的/u ，/w 它/r 不/d 是/vl 黑/a 的/u 阴影/n ，/w 而是/c 通过/p 规定/v 的/u 线型/n 来/vd 表现/v 的/u ，/w 无论/c 是/vl 看/v 得/u 见/v ，/w 或/c 看/v 不/d 见/v 的/u 轮廓/n 线/n ，/w 都/d 要/vu 在/p 图/n 上/nd 反映/v 出来/vd 。/w 
+		
+			
+                                        117
+                                     如/v 图/n ８/m －/w ２２/m ，/w 左/nd 图/n 是/vl 一般/a 的/u “/w 影子/n ”/w ，/w 右/nd 图/n 是/vl 正/a 投影/n 。/w 
+		
+			
+                                        118
+                                     在/p 阳光/n 下/nd 射线/n 与/c 投影面/n 垂直/v 是/vl 很/d 少/a 见/v 的/u ，/w 但/c 正/a 投影/n 概念/n 里/nd 投射/v 线/n 与/c 影/n 面/n 是/vl 垂直/v 的/u 。/w 
+		
+			
+                                        119
+                                     二/m 、/w 平面/n 形/n 的/u 正/a 投影/n 是/vl 画/v 简单/a 几何/n 体/n 视图/n 的/u 基础/n ，/w 平面/n 形/n 的/u 正/a 投影/n 规律/n 是/vl ：/w 平行/v 形/n 不/d 变/v ，/w 倾斜/v 形/n 改变/v ，/w 垂直/v 成/v 线段/n 。/w 
+		
+			
+                                        120
+                                     三/m 、/w 一些/m 形状/n 复杂/a 的/u 物体/n 可以/vu 看成/v 是/vl 由/p 简单/a 体/n 切割/v 和/c 组合/v 而/c 成/v 的/u ，/w 掌握/v 了/u 简单/a 体/n 的/u 画法/n 规则/n 后/nd ，/w 就/d 容易/a 掌握/v 这些/r 复杂/a 形体/n 的/u 画法/n 规则/n 。/w 
+		
+			
+                                        121
+                                     二/m 视图/n 是/vl 学习/v 三/m 视图/n 的/u 基础/n 。/w 
+		
+			
+                                        122
+                                     对于/p 三/m 视图/n 要/vu 注意/v ：/w 长/a 对/v 正/a ，/w 宽/a 相等/v ，/w 高/a 平/a 齐/a 。/w 
+		
+			
+                                        123
+                                     四/m 、/w 画/v 视图/n 时/nt ，/w 要/vu 注意/v 正确/a 运用/v 线型/n ，/w 正确/a 标注/v 尺寸/n ，/w 同时/c 要/vu 根据/p 比例尺/n 画图/v 。/w 
+		
+			
+                                        124
+                                     为了/p 清晰/a 、/w 正确/a 地/u 表示/v 视图/n 的/u 轮廓/n 与/c 大小/n ，/w 图纸/n 上/nd 所/u 用/v 的/u 线型/n 与/c 尺寸/n 标注/n ，/w 有/v 统一/a 的/u 标准/n ，/w 现/d 将/p 有关/v 部分/n 简单/a 介绍/v 如下/v ：/w  １/m ．/w 视图/n 中/nd 的/u 线型/n  ２/m ．/w 尺寸/n 注法/n  每/r 注/v 一/m 个/q 尺寸/n 时/nt ，/w 都/d 要/vu 包括/v 下列/v 四/m 个/q 要素/n ：/w 尺寸/n 界线/n 、/w 尺寸/n 线/n 、/w 箭头/n 和/c 尺寸/n 数字/n ，/w 如/v 图/n ８/m －/w ２３/m 。/w 
+		
+			
+                                        125
+                                     视图/n 上/nd 所/u 标注/v 的/u 尺寸/n 是/vl 物体/n 的/u 真实/a 大小/n ，/w 与/c 绘图/v 采用/v 的/u 比例尺/n 无关/v ，/w 不/d 标明/v 单位/n 时/nt ，/w 是/vl 指/v ｍｍ/ws 。/w 
+		
+			
+                                        126
+                                     长度/n 仅/d 用/p 数字/n 表示/v ，/w 圆/n 的/u 半径/n 在/p 数字/n 前/nd 加/v “/w Ｒ/ws ”/w ，/w 圆/n 的/u 直径/n 在/p 数字/n 前/nd 加/v “/w #42#/w ”/w ，/w 球/n 的/u 直径/n 在/p 数字/n 前/nd 加/v “/w 球/n #42#/w ”/w 表示/v 。/w 
+		
+			
+                                        127
+                                     （/w １/m ）/w 线段/n 的/u 尺寸/n 注法/n  尺寸/n 线/n 必须/d 与/c 所/u 注/v 的/u 轮廓/n 线段/n 平行/v ，/w 尺寸/n 界线/n 垂直/v 于/p 被/p 标注/v 的/u 线段/n 。/w 
+		
+			
+                                        128
+                                     水平/n 尺寸/n 数字/n 从/p 左/nd 到/v 右/nd ，/w 铅/n 直/a 尺寸/n 数字/n 从/p 下/nd 到/v 上/nd ，/w 如/v 图/n ８/m －/w ２３/m 。/w 
+		
+			
+                                        129
+                                     这/r 一/m 章/n 中/nd ，/w 我们/r 将/p 以/p 实验/n 所/u 揭示/v 出/vd 的/u 微观/n 粒子/n 的/u 波/n 粒/n 二/m 象/n 性/k 为/vl 根据/n ，/w 引进/v 描述/v 微观/n 粒子/n 状态/n 的/u 波/n 函数/n ，/w 讨论/v 波/n 函数/n 的/u 性质/n ，/w 建立/v 非/h 相对论/n 量子力学/n 的/u 基本/a 方程/n -/w -/w 薛定谔/nh （/w Ｓｃｈｒ/ws □/w ｄｉｎｇｅｒ/ws ）/w 方程/n ，/w 并/c 把/p 这/r 方程/n 应用/v 到/v 几个/mq 比较/d 简单/a 的/u 力学/n 体系/n 中/nd 去/v ，/w 求出/v 方程/n 的/u 解/n 和/c 阐明/v 这些/r 解/n 的/u 物理/n 意义/n 。/w 
+		
+			
+                                        130
+                                     上/nd 一/m 章/n 中/nd 我们/r 已/d 看到/v ，/w 为了/p 表示/v 微观/n 粒子/n （/w 以后/nt 简称/n 粒子/n ）/w 的/u 波/n 粒/n 二/m 象/n 性/k ，/w 可以/vu 用/v 平面/n 波/n 来/vd 描写/v 自由/a 粒子/n ，/w 平面/n 波/n 的/u 频率/n 和/c 波长/n 与/p 自由/a 粒子/n 的/u 能量/n 和/c 动量/n 由/p 德布罗意/n 关系/n （/w １/m ．/w ４/m －/w １/m ）/w 、/w （/w １/m ．/w ４/m －/w ２/m ）/w 联系/v 起来/vd 。/w 
+		
+			
+                                        131
+                                     平面/n 波/n 的/u 频率/n 和/c 波/n 矢/n 都/d 是/vl 不/d 随/p 时间/n 或/c 位置/n 改变/v 的/u ，/w 这/r 和/p 自由/a 粒子/n 的/u 能量/n 和/p 动量/n 不/d 随/p 时间/n 或/c 位置/n 改变/v 相/d 对应/v 。/w 
+		
+			
+                                        132
+                                     如果/c 粒子/n 受到/v 随/p 时间/n 或/c 位置/n 变化/v 的/u 力场/n 的/u 作用/n ，/w 它/r 的/u 动量/n 和/c 能量/n 不再/d 是/vl 常/a 量/n ，/w 这时/r 粒子/n 就/d 不能/vu 用/v 平面/n 波/n 来/vd 描写/v ，/w 而/c 必须/d 用/v 较/d 复杂/a 的/u 波/n 来/vd 描写/v 。/w 
+		
+			
+                                        133
+                                     在/p 一般/a 情况/n 下/nd ，/w 我们/r 用/p 一个/mq 函数/n 表示/v 描写/v 粒子/n 的/u 波/n ，/w 并称/v 这个/r 函数/n 为/vl 波/n 函数/n 。/w 
+		
+			
+                                        134
+                                     它/r 是/vl 一个/mq 复数/n 。/w 
+		
+			
+                                        135
+                                     描写/v 自由/a 粒子/n 的/u 德布罗意/n 平面/n 波/n 是/vl 波/n 函数/n 的/u 一个/mq 特例/n 。/w 
+		
+			
+                                        136
+                                     对/p 这个/r 问题/n 曾经/d 有/v 过/u 各种/r 不同/a 的/u 看法/n 。/w 
+		
+			
+                                        137
+                                     例如/v ，/w 有人/r 认为/v 波/n 是/vl 由/p 它/r 所/u 描写/v 的/u 粒子/n 组成/v 的/u 。/w 
+		
+			
+                                        138
+                                     这/r 种/q 看法/n 是/vl 不/d 正确/a 的/u 。/w 
+		
+			
+                                        139
+                                     我们/r 知道/v ，/w 衍射/v 现象/n 是/vl 由/p 波/n 的/u 干涉/v 而/c 产生/v 的/u ，/w 如果/c 波/n 真/d 是/vl 由/p 它/r 所/u 描写/v 的/u 粒子/n 所/u 组成/v ，/w 则/c 粒子/n 流/v 的/u 衍射/v 现象/n 应当/vu 是/vl 由于/c 组成/v 波/n 的/u 这些/r 粒子/n 相互作用/v 而/c 形成/v 的/u 。/w 
+		
+			
+                                        140
+                                     但/c 事实/n 证明/v ，/w 在/p 粒子/n 流/v 衍射/v 实验/n 中/nd ，/w 照/v 象/n 上/nd 所/u 显示/v 出来/vd 的/u 衍射/v 图样/n 和/p 入/v 射/v 粒子/n 流/v 强度/n 无关/v ，/w 也就是说/c 和/p 单位/n 体积/n 中/nd 粒子/n 的/u 数目/n 无关/v 。/w 
+		
+			
+                                        141
+                                     如果/c 减小/v 入/v 射/v 粒子/n 流/v 强度/n ，/w 同时/c 延长/v 实验/n 的/u 时间/n ，/w 使/v 投射/v 到/v 照/v 象片/n 上/nd 粒子/n 的/u 总数/n 保持/v 不变/v ，/w 则/c 得到/v 的/u 衍射/v 图样/n 将/d 完全/a 相同/a 。/w 
+		
+			
+                                        142
+                                     即使/c 把/p 粒子/n 流/v 强度/n 减小/v 到/v 使得/v 粒子/n 一个/mq 一个/mq 地/u 被/p 衍射/v ，/w 只要/vu 经过/p 足够/a 长/a 的/u 时间/n ，/w 所/u 得到/v 的/u 衍射/v 图样/n 也/d 还是/d 一样/a 。/w 
+		
+			
+                                        143
+                                     这/r 说明/v 每/r 一个/mq 粒子/n 被/p 衍射/v 的/u 现象/n 和/p 其他/r 粒子/n 无关/v ，/w 衍射/v 图样/n 不是/vl 由/p 粒子/n 之间/nd 的/u 相互作用/v 而/c 产生/v 的/u 。/w 
+		
+			
+                                        144
+                                     除了/p 上面/nd 这个/r 看法/n 外/nd ，/w 还有/v 其他/r 一些/m 企图/v 解释/v 波/n 函数/n 的/u 尝试/v ，/w 但/c 都/d 因/c 与/c 实验/n 事实/n 不符/v 而/c 被/p 否定/v 。/w 
+		
+			
+                                        145
+                                     为/p 人们/n 所/u 普遍/a 接受/v 的/u 对于/p 波/n 函数/n 的/u 解释/v ，/w 是/vl 由/p 玻恩/nh （/w Ｂｏｒｎ/ws ）/w 首先/d 提出/v 的/u 。/w 
+		
+			
+                                        146
+                                     为了/p 说明/v 玻恩/nh 的/u 解释/v ，/w 我们/r 仍/d 考察/v 上述/v 粒子/n 衍射/v 实验/n 。/w 
+		
+			
+                                        147
+                                     如果/c 入/v 射/v 电子/n 流/v 的/u 强度/n 很/d 大/a ，/w 即/d 单位/n 时间/n 内/nd 有/v 许多/a 电子/n 被/p 晶体/n 反射/v ，/w 则/c 照片/n 上/nd 很快/a 就/d 出现/v 衍射/v 图样/n 。/w 
+		
+			
+                                        148
+                                     如果/c 入/v 射/v 电子/n 流/v 强度/n 很/d 小/a ，/w 电子/n 一个/mq 一个/mq 地/u 从/p 晶体/n 表面上/nl 反射/v ，/w 这时/r 照片/n 上/nd 就/d 出现/v 一个/mq 一个/mq 的/u 点子/n ，/w 显示/v 出/vd 电子/n 的/u 微粒/n 性/k 。/w 
+		
+			
+                                        149
+                                     这些/r 点子/n 在/p 照片/n 上/nd 的/u 位置/n 并不/d 都/d 是/vl 重合/v 在/p 一起/d 的/u 。/w 
+		
+			
+                                        150
+                                     开始/v 时/nt ，/w 它们/r 看起来/v 似乎/d 是/vl 毫无/v 规则/n 地/u 散布/v 着/u ，/w 随着/p 时间/n 的/u 延长/v ，/w 点子/n 数目/n 逐渐/d 增多/v ，/w 它们/r 在/p 照片/n 上/nd 的/u 分布/v 就/d 形成/v 了/u 衍射/v 图样/n ，/w 显示/v 出/vd 电子/n 的/u 波动/v 性/k 。/w 
+		
+			
+                                        151
+                                     由此可见/i ，/w 实验/n 所/u 显示/v 的/u 电子/n 的/u 波动/v 性/k 是/vl 许多/a 电子/n 在/p 同一/a 实验/n 中/nd 的/u 统计/v 结果/n ，/w 或者/c 是/vl 一个/mq 电子/n 在/p 许多/a 次/q 相同/a 实验/n 中/nd 的/u 统计/v 结果/n 。/w 
+		
+			
+                                        152
+                                     波/n 函数/n 正是/vl 为/p 描写/v 粒子/n 的/u 这/r 种/q 行为/n 而/c 引进/v 的/u 。/w 
+		
+			
+                                        153
+                                     玻恩/nh 就是/d 在/p 这个/r 基础上/nl ，/w 提出/v 了/u 波/n 函数/n 的/u 统计/v 解释/v ，/w 即/d ：/w 波/n 函数/n 在/p 空间/n 中/nd 某/r 一点/mq 的/u 强度/n （/w 振/v 幅/n 绝对值/n 的/u 平方/q ）/w 和/c 在/p 该/vu 点/n 找到/v 粒子/n 的/u 几率/n 成/v 比例/n 。/w 
+		
+			
+                                        154
+                                     按照/p 这/r 种/q 解释/v ，/w 描写/v 粒子/n 的/u 波/n 乃是/vl 几率/n 波/n 。/w 
+		
+			
+                                        155
+                                     现在/nt 我们/r 根据/p 对/p 波/n 函数/n 的/u 这/r 种/q 统计/v 解释/v 再/d 来/vd 看看/v 衍射/v 实验/n 。/w 
+		
+			
+                                        156
+                                     粒子/n 被/p 晶体/n 反射/v 后/nd ，/w 描写/v 粒子/n 的/u 波/n 发生/v 衍射/v ，/w 在/p 照片/n 的/u 衍射/v 图样/n 中/nd ，/w 有/v 许多/a 衍射/v 极/d 大/a 和/c 衍射/v 极/d 小/a 。/w 
+		
+			
+                                        157
+                                     在/p 衍射/v 极/d 大/a 的/u 地方/n ，/w 波/n 的/u 强度/n 大/a ，/w 每个/r 粒子/n 投射/v 到/v 这里/r 的/u 几率/n 也/d 大/a ，/w 因而/c 投射/v 到/v 这里/r 的/u 粒子/n 多/a ；/w 在/p 衍射/v 极/d 小/a 的/u 地方/n ，/w 波/n 的/u 强度/n 很/d 小/a 或/c 等于/v 零/m ，/w 粒子/n 投射/v 到/v 这里/r 的/u 几率/n 也/d 很/d 小/a 或/c 等于/v 零/m ，/w 因而/c 投射/v 到/v 这里/r 的/u 粒子/n 很少/a 或者/d 没有/v 。/w 
+		
+			
+                                        158
+                                     知道/v 了/u 描写/v 微观/n 体系/n （/w 如/v 在/p 晶体/n 上/nd 反射/v 后/nd 的/u 电子/n ）/w 的/u 波/n 函数/n 后/nd ，/w 由/p 波/n 函数/n 振/v 幅/n 绝对值/n 的/u 平方/q ，/w 就/d 可以/vu 得出/v 粒子/n 在/p 空间/n 任意/d 一点/mq 出现/v 的/u 几率/n 。/w 
+		
+			
+                                        159
+                                     以后/nt 我们/r 将/d 看到/v ，/w 由/p 波/n 函数/n 还/d 可以/vu 得出/v 体系/n 的/u 各种/r 性质/n ，/w 因此/c 我们/r 说/v 波/n 函数/n 描写/v 体系/n 的/u 量子/n 状态/n （/w 简称/n 状态/n 或/c 态/n ）/w 。/w 
+		
+			
+                                        160
+                                     这/r 种/q 描写/v 状态/n 的/u 方式/n 和/c 经典/n 力学/n 中/nd 描写/v 质/n 点/n 状态/n 的/u 方式/n 完全/a 不/d 一样/a ，/w 在/p 经典/n 力学/n 中/nd ，/w 通常/d 是/vl 用/p 质/n 点/n 的/u 坐标/n 和/c 动量/n （/w 或/d 速度/n ）/w 的/u 值/n 来/vd 描写/v 质/n 点/n 的/u 状态/n 。/w 
+		
+			
+                                        161
+                                     质/n 点/n 的/u 其他/r 力学/n 量/n ，/w 如/v 能量/n 等/u ，/w 是/vl 坐标/n 和/c 动量/n 的/u 函数/n ，/w 当/p 坐标/n 和/c 动量/n 确定/v 后/nd ，/w 其他/r 力学/n 量/n 也/d 就/d 随/p 之/r 确定/v 了/u 。/w 
+		
+			
+                                        162
+                                     但是/c ，/w 在/p 量子力学/n 中/nd ，/w 不/d 可能/vu 同时/v 用/p 粒子/n 坐标/n 和/c 动量/n 的/u 确定/v 值/n 来/vd 描写/v 粒子/n 的/u 量子/n 状态/n ，/w 因为/c 粒子/n 具有/v 波/n 粒/n 二/m 象/n 性/k ，/w 粒子/n 的/u 坐标/n 和/c 动量/n 不/d 可能/vu 同时/v 具有/v 确定/v 值/n 。/w 
+		
+			
+                                        163
+                                     下/nd 一/m 章/n 我们/r 将/p 看到/v ，/w 当/p 粒子/n 处于/v 某/r 一/m 量子/n 状态/n 时/nt ，/w 它/r 的/u 力学/n 量/n （/w 如/v 坐标/n 、/w 动量/n 等/u ）/w 一般/a 有/v 许多/a 可能/vu 值/n ，/w 这些/r 可能/vu 值/n 各自/r 以/p 一定/d 的/u 几率/n 出现/v ，/w 这些/r 几率/n 都/d 可以/vu 由/p 波/n 函数/n 得出/v 。/w 
+		
+			
+                                        164
+                                     由于/c 粒子/n 必定/d 要/vu 在/p 空间/n 中/nd 的/u 某/r 一点/mq 出现/v ，/w 所以/c 粒子/n 在/p 空间/n 各/r 点/n 出现/v 的/u 几率/n 总和/n 等于/v １/m ，/w 因而/c 粒子/n 在/p 空间/n 各/r 点/n 出现/v 的/u 几率/n 只/d 决定/v 于/p 波/n 函数/n 在/p 空间/n 各/r 点/n 的/u 相对/a 强度/n ，/w 而/c 不/d 决定/v 于/p 强度/n 的/u 绝对/a 大小/n 。/w 
+		
+			
+                                        165
+                                     如果/c 把/p 波/n 函数/n 在/p 空间/n 各/r 点/n 的/u 振/v 幅/n 同时/v 加大/v 一倍/m ，/w 并不/d 影响/v 粒子/n 在/p 空间/n 各/r 点/n 的/u 几率/n ，/w 换句话说/i ，/w 将/p 波/n 函数/n 乘上/v 一个/mq 常数/n 后/nd ，/w 所/u 描写/v 的/u 粒子/n 的/u 状态/n 并不/d 改变/v 。/w 
+		
+			
+                                        166
+                                     量子力学/n 中/nd 的/u 波/n 函数/n 的/u 这/r 种/q 性质/n 是/vl 其他/r 波动/v 过程/n （/w 如/v 声波/n 、/w 光波/n 等等/u ）/w 所/u 没有/v 的/u 。/w 
+		
+			
+                                        167
+                                     对于/p 声波/n 、/w 光波/n 等/u ，/w 体系/n 的/u 状态/n 随/p 振/v 幅/n 的/u 大小/n 而/c 改变/v ，/w 如果/c 把/p 各处/nl 振/v 幅/n 同时/v 加大/v 为/vl 二倍/m ，/w 那么/r 声/n 或/c 光/n 的/u 强度/n 到处/nl 都/d 加大/v 为/vl 四倍/m ，/w 这/r 就/d 完全/a 是/vl 另/r 一个/mq 状态/n 了/u 。/w 
+		
+			
+                                        168
+                                     下面/nd 用/p 数学/n 来/vd 表达/v 波/n 函数/n 的/u 这些/r 性质/n 。/w 
+		
+			
+                                        169
+                                     （/w １/m ）/w 微观/n 体系/n 的/u 状态/n 被/p 一个/mq 波/n 函数/n 完全/a 描述/v ，/w 从/p 这个/r 波/n 函数/n 可以/vu 得出/v 体系/n 的/u 所有/v 性质/n 。/w 
+		
+			
+                                        170
+                                     波/n 函数/n 一般/a 应/vu 满足/a 连续性/n 、/w 有限性/n 和/c 单/a 值/n 性/k 三/m 个/q 条件/n 。/w 
+		
+			
+                                        171
+                                     （/w ２/m ）/w 力学/n 量/n 用/p 厄密/nh 算/v 符/n 表示/v 。/w 
+		
+			
+                                        172
+                                     如果/c 在/p 经典/n 力学/n 中/nd 有/v 相应/v 的/u 力学/n 量/n ，/w 则/c 在/p 量子力学/n 中/nd 表示/v 这个/r 力学/n 量/n 的/u 算/v 符/n ，/w 由/p 经典/n 表示/v 式/k 中/nd 将/p 动量/n ｐ/ws 换为/v 算/v 符/n □/w 得出/v 。/w 
+		
+			
+                                        173
+                                     表示/v 力学/n 量/n 的/u 算/v 符/n 有/v 组成/v 完全/a 系/n 的/u 本/r 征/v 函数/n 。/w 
+		
+			
+                                        174
+                                     （/w ３/m ）/w 将/p 体系/n 的/u 状态/n 波/n 函数/n 用/p 算/v 符/n □/w 的/u 本/r 征/v 函数/n 展开/v 则/c 在/p 态/n 中/nd 测量/v 力学/n 量/n Ｆ/ws 得到/v 结果/n 为/p □/w 的/u 几率/n 是/vl □/w ，/w 得到/v 结果/n 在/p 范围/n 内/nd 的/u 几率/n 是/vl □/w 。/w 
+		
+			
+                                        175
+                                     □/w 是/vl 体系/n 的/u 哈密顿/nh 算/v 符/n 。/w 
+		
+			
+                                        176
+                                     （/w ５/m ）/w 在/p 全/d 同/v 粒子/n 所/u 组成/v 的/u 体系/n 中/nd ，/w 两/m 全/d 同/v 粒子/n 相互/d 调换/v 不/d 改变/v 体系/n 的/u 状态/n （/w 全/d 同/v 性/k 原理/n ）/w 。/w 
+		
+			
+                                        177
+                                     在/p 上面/nd 的/u 基本/a 假定/v 中/nd ，/w 没有/v 列出/v 波/n 函数/n 的/u 统计/v 解释/v ，/w 因为/c 它/r 已/d 包含/v 在/p 基本/a 假定/v （/w ３/m ）/w 内/nd 。/w 
+		
+			
+                                        178
+                                     这/r 可/vu 由/p 以下/nd 的/u 讨论/v 看出/v 。/w 
+		
+			
+                                        179
+                                     由此可见/i ，/w □/w 是/vl 几率/n 密度/n ，/w 这/r 就是/d 波/n 函数/n 的/u 统计/v 解释/v 。/w 
+		
+			
+                                        180
+                                     除了/p 上面/nd 五/m 个/q 基本/a 假定/v 之外/nd ，/w 在/p 我们/r 所/u 讨论/v 的/u 非/h 相对论/n 量子力学/n 中/nd ，/w 电子/n 的/u 自旋/v 也是/vl 作为/v 假定/v 引进/v 的/u 。/w 
+		
+			
+                                        181
+                                     但是/c ，/w 自旋/v 作为/v 一个/mq 假定/v ，/w 是/vl 由于/c 忽略/v 了/u 相对论/n 效应/n 的/u 缘故/n ；/w 在/p 相对论/n 量子力学/n 中/nd ，/w 自旋/v 象/v 粒子/n 的/u 其他/r 性质/n 一样/a 包含/v 在/p 波动/v 方程/n 中/nd ，/w 不需/v 另/r 作/v 假定/v 。/w 
+		
+			
+                                        182
+                                     本/r 书/n 内容/n 只/d 包含/v 了/u 量子力学/n 的/u 最/d 基本/a 的/u 原理/n 和/c 方法/n ，/w 如/v 希望/v 对/p 这/r 门/n 学科/n 有/v 更/d 全面/a 更/d 深入/a 的/u 理解/v 和/c 掌握/v ，/w 还/d 必须/d 进一步/v 学习/v 。/w 
+		
+			
+                                        183
+                                     下面/nd 简单/a 地/u 叙述/v 当前/nt 量子力学/n 的/u 发展/v 。/w 
+		
+			
+                                        184
+                                     电子/n 的/u 相对论/n 波动/v 方程/n ，/w 在/p 非/h 相对论/n 量子力学/n 建立/v 后/nd 不久/nt （/w １９２８/m 年/nt ）/w 就/d 被/p 提/v 出来/vd 了/u 。/w 
+		
+			
+                                        185
+                                     这个/r 理论/n 适用/v 于/p 电子/n 速度/n 接近/v 于/p 光速/n 的/u 情况/n ，/w 并且/c ，/w 如/v 上面/nd 所/u 提到/v 的/u ，/w 它/r 把/p 电子/n 的/u 自旋/v 包含/v 在/p 理论/n 中/nd ，/w 这/r 是/vl 它/r 比/p 非/h 相对论/n 量子力学/n 理论/n 优越/a 的/u 地方/n ；/w 然而/c ，/w 这个/r 理论/n 只能/vu 处理/v 一个/mq 电子/n 在/p 外/nd 场/n 中/nd 的/u 运动/v ，/w 而/c 不能/vu 处理/v 多/a 电子/n 体系/n 的/u 问题/n 。/w 
+		
+			
+                                        186
+                                     在/p 宇宙射线/n 和/c 高能/n 粒子/n 的/u 实验/n 中/nd 发现/v ，/w 在/p 相对论/n 情况/n 下/nd （/w □/w ）/w ，/w 当/p 粒子/n 能量/n 的/u 改变/v 与/c 粒子/n 的/u 静止/v 能量/n 可/vu 相/d 比拟/v 时/nt ，/w 粒子/n 就/d 转化/v 为/vl 别种/n 粒子/n ，/w 例如/v 电子/n 、/w 正电子/n （/w 电子/n 对/q ）/w 能够/vu 转化/v 为/vl 光子/n ，/w 光子/n 也/d 能/vu 转化/v 为/vl 电子/n 对/q ，/w 等等/u 。/w 
+		
+			
+                                        187
+                                     因此/c ，/w 在/p 高能/n 的/u 情况/n 下/nd ，/w 不/d 可能/vu 象/v 在/p 非/h 相对论/n 情况/n 中/nd 那样/r 来/vd 区分/v 粒子/n 和/c 场/n ，/w 所有/v 的/u 基本粒子/n （/w 光子/n 、/w 电子/n 、/w 介子/n 、/w 核子/n 等/u ）/w 必须/d 用/v 统一/v 的/u 方式/n 处理/v ，/w 这样/r 才/d 能够/vu 把/p 粒子/n 之间/nd 的/u 相互/d 转化/v 反映/v 到/v 理论/n 中/nd 去/vd 。/w 
+		
+			
+                                        188
+                                     为/p 满足/a 这个/r 要求/n ，/w 在/p 量子力学/n 的/u 基础上/nl ，/w 又/d 进一步/v 发展/v 了/u 场/n 的/u 量子/n 理论/n （/w 或/c 称/v 量子/n 场论/n ）/w 。/w 
+		
+			
+                                        189
+                                     在/p 量子/n 场论/n 中/nd ，/w 每/r 一/m 种/q 基本粒子/n 可/vu 用/v 一个/mq 场/n 来/vd 描写/v ，/w 在/p 保持/v 洛伦兹/nh 协/v 变/v 性/k 的/u 条件/n 下/nd ，/w 通过/p 量子/n 化/k 后/nd 变为/v 能/vu 描写/v 粒子/n 产生/v 和/c 湮没/v 的/u 算/v 符/n 。/w 
+		
+			
+                                        190
+                                     根据/p 实验/n 总结/v 出来/vd 的/u 粒子/n 的/u 对称/a 性质/n ，/w 可以/vu 用/v 这些/r 量子/n 场/n 构成/v 体系/n 的/u 哈密顿/nh 函数/n ，/w 作为/v 讨论/v 问题/n 的/u 出发点/n 。/w 
+		
+			
+                                        191
+                                     &#167;/w ５/m ．/w ８/m 开始/v 时/nt 提到/v 的/u 量子/n 电动/a 力学/n ，/w 就是/d 讨论/v 电子/n 、/w 正电子/n 的/u 场/n 和/c 光子/n 场/n 相互作用/v 的/u 量子/n 场论/n 。/w 
+		
+			
+                                        192
+                                     量子/n 场论/n 在/p 反映/v 基本粒子/n 的/u 运动/n 规律/n 上/nd 虽然/c 取得/v 了/u 很/d 大/a 的/u 成就/n ，/w 但是/c ，/w 目前/nt 它/r 还/d 存在/v 着/u 一些/m 困难/n ，/w 例如/v 对于/p 基本粒子/n 之间/nd 的/u 强/a 相互作用/v ，/w 还/d 未能/vu 建立/v 起/v 完整/a 的/u 理论/n ，/w 对于/p 核力/n 的/u 性质/n ，/w 也/d 还/d 不能/vu 很/d 好/a 地/u 加以/v 阐明/v 。/w 
+		
+			
+                                        193
+                                     当前/nt 关于/p 基本粒子/n 性质/n 的/u 实验/n 研究/v 越来越/d 多/a ，/w 正/d 推动/v 着/u 这/r 方面/n 的/u 理论/n 进一步/v 向前/v 发展/v 。/w 
+		
+			
+                                        194
+                                     在/p 非/h 相对论/n 量子力学/n 中/nd ，/w 多/a 体/n 问题/n 是/vl 当前/nt 研究/v 的/u 中心/n 问题/n 之一/m 。/w 
+		
+			
+                                        195
+                                     在/p 氦/n 原子/n 和/c 氢/n 分子/n 的/u 讨论/v 中/nd ，/w 我们/r 已/d 看到/v ，/w 仅仅/d 由/p 两/m 个/q 粒子/n 所/u 组成/v 的/u 体系/n ，/w 考虑/v 了/u 粒子/n 间/nd 相互作用/v 后/nd ，/w 薛定谔/nh 方程/n 的/u 求解/v 问题/n 已/d 变/v 得/u 十分/d 复杂/a ，/w 只能/vu 用/v 近似/v 方法/n 求解/v 。/w 
+		
+			
+                                        196
+                                     随着/p 粒子/n 数/n 增加/v ，/w 问题/n 的/u 复杂程度/n 也/d 自然/a 要/vu 加大/v 。/w 
+		
+			
+                                        197
+                                     在/p 这/r 种/q 情况/n 下/nd ，/w 选用/v 适当/a 的/u 近似/v 方法/n 具有/v 重要/a 的/u 意义/n 。/w 
+		
+			
+                                        198
+                                     在/p 讨论/v 原子/n 、/w 分子/n 、/w 固体/n 和/c 原子核/n 的/u 结构/n 中/nd ，/w 所谓/a &quot;/w 自/r 洽/v 场/n 法/n &quot;/w 被/p 广泛/a 地/u 应用/v ，/w 并/c 取得/v 一些/m 成功/a 。/w 
+		
+			
+                                        199
+                                     这个/r 方法/n 的/u 要点/n 在于/v ，/w 把/p 一个/mq 粒子/n 受到/v 其他/r 粒子/n 的/u 作用/n ，/w 用/v 一个/mq 平均/a 场/n 来/vd 代替/v 。/w 
+		
+			
+                                        200
+                                     即使/c 采用/v 了/u 近似/v 方法/n ，/w 计算/v 上/nd 的/u 困难/n 也是/vl 很/d 大/a 的/u 。/w 
+		
+			
+                                        201
+                                     近年来/nt 由于/c 计算/v 技术/n 的/u 发展/v ，/w 大大/d 促进/v 了/u 物质/n 结构/n 的/u 理论研究/n 。/w 
+		
+			
+                                        202
+                                     处理/v 多/a 体/n 问题/n 的/u 自/r 洽/v 场/n 法/n 的/u 缺点/n ，/w 是/vl 忽略/v 了/u 粒子/n 间/nd 的/u 相互/d 关联/v 。/w 
+		
+			
+                                        203
+                                     在/p 低温/n 条件/n 下/nd ，/w 某些/r 金属/n 所/u 呈现/v 的/u 超导/n 现象/n 和/c 液态/n 氦/n 的/u 超/v 流/v 现象/n ，/w 就是/d 这/r 种/q 关联/v 效应/n 的/u 表现/n 。/w 
+		
+			
+                                        204
+                                     在/p 过去/nt ，/w 这/r 两/m 个/q 现象/n 一直/d 得/v 不到/v 解释/v ，/w 而/c 成为/v 量子力学/n 中/nd 的/u 难题/n 。/w 
+		
+			
+                                        205
+                                     近/a 二十/m 年/nt 来/u ，/w 处理/v 多/a 体/n 问题/n 的/u 方法/n 有/v 了/u 新/a 的/u 发展/v ，/w 特别/d 是/vl 在/p 量子/n 场论/n 中/nd 发展/v 起来/vd 的/u 一些/m 计算/v 方法/n ，/w 已/d 成为/v 处理/v 多/a 体/n 问题/n 的/u 有力/a 工具/n 。/w 
+		
+			
+                                        206
+                                     自/r 洽/v 场/n 法/n 所/u 忽略/v 掉/v 的/u 粒子/n 间/nd 的/u 关联/v 效应/n ，/w 目前/nt 已经/d 能够/vu 在/p 理论上/nl 加以/v 分析/v ，/w 从/p 本质上/n 阐明/v 超导/n 现象/n 和/c 超/v 流/v 现象/n 的/u 性质/n 。/w 
+		
+			
+                                        207
+                                     最近/nt 几/m 年/nt 对/p 超导/n 性/k 的/u 研究/v ，/w 在/p 实验/n 上/nd 也/d 取得/v 很/d 大/a 的/u 进步/v 。/w 
+		
+			
+                                        208
+                                     用/p 超导体/n 可以/vu 产生/v 很/d 强/a 的/u 磁场/n ；/w 超导/n 元件/n 用于/v 电子计算机/n 可以/vu 提高/v 计算/v 速度/n ；/w 在/p 科学/n 研究/v 和/c 生产/v 上/nd ，/w 超导/n 技术/n 的/u 应用/v 具有/v 广阔/a 的/u 前途/n 。/w 
+		
+			
+                                        209
+                                     这样/r ，/w 就/d 对/p 理论/n 不断/d 提出/v 新/a 的/u 要求/n ，/w 从而/c 推进/v 理论/n 的/u 发展/v 。/w 
+		
+			
+                                        210
+                                     对/p 量子力学/n 理论/n 的/u 解释/v ，/w 是/vl 这/r 门/n 学科/n 中/nd 存在/v 着/u 的/u 一个/mq 重大/a 问题/n 。/w 
+		
+			
+                                        211
+                                     自从/p 量子力学/n 产生/v 以来/nt ，/w 这个/r 问题/n 一直/d 是/vl 物理/n 学界/n 中/nd 争论/v 的/u 中心/n 问题/n 之一/m 。/w 
+		
+			
+                                        212
+                                     问题/n 不/d 在于/v 目前/nt 量子力学/n 理论/n 是否/d 正确/a ，/w 量子力学/n 的/u 正确性/n 已/d 为/p 大量/a 实验/n 事实/n 所/u 验证/v 。/w 
+		
+			
+                                        213
+                                     以/p 玻尔/nh 、/w 海森伯/nh （/w Ｈｅｉｓｅｎｂｅｒｇ/ws ）/w 为/vl 代表/n 的/u 哥本哈根/ns 学派/n 认为/v 量子力学/n 对/p 微观/n 粒子/n 状态/n 的/u 描述/v 是/vl 完备/a 的/u 。/w 
+		
+			
+                                        214
+                                     波/n 函数/n 精确/a 地/u 描写/v 了/u 单个/n 体系/n 的/u 状态/n 。/w 
+		
+			
+                                        215
+                                     波/n 函数/n 之所以/c 只/d 提供/v 统计/v 的/u 数据/n 、/w 测/v 不准/v 关系/n 之所以/c 存在/v ，/w 是/vl 由于/c 粒子/n 与/c 测量/v 仪器/n 之间/nd 相互作用/v 的/u 不可/vu 控制/v 性/k 。/w 
+		
+			
+                                        216
+                                     粒子/n 的/u 行为/n 和/c 粒子/n 与/c 测量/v 仪器/n 间/nd 的/u 相互作用/v 是/vl 不能/vu 绝然/d 划分/v 开来/v 的/u 。/w 
+		
+			
+                                        217
+                                     由此/d ，/w 他们/r 得出/v 结论/n ：/w 在/p 空间/n 、/w 时间/n 中/nd 发生/v 的/u 微观/n 过程/n 和/c 经典/n 的/u 因果律/n 不/d 相容/v 。/w 
+		
+			
+                                        218
+                                     哥本哈根/ns 学派/n 的/u 观点/n 虽然/c 在/p 物理/n 学界/n 中/nd 为/p 许多/a 人/n 所/u 接受/v ，/w 但/c 也/d 受到/v 一些/m 人/n 如/v 爱因斯坦/nh 、/w 德布罗意/nh 、/w 薛定谔/nh 等/u 人/n 的/u 反对/v 。/w 
+		
+			
+                                        219
+                                     从/p １９/m 世纪/nt 末期/nt 以来/vd 的/u 几/m 十年/nt 内/nd ，/w 物理学/n 对于/p 物质/n 微观/n 结构/n 的/u 研究/v 获得/v 了/u 很/d 大/a 成就/n ，/w 建立/v 了/u 三/m 个/q 新/a 的/u 分支/n 学科/n ，/w 即/vl 原子物理/n 、/w 原子核/n 物理/n 和/c 粒子物理/n ，/w 分别/v 研究/v 原子/n （/w 分子/n ）/w 、/w 原子核/n 和/c 基本粒子/n 这/r 三/m 个/q 层次/n 的/u 微观/n 结构/n 。/w 
+		
+			
+                                        220
+                                     同时/c ，/w 创立/v 了/u 描述/v 微观/n 粒子/n 运动/n 规律/n 的/u 新/a 理论/n ─/x ─/x 量子力学/n 和/c 量子/n 场论/n 。/w 
+		
+			
+                                        221
+                                     本/r 课程/n 作为/v 普通/a 物理/n 的/u 一部分/n ，/w 将/d 以/p 实验/n 事实/n 为/vl 基础/n ，/w 介绍/v 这/r 三/m 个/q 层次/n 的/u 基本/a 现象/n 以及/c 半/m 经典性/n 的/u 理论/n 解释/v ，/w 尽量/d 不/d 涉及/v 进一步/v 的/u 理论/n 计算/v 。/w 
+		
+			
+                                        222
+                                     人们/n 对于/p 原子/n 结构/n 的/u 认识/v ，/w 是/vl 从/p １９/m 世纪/nt 初期/nt 开始/v 的/u 。/w 
+		
+			
+                                        223
+                                     但/c 从/p 原子/n 理论/n 的/u 发展/v 看/v ，/w 作为/v 研究/v 原子/n 结构/n 的/u 一/m 门/n 独立/v 学科/n 的/u 原子物理/n ，/w 则/c 是/vl 从/p 本世纪/nt 初/n 才/d 逐步/d 形成/v 的/u 。/w 
+		
+			
+                                        224
+                                     本世纪/nt 初/n ，/w 人们/n 除/v 知道/v 原子/n 内部/nd 有/v 电子/n 外/nd ，/w 对/p 原子/n 结构/n 还/d 全不/d 了解/v 。/w 
+		
+			
+                                        225
+                                     但/c 在/p 当时/nt 已/d 出现/v 了/u 许多/a 和/p 原子/n 结构/n 有关/v 的/u 重要/a 事件/n ，/w 并/c 已/d 积累/v 了/u 大量/a 实验/n 资料/n 。/w 
+		
+			
+                                        226
+                                     如/v 在/p 当时/nt 已/d 积累/v 了/u 许多/a 原子/n 光谱/n 的/u 资料/n ，/w 并/c 在/p １８８５/m 年/nt 巴尔末/nh （/w Ｊ/ws ．/w Ｊ/ws ．/w Ｂａｌｍｅｒ/ws ）/w 用/p 公式/n 成功/a 的/u 表示/v 了/u 氢原子/n 的/u 光谱/n 规律/n 。/w 
+		
+			
+                                        227
+                                     后来/nt ，/w 里德伯/nh （/w Ｊ/ws ．/w Ｒ/ws ．/w Ｒｙｄｂｅｒｇ/ws ）/w 和/c 里兹/nh （/w Ｗ/ws ．/w Ｒｉｔｚ/ws ）/w 又/d 进一步/v 给出/v 了/u 谱/n 线/n 的/u 表示/v 式/k 。/w 
+		
+			
+                                        228
+                                     又/d 如/v １９００/m 年/nt 普朗克/nh （/w Ｍ/ws ．/w Ｖ/ws ．/w Ｐｌａｎｃｋ/ws ）/w 为/p 解释/v 黑体/n 辐射/v 规律/n 而/c 提出/v 的/u 能量子/n 的/u 概念/n 。/w 
+		
+			
+                                        229
+                                     不久/nt ，/w １９０５/m 年/nt 爱因斯坦/nh （/w Ａ/ws ．/w Ｅｉｎｓｔｅｉｎ/ws ）/w 在/p 解释/v 光电/n 效应/n 规律/n 时/nt ，/w 又/d 发展/v 了/u 普朗克/nh 的/u 能量子/n 假设/v ，/w 提出/v 了/u 光量子/n 的/u 概念/n 。/w 
+		
+			
+                                        230
+                                     再/d 如/v ，/w １９１１/m 年/nt 英国/ns 物理学家/n 卢瑟福/nh （/w Ｅ/ws ．/w Ｒｕｔｈｅｒｆｏｒｄ/ws ）/w 根据/p ?x粒子/n 散射/v 实验/n 断定/v 原子/n 中/nd 带/v 正电/n 部分/n 的/u 半径/n 数量级/n 只有/c □/w 米/n ，/w 而/c 已知/v 整个/a 原子/n 半径/n 的/u 数量级/n 为/vl □/w 米/n ，/w 由此/d ，/w 提出/v 原子/n 的/u 核/n 式/n 结构/n 模型/n 。/w 
+		
+			
+                                        231
+                                     基于/p 这些/r 事实/n 和/c 其他/r 许多/a 人/n 的/u 工作/n ，/w １９１３/m 年/nt 尼&#183;玻尔/nh （/w Ｎ/ws ．/w Ｂｏｈｒ/ws ）/w 连续/v 发表/v 了/u 三/m 篇/q 论文/n ，/w 他/r 从/p 观察/v 到/v 的/u 原子/n 光谱/n 规律/n ，/w 发展/v 了/u 原子核/n 式/n 结构/n 的/u 理论/n ，/w 并/c 将/p 普朗克/nh 提出/v 的/u 并/d 为/p 爱因斯坦/nh 发展/v 的/u 量子/n 概念/n ，/w 应用/v 到/v 原子/n 结构/n 的/u 理论/n 中/nd ，/w 提出/v 了/u 原子/n 定态/n 和/c 量子/n 态/n 间/n 的/u 跃/v 迁/v 等/u 重要/a 概念/n ，/w 建立/v 起/v 原子/n 的/u 量子论/n ，/w 成为/v 原子/n 物理学/n 的/u 开端/n ，/w 也/d 为/p 近代物理/n 的/u 新/a 理论/n -/w -/w 量子力学/n 的/u 建立/v 奠定/v 了/u 基础/n 。/w 
+		
+			
+                                        232
+                                     玻尔/nh 的/u 思想/n 不仅/c 在/p 早期/nt 近代物理/n 的/u 建立/v 中/nd 起/v 着/u 指导/v 作用/n ，/w 而且/c 由于/c 它/r 能/vu 简单/a 、/w 形象/a 的/u 给出/v 原子/n 结构/n 的/u 轮廓/n ，/w 至今/d 在/p 近代/nt 原子/n 结构/n 的/u 研究/v 中/nd ，/w 仍/d 有/v 其/r 重要/a 的/u 生命力/n 。/w 
+		
+			
+                                        233
+                                     本/r 书/n 有关/v 原子/n 结构/n 的/u 部分/n 将/d 以/p 玻尔/nh 理论/n 为/vl 线索/n 来/vd 讲述/v 。/w 
+		
+			
+                                        234
+                                     对于/p 原子核/n 的/u 研究/v ，/w 是/vl 从/p １８９６/m 年/nt 贝克勒尔/nh （/w Ａ/ws ．/w Ｈ/ws ．/w Ｂｅｃｑｕｅｒｅｌ/ws ）/w 发现/v 放射/v 现象/n 开始/v 的/u 。/w 
+		
+			
+                                        235
+                                     虽然/c 原子核/n 的/u 真正/d 发现/v 比/p 它/r 晚/a 了/u 整整/d １５/m 年/nt 。/w 
+		
+			
+                                        236
+                                     初期/nt 的/u 原子核/n 物理/n 主要/d 从事/v 放射/v 规律/n 和/c 射线/n 性质/n 的/u 研究/v ，/w 通过/p 这/r 种/q 研究/v 不仅/c 逐步/d 加深/v 了/u 对于/p 原子核/n 的/u 了解/v ，/w 同时/c 发现/v 射线/n 对于/p 某些/r 疾病/n 的/u 治疗/v 作用/n ，/w 从而/c 使/v 这/r 门/n 学科/n 受到/v 社会/n 的/u 重视/v 。/w 
+		
+			
+                                        237
+                                     １９３９/m 年/nt 原子/n 核裂变/v 的/u 发现/v 和/c １９４２/m 年/nt 第一/m 座/q 原子/n 反应堆/n 的/u 建成/v ，/w 标志/v 着/u 核物理/n 进入/v 了/u 大/a 发展/v 的/u 阶段/n ，/w 因为/c 这/r 是/vl 人类/n 利用/v 原子能/n 的/u 开端/n ，/w 从此/d 进入/v 了/u 所谓/a &quot;/w 原子能/n 时代/nt &quot;/w 。/w 
+		
+			
+                                        238
+                                     在/p 这/r 一/m 阶段/n ，/w 各种/r 类型/n 的/u 加速器/n 相继/d 出现/v ，/w 被/p 加速/v 粒子/n 的/u 能量/n 不断/d 提高/v 。/w 
+		
+			
+                                        239
+                                     利用/v 加速器/n 和/c 反应堆/n ，/w 不同/a 类型/n 的/u 人为/a 核/n 转变/v （/w 核反应/v ）/w 大量/a 出现/v ，/w 对/p 核物理/n 研究/v 和/c 核技术/n 的/u 应用/v 起/v 了/u 极为/d 重要/a 的/u 作用/n 。/w 
+		
+			
+                                        240
+                                     大量/a 的/u 实验/n 工作/n ，/w 促进/v 了/u 理论/n 的/u 发展/v ，/w 使/v 人们/n 对/p 原子核/n 的/u 内部/nd 结构/n 及其/c 变化/v 规律/n 的/u 认识/v 也/d 逐步/d 深化/v 。/w 
+		
+			
+                                        241
+                                     几/m 十年/nt 来/u ，/w 原子核/n 物理学/n 已/d 成为/v 一/m 门/n 独立/v 的/u 学科/n ，/w 核技术/n 应用/v 领域/n 不断/d 扩大/v ，/w 核能/n 利用/v 日益/d 广泛/a ，/w 使/v 这/r 门/n 学科/n 无论/c 从/p 实验/n 上/nd 或/c 理论上/nl 都/d 获得/v 了/u 迅速/a 的/u 发展/v 。/w 
+		
+			
+                                        242
+                                     从/p 目前/nt 情况/n 看/v ，/w 人类/n 对于/p 能源/n 问题/n 的/u 解决/v 也/d 有赖于/v 核科学/n 的/u 进一步/v 发展/v 。/w 
+		
+			
+                                        243
+                                     因此/c ，/w 核物理/n 的/u 研究/v 又/d 成为/v 国际上/n 竞争/v 十分/d 激烈/a 的/u 一个/mq 科技/n 领域/n 。/w 
+		
+			
+                                        244
+                                     本/r 书/n 将/d 介绍/v 核物理/n 中/nd 的/u 一些/m 基本/a 现象/n 、/w 基本/a 规律/n ，/w 以及/c 有关/v 的/u 初步/a 理论/n ，/w 使/v 读者/n 对于/p 这个/r 领域/n 的/u 知识/n 有/v 个/q 基本/a 的/u 了解/v 。/w 
+		
+			
+                                        245
+                                     粒子物理/n 或/c 称/v 高能物理/n 是/vl 当前/nt 研究/v 物质/n 微观/n 结构/n 的/u 最/d 前沿/nl 的/u 学科/n 。/w 
+		
+			
+                                        246
+                                     从/p 本世纪/nt ３０/m 年代/nt 初期/nt ，/w 通过/p 宇宙射线/n 发现/v 第一/m 个/q 反粒子/n ─/x ─/x 正电子/n 以来/vd ，/w 人们/n 利用/v 高能/n 和/c 超高/a 能/n 射线/n 同/p 原子核/n 的/u 相互作用/v ，/w 发现/v 了/u 一大批/n 被/p 称作/v 基本粒子/n 的/u 新/a 粒子/n ，/w 从而/c 从/p 核物理/n 中/nd 又/d 分出/v 了/u 一个/mq 专门/d 研究/v 基本粒子/n 性质/n 、/w 内部/nd 结构/n 及其/c 相互作用/v 的/u 独立/v 学科/n ，/w 即/vl 粒子物理/n 。/w 
+		
+			
+                                        247
+                                     核子/n 间/n 的/u 相互作用/v 是/vl 通过/p 传递/v 这/r 种/q 场/n 的/u 量子/n —/w —/w 介子/n 来/vd 实现/v 的/u 。/w 
+		
+			
+                                        248
+                                     正如/p 电磁/n 作用/n 是/vl 通过/p 传递/v 电磁场/n 的/u 量子/n （/w 即/vl 光子/n ）/w 来/vd 实现/v 的/u 一样/a 。/w 
+		
+			
+                                        249
+                                     汤川/nh 进一步/v 估算/v 出/vd 介子/n 的/u 质量/n 约/v 为/vl 电子/n 质量/n （/w □/w ）/w 的/u ２００/m 多/a 倍/n ，/w 介乎/v 质子/n 质量/n 和/c 电子/n 质量/n 之间/nd ，/w 故/c 命名/v 为/vl 介子/n 。/w 
+		
+			
+                                        250
+                                     １９４７/m 年/nt 在/p 宇宙射线/n 中/nd 发现/v 了/u 质量/n 约/v 为/vl ２７０/m □/w 的/u 带/v 正/a 、/w 负/a 电荷/n 的/u 两/m 种/q 粒子/n ，/w 称/v □/w 、/w □/w 介子/n 。/w 
+		
+			
+                                        251
+                                     １９５０/m 年/nt 又/d 发现/v 了/u 质量/n 比/p 前者/n 稍/d 小/a 的/u 中性/n 粒子/n □/w 。/w 
+		
+			
+                                        252
+                                     这些/r 粒子/n 就是/vl 汤川/nh 理论/n 中/nd 的/u 介子/n 。/w 
+		
+			
+                                        253
+                                     于是/c ，/w 按照/p 这个/r 理论/n ，/w 核子/n 间/n 就是/d 通过/p 传递/v 这/r 种/q π/x 介子/n 而/c 发生/v 核力/n 作用/n 的/u 。/w 
+		
+			
+                                        254
+                                     例如/v ，/w 质子/n 和/c 中子/n 间/n 的/u 作用/n 可以/vu 是/vl 质子/n 放出/v 一个/mq □/w 介子/n 为/vl 中子/n 吸收/v 或/c 中子/n 放出/v 一个/mq □/w 介子/n 为/vl 质子/n 所/u 吸收/v ，/w 其/r 结果/n 是/vl 使/v 质子/n 和/c 中子/n 互相/d 转化/v ，/w 相当于/v 两者/n 的/u 位置/n 发生/v 了/u 交换/v 。/w 
+		
+			
+                                        255
+                                     这/r 就是/vl 一/m 种/q 交换/v 力/n 。/w 
+		
+			
+                                        256
+                                     类似/v 地/u ，/w 质子/n 和/c 质子/n 或/c 中子/n 和/c 中子/n 间/n 的/u 作用/n 传递/v 的/u 是/vl □/w 介子/n ，/w 这时/r 虽/c 没有/v 发生/v 质子/n 和/c 中子/n 间/n 的/u 转化/v ，/w 但/c 其中/nd 核子/n 自旋/v 方向/n 可/vu 发生/v 交换/v 。/w 
+		
+			
+                                        257
+                                     因此/c 也/d 可以/vu 是/vl 一/m 种/q 交换/v 力/n 。/w 
+		
+			
+                                        258
+                                     当然/d ，/w 在/p 质子/n 和/c 中子/n 发生/v 位置/n 交换/v 时/nt 也/d 可以/vu 同时/n 有/v 自旋/v 方向/n 的/u 交换/v 。/w 
+		
+			
+                                        259
+                                     介子/n 场/n 理论/n 虽然/c 在/p 定量/n 方面/n 仍/d 有/v 困难/n ，/w 但/c 用/p 它/r 来/vd 解释/v 核力/n 的/u 交换/v 性/k 和/c 其它/r 一些/m 现象/n （/w 如/v 核子/n 的/u 反常/a 磁/n 矩/n 等/u ）/w 还是/d 有意义/v 的/u 。/w 
+		
+			
+                                        260
+                                     （/w ４/m ）/w 核力/n 中/nd 存在/v 排斥/v 芯/n 。/w 
+		
+			
+                                        261
+                                     实验/n 表明/v ，/w 特别/d 是/vl 高能/n 的/u 核子/n —/w 核子/n 散射/v 实验/n 指出/v ，/w 当/p 核子/n 间/n 的/u 距离/n 极/d 小/a （/w 约/v 零点/mq 几个/mq 费米/q ）/w 时/nt ，/w 核力/n 成为/v 很/d 强/a 的/u 排斥/v 力/n 。/w 
+		
+			
+                                        262
+                                     这个/r 排斥/v 芯/n 阻止/v 了/u 核子/n 间/n 的/u 进一步/v 接近/v ，/w 从而/c 保证/v 核/n 有/v 一定/a 的/u 体积/n 而/c 不致/v “/w 坍缩/v ”/w 。/w 
+		
+			
+                                        263
+                                     核力/n 还有/v 其它/r 一些/m 性质/n ，/w 这里/r 不再/d 介绍/v 了/u 。/w 
+		
+			
+                                        264
+                                     在/p 上/nd 一/m 章/n 中/nd ，/w 我们/r 已经/d 知道/v 原子核/n 的/u 形状/n 基本上/d 是/vl 球形/n ，/w 且/c 其/r 核/n 半径/n 可表/v 为/vl 故核/n 的/u 体积/n 和/c 核子/n 数/n （/w 即/vl 质量/n 数/n ）/w Ａ/ws 成正比/v 。/w 
+		
+			
+                                        265
+                                     另外/c ，/w 我们/r 又/d 知道/v ，/w 原子核/n 的/u 比/p 结合/v 能/n 也/d 几乎/d 是/vl 一/m 常数/n ：/w 故核/n 的/u 结合/v 能/n 亦/d 正比/n 于/p 核子/n 数/n Ａ/ws 。/w 
+		
+			
+                                        266
+                                     将/p 上述/v 事实/n 和/c 宏观/n 液/n 滴/n 相比/v ，/w 发现/v 两者/n 有/v 重要/a 的/u 相似之处/n 。/w 
+		
+			
+                                        267
+                                     在/p 宏观/n 液/n 滴/n 中/nd ，/w 分子/n 间/n 的/u 作用力/n 也/d 有/v 饱和/v 性/k ，/w 其/r 化学/n 结合/v 能/n 只/d 与/p 构成/v 该/r 液/n 滴/n 的/u 分子/n 数/n 成正比/v ；/w 在/p 一定/a 条件/n 下/nd ，/w 液体/n 的/u 密度/n 也/d 近似/v 是/vl 常数/n 。/w 
+		
+			
+                                        268
+                                     据此/d ，/w Ｎ/ws &#183;/w 玻尔/h 首先/d 建议/v 将/p 原子核/n 与/c 液/n 滴/n 相/d 比较/v ，/w 即/d 可以/vu 把/p 原子核/n 看成/v 一个/mq 不可/vu 压缩/v 的/u 液/n 滴/n ，/w 而/c 核子/n 则/c 可/vu 看作/v 是/vl 这个/r 液/n 滴/n 的/u 分子/n 。/w 
+		
+			
+                                        269
+                                     同时/c ，/w 把/p 原子核/n 的/u 激发/v 看成/v 是/vl 液/n 滴/n 的/u 被/p 加热/v ，/w 而/c 液体/n 的/u 蒸发/v 潜/v 热/n 相当于/v 单个/n 核子/n 的/u 结合/v 能/n ；/w 液/n 滴/n 的/u 蒸发/v 相应/v 于/p 核/n 的/u 自发/a 放射/v ；/w 液/n 滴/n 分子/n 内部/nd 热/n 运动/n 能/n 相当于/v 核能/n ；/w 液/n 滴/n 的/u 聚合/v 则/c 相应/v 于/p 靶/n 核/n 吸收/v 轰击/v 粒子/n 形成/v 复合/v 核/n 。/w 
+		
+			
+                                        270
+                                     在/p 此/r 基础上/nl 建立/v 起来/vd 的/u 核/n 模型/n 就/d 称为/v 液/n 滴/n 模型/n 。/w 
+		
+			
+                                        271
+                                     利用/v 这个/r 模型/n 可以/vu 给出/v 原子核/n 结合/v 能/n （/w 或/c 质量/n ）/w 的/u 半/m 经验/n 公式/n 。/w 
+		
+			
+                                        272
+                                     我们/r 已经/d 知道/v ，/w 原子/n 的/u 质量/n Ｍ/ws 可表/v 为/vl 其中/nd □/w 和/c □/w 分别/v 为/vl 氢原子/n 和/c 中子/n 的/u 质量/n ，/w Ｂ/ws （/w Ｚ/ws ，/w Ａ/ws ）/w 是/vl 核/n 的/u 结合/v 能/n ，/w ｃ/ws 是/vl 真空/n 中/nd 的/u 光速/n 。/w 
+		
+			
+                                        273
+                                     若/c 质量/n 都/d 用/p 能量/n 单位/n （/w ＭｅＶ/ws ）/w 表示/v ，/w 则/c 式/n 中/nd 的/u □/w 可以/vu 不/d 写/v 。/w 
+		
+			
+                                        274
+                                     根据/p 液/n 滴/n 模型/n 及/c 量子/n 效应/n 的/u 考虑/v ，/w 原子核/n 的/u 结合/v 能/n Ｂ/ws （/w Ｚ/ws ，/w Ａ/ws ）/w 可/vu 写为/v 这/r 五/m 项/q 分别/d 称为/v 体积/n 能/n 、/w 表面/nd 能/n 、/w 库仑/n 能/n 、/w 对称/a 能/n 和/c 对能/n 。/w 
+		
+			
+                                        275
+                                     其中/nd 前/nd 三/m 项/q 和/c 经典/n 液/n 滴/n 有关/v ，/w 后/nd 两/m 项/q 则/c 是/vl 根据/p 量子/n 效应/n 得到/v 的/u 。/w 
+		
+			
+                                        276
+                                     现/n 逐项/d 讨论/v 之/u 。/w 
+		
+			
+                                        277
+                                     体积/n 能/n □/w 是/vl 结合/v 能/n 中/nd 最/d 主要/a 的/u 一/m 项/q ，/w 是/vl 由/p 核力/n 引起/v 的/u 束缚/v 每个/r 核子/n 的/u 能量/n 。/w 
+		
+			
+                                        278
+                                     如前所述/i ，/w 核/n 的/u 平均/a 结合/v 能/n 和/c 核/n 物质/n 密度/n 都/d 近似/v 为/vl 常数/n ，/w 因此/c ，/w 这/r 一/m 项/q 与/c 组成/v 该/r 原子核/n 的/u 核子/n 数/n Ａ/ws 成正比/v ，/w 也就是/d 与/p 原子核/n 的/u 体积/n Ｖ/ws 成正比/v ，/w 故/c 称/v 体积/n 能/n 。/w 
+		
+			
+                                        279
+                                     可/vu 写成/v 其中/nd □/w 是/vl 正/a 的/u 常数/n ，/w 正/a 号/n 表示/v 由/p 吸引力/n 形成/v 的/u 结合/v 能/n 是/vl 正/a 的/u 。/w 
+		
+			
+                                        280
+                                     表面/nd 能/n □/w 把/p 原子核/n 看作/v 液/n 滴/n ，/w 它/r 就/d 有/v 表面/nd 。/w 
+		
+			
+                                        281
+                                     处在/v 表面/nd 部分/n 的/u 核子/n 因/c 其/r 外边/nd 没有/v 其它/r 核子/n ，/w 故/c 它/r 只/d 受到/v 内部/nd 核子/n 的/u 作用/n ，/w 当然/d 比/v 处于/v 内部/nd 的/u 核子/n 所/u 受/v 的/u 束缚/v 要/vu 小/a 。/w 
+		
+			
+                                        282
+                                     在/p 体积/n 能/n 这/r 一/m 项/q 中/nd 没有/d 考虑/v 这/r 种/q 因素/n ，/w 认为/v 每个/r 核子/n 对/p 结合/v 能/n 的/u 贡献/n 都/d 相同/a 。/w 
+		
+			
+                                        283
+                                     考虑/v 这/r 种/q 表面/nd 效应/n 后/nd ，/w 结合/v 能/n 将/d 有所/v 减小/v 。/w 
+		
+			
+                                        284
+                                     显然/d ，/w 由/p 表面/nd 效应/n 所/u 引起/v 的/u 结合/v 能/n 的/u 减小/v 应/vu 正比/n 于/p 核/n 的/u 表面积/n Ｓ/ws ，/w 因而/c 和/p □/w 成正比/v ，/w 可表/v 为/vl 其中/nd □/w 是/vl 个/q 正/a 的/u 常数/n 。/w 
+		
+			
+                                        285
+                                     负/a 号/n 表示/v 这/r 一/m 项/q 使/v 结合/v 能/n 减小/v 。/w 
+		
+			
+                                        286
+                                     由于/c 这/r 一/m 项/q 的/u 作用/n ，/w 原子核/n 应/vu 尽可能/d 呈/v 球形/n 。/w 
+		
+			
+                                        287
+                                     因为/c 在/p 体积/n 一定/d 时/nt ，/w 球体/n 具有/v 最小/a 的/u 表面积/n ，/w 可/vu 使/v 表面/nd 能/n 的/u 绝对值/n 为/vl 最小/a ，/w 因而/c 核/n 最/d 稳定/a 。/w 
+		
+			
+                                        288
+                                     库仑/n 能/n □/w 质子/n 间/n 的/u 静电/n 排斥/v 作用/n 也/d 要/vu 使/v 结合/v 能/n 减小/v 。/x 
+		
+			
+                                        289
+                                     在/p 目前/nt 已知/v 的/u 约/v 两千/m 种/q 核素/n 中/nd ，/w 绝大部分/n 是/vl 不/d 稳定/a 的/u ，/w 它们/r 会/vu 自发/a 地/u 放出/v 某种/r 粒子/n 而/c 转变/v 为/vl 另/r 一/m 种/q 核素/n 。/w 
+		
+			
+                                        290
+                                     这/r 就是/vl 原子核/n 的/u 放射/v 衰变/v 。/w 
+		
+			
+                                        291
+                                     具有/v 这/r 种/q 性质/n 的/u 原子核/n 称/v 放射性/n 原子核/n 。/w 
+		
+			
+                                        292
+                                     人类/n 对于/p 原子核/n 的/u 认识/v 就是/d 从/p 发现/v 放射/v 现象/n 开始/v 的/u 。/w 
+		
+			
+                                        293
+                                     正是/vl 由于/c 原子核/n 的/u 这/r 种/q 自发/a 的/u 转化/v ，/w 人们/n 才/d 逐步/d 地/u 了解/v 了/u 、/w 并/c 进一步/v 了解/v 着/u 核/n 的/u 内部/nd 结构/n 和/c 它/r 的/u 运动/n 规律/n 。/w 
+		
+			
+                                        294
+                                     因此/c ，/w 放射/v 现象/n 的/u 发现/v 可以/vu 看作/v 是/vl 原子核/n 物理/n 发展史/n 的/u 开端/n 。/w 
+		
+			
+                                        295
+                                     本章/n 首先/d 介绍/v 放射/v 衰变/v 的/u 一般/a 规律/n ，/w 然后/c 分别/v 讨论/v 三/m 种/q 主要/a 的/u 放射/v 过程/n ，/w 即/vl α/x 衰变/v 、/w β/x 衰变/v 和/c γ/x 衰变/v 。/w 
+		
+			
+                                        296
+                                     １８９６/m 年/nt ，/w 贝克勒尔/nh （/w Ｈ/ws ．/w Ｂｅｃｑｕｅｒｅｌ/ws ）/w 在/p 研究/v 铀矿/n 的/u 荧光/n 过程/n 中/nd 发现/v 了/u 铀/n 的/u 放射性/n 。/w 
+		
+			
+                                        297
+                                     两/m 年/nt 后/nd ，/w 居里/nh 夫妇/n 发现/v 了/u 钋/n 和/c 镭/n ，/w 并且/c 研究/v 了/u 它们/r 的/u 放射性/n 。/w 
+		
+			
+                                        298
+                                     从此/d 开始/v 了/u 原子核/n 自发/a 变化/v 过程/n 的/u 一系列/a 研究/v 。/w 
+		
+			
+                                        299
+                                     虽然/c 原子核/n 的/u 发现/v 比/p 放射性/n 的/u 发现/v 迟/a 了/u １５/m 年/nt ，/w 但是/c 放射/v 过程/n 与/c 引起/v 原子/n 外围/n 电子/n 重新/d 分布/v 的/u 核/n 外/nd 物理/n 和/c 化学/n 条件/n 无关/v ，/w 这/r 一/m 事实/n 已/d 足以/d 表明/v 这/r 种/q 过程/n 是/vl 在/p 原子/n 的/u 最/d 内/nd 部分/n 发生/v 的/u 。/w 
+		
+			
+                                        300
+                                     放射性/n 物质/n 表现/v 出/vd 一系列/a 的/u 特性/n 。/w 
+		
+			
+                                        301
+                                     它们/r 可/vu 使/v 气体/n 电离/v 、/w 使/v 照相/v 乳胶/n 感光/v 、/w 使/v 某些/r 荧光/n 物质/n 发光/v 等/u 。/w 
+		
+			
+                                        302
+                                     此外/c ，/w 它们/r 也/d 放出/v 能量/n ，/w 使/v 放射性/n 物质/n 的/u 温度/n 常/d 高于/v 周围/nd 媒/n 质/n 的/u 温度/n 。/w 
+		
+			
+                                        303
+                                     我们/r 知道/v ，/w 所有/v 这些/r 都/d 是/vl 由于/c 放射性/n 物质/n 发出/v 的/u 某些/r 射线/n 和/c 物质/n 相互作用/v 的/u 结果/n 。/w 
+		
+			
+                                        304
+                                     这些/r 射线/n 就是/vl α/x 射线/n 、/w β/x 射线/n 和/c γ/x 射线/n 。/w 
+		
+			
+                                        305
+                                     这/r 三/m 种/q 射线/n 和/c 周围/nd 物质/n 的/u 相互作用/v 有/v 不同/a 的/u 特点/n 。/w 
+		
+			
+                                        306
+                                     α/x 射线/n 有/v 最/d 强/a 的/u 电离/v 作用/n （/w 照相/v 作用/n 也/d 最/d 强/a ）/w ，/w 但/c 穿透/v 本领/n 很/d 小/a ，/w 所以/c 它/r 在/p 云/n 室/n （/w 一/m 种/q 探测/v 仪器/n ）/w 中/nd 常常/d 留下/v 既/c 粗/a 又/d 短/a 的/u 径/n 迹/n 。/w 
+		
+			
+                                        307
+                                     β/x 射线/n 和/c α/x 射线/n 相比/v ，/w 其/r 电离/v 本领/n 较/d 小/a 但/c 穿透/v 本领/n 较/d 大/a ，/w 因而/c 它/r 在/p 云/n 室/n 中/nd 的/u 径/n 迹/n 细/a 而/c 长/a 。/w 
+		
+			
+                                        308
+                                     γ/x 射线/n 则/c 有/v 最大/a 的/u 穿透/v 本领/n 和/c 最小/a 的/u 电离/v 作用/n ，/w 它/r 在/p 云/n 室/n 中/nd 常常/d 不/d 留下/v 什么/r 痕迹/n 。/w 
+		
+			
+                                        309
+                                     物质/n 的/u 放射性/n 是/vl 由/p 原子核/n 的/u 自发/a 衰变/v 引起/v 的/u ，/w 上述/v 三/m 种/q 射线/n 就是/d 在/p 原子核/n 发生/v α/x 衰变/v 、/w β/x 衰变/v 和/c γ/x 衰变/v 的/u 过程/n 中/nd 产生/v 的/u 。/w 
+		
+			
+                                        310
+                                     α/x 衰变/v 是/vl 原子核/n 自发/a 地/u 放出/v 一个/mq α/x 粒子/n 同时/c 自身/n 转变/v 为/vl 电荷/n 数/n 比/p 原来/d 减少/v ２/m 、/w 质量/n 数/n 减少/v ４/m 的/u 另/r 一/m 种/q 核素/n 的/u 过程/n 。/w 
+		
+			
+                                        311
+                                     所谓/a α/x 射线/n 就是/vl 高速/a 运动/v 的/u α/x 粒子/n 流/n 。/w 
+		
+			
+                                        312
+                                     后来/nt 知道/v ，/w α/x 粒子/n 就是/vl 氦/n 原子核/n □/w ./w β/x 衰变/v 的/u 特点/n 是/vl 原子核/n 的/u 电荷/n 数/n Ｚ/ws 增加/v 或/c 减少/v １/m 而/c 质量/n 数/n Ａ/ws 不变/v 。/w 
+		
+			
+                                        313
+                                     它/r 包括/v 以下/nd 三/m 个/q 过程/n ：/w 放出/v 一个/mq 普通/a 电子/n （/w □/w ）/w 而/c 使/v 核电/n 荷/n 数/n 增加/v １/m 的/u □/w 衰变/v ；/w 放出/v 一个/mq 带/n 正/a 电荷/n 的/u 电子/n （/w 即/vl 正电子/n □/w ）/w 而/c 使/v 核电/n 荷/n 数/n 减少/v １/m 的/u □/w 衰变/v ；/w 根本/d 不/d 放出/v 电子/n ，/w 而是/vl 原子核/n 从/p 核/n 外/nd 电子/n 中/nd 捕获/v 一个/mq 电子/n 的/u 电子/n 俘获/v 过程/n ，/w 当然/d 它/r 也/d 使/v 核电/n 荷/n 数/n 减少/v １/m 。/w 
+		
+			
+                                        314
+                                     最初/nt 发现/v 的/u β/x 射线/n 就是/vl 高速/a 运动/v 的/u 电子/n 流/n 。/w 
+		
+			
+                                        315
+                                     γ/x 衰变/v 也/d 称/v γ/x 跃/v 迁/v ，/w 是/vl 处于/v 激发/v 态/n 的/u 原子核/n 放出/v 能量/n 跃/v 迁/v 到/v 基态/n 或/c 较/d 低/a 激发/v 态/n 的/u 过程/n ，/w 这时/r 核素/n 的/u 成分/n 不变/v ，/w 当/p 它/r 以/p 辐射/v 的/u 形式/n 放出/v 能量/n 时/nt ，/w 就/d 产生/v γ/x 射线/n 。/w 
+		
+			
+                                        316
+                                     它/r 是/vl 一/m 种/q 能量/n 很/d 大/a （/w 因而/c 波长/n 极/d 短/a ）/w 的/u 光子/n 流/n 。/w 
+		
+			
+                                        317
+                                     γ/x 衰变/v 常常/d 伴随/v 着/u α/x 衰变/v 或/c β/x 衰变/v 而/c 发生/v ，/w 因为/c 在/p α/x 或/c β/x 衰变/v 过程/n 中/nd 往往/d 生成/v 处于/v 激发/v 态/n 的/u 原子核/n 。/w 
+		
+			
+                                        318
+                                     现在/nt 知道/v ，/w 有/v 少数/n 核素/n 可以/vu 自发/a 地/u 放射/v 出/vd 质子/n （/w ｐ/ws ）/w 、/w 碳/n 核/n （/w □/w ）/w 、/w 甚至/d 氖/n 核/n （/w □/w ）/w ，/w 但/c 至今/d 尚未/d 发现/v 过/u 有/v 处于/v 基态/n 的/u 核素/n 自发/a 放出/v 中子/n （/w ｎ/ws ）/w 的/u 现象/n 。/w 
+		
+			
+                                        319
+                                     放射/v 现象/n 最初/nt 是/vl 在/p 自然界/n 的/u 重/a 元素/n （/w 铀/n 、/w 镭/n 、/w 钋/n 、/w 锕/n 、/w 钍/n 等/u ）/w 中/nd 发现/v 的/u ，/w 后来/nt 也/d 在/p 原子量/n 不/d 很/d 大/a 、/w 甚至/d 较/d 小/a 的/u 一些/m 核素/n 中/nd 发现/v 了/u 。/w 
+		
+			
+                                        320
+                                     重/a 的/u 天然/a 放射性/n 核素/n （/w 如/v 铀/n 、/w 钍/n 、/w 锕/n ）/w 可/vu 发生/v 长/a 系列/n 的/u 衰变/v ，/w 即/d 最初/nt 的/u 放射性/n 核/n 衰变/v 为/vl 另/r 一个/mq 放射性/n 核/n ，/w 再/d 衰变/v 为/vl 第三/m 种/q 放射性/n 核/n ，/w …/w …/w 直至/v 最后/n 变成/v 某种/r 稳定/a 的/u 核素/n 。/w 
+		
+			
+                                        321
+                                     这样/r ，/w 它们/r 形成/v 一个/mq 所谓/a 放射/v 族/n （/w 放射/v 系/n ）/w 。/w 
+		
+			
+                                        322
+                                     人们/n 早就/d 有/v 办法/n 通过/p 人工/n 的/u 方法/n 来/vd 产生/v 放射性/n 核素/n 。/w 
+		
+			
+                                        323
+                                     到/v 目前/nt 为止/v ，/w 人工/n 产生/v 的/u 放射性/n 核素/n 其/r 数量/n 已/d 远远/a 超过/v 天然/a 的/u 放射性/n 核素/n 。/w 
+		
+			
+                                        324
+                                     但/c 人工/n 获得/v 的/u 放射性/n 核素/n 其/r 放射/v 衰变/v 在/p 极/d 大多数/n 情况/n 下/nd 都/d 是/vl 一/m 次/q 完成/v 的/u ，/w 即/d 放射性/n 核/n 经过/p 一/m 次/q 衰变/v 就/d 转变/v 为/vl 稳定/a 核/n 。/w 
+		
+			
+                                        325
+                                     只有/c 在/p 核裂变/v 时/nt 所/u 产生/v 的/u 放射性/n 核素/n 中/nd ，/w 由于/c 其/r 质子/n 与/c 中子/n 数目/n 之间/nd 的/u 平衡/a 关系/n 受到/v 特别/d 强烈/a 的/u 破坏/v ，/w 才/d 发生/v 较/d 长/a 系列/n 的/u 衰变/v 。/w 
+		
+			
+                                        326
+                                     放射/v 过程/n 是/vl 不/d 稳定/a 核素/n 的/u 自发/a 衰变/v 过程/n ，/w 所以/c 这/r 种/q 核/n 的/u 数目/n 将/d 随/p 时间/n 而/c 改变/v 。/w 
+		
+			
+                                        327
+                                     所谓/a 放射/v 衰变/v 规律/n 就是/d 指/v 放射性/n 核素/n 的/u 数目/n Ｎ/ws 随/p 时间/n ｔ/ws 的/u 变化/v 规律/n 。/w 
+		
+			
+                                        328
+                                     要/vu 定量/v 地/u 研究/v Ｎ/ws 与/c ｔ/ws 的/u 关系/n 是/vl 比较/d 复杂/a 的/u ，/w 因为/c 天然/a 放射性/n 核/n 往往/d 不是/vl 衰变/v 一/m 次/q 后/nd 即/d 稳定/a 的/u ，/w 因此/c 居间/v 核/n 的/u 数目/n 一方面/c 按照/p 一定/a 的/u 规律/n 在/d 增长/v （/w 由/p 前/nd 一/m “/w 代/n ”/w 核素/n 的/u 衰变/v 所/u 引起/v ）/w ，/w 另一方面/c 它/r 自己/r 又/d 按/v 一定/a 的/u 规律/n 衰变/v 。/w 
+		
+			
+                                        329
+                                     为了/p 方便/a ，/w 我们/r 只/d 讨论/v 最/d 简单/a 的/u 情形/n ，/w 即/d 只/d 研究/v 隔离/v 物质/n 的/u 衰变/v 规律/n 。/w 
+		
+			
+                                        330
+                                     如/v 在/p Ａ/ws →/w Ｂ/ws →/w Ｃ/ws （/w 稳定/a ）/w 的/u 简单/a 过程/n 中/nd ，/w Ａ/ws 核/n 的/u 数目/n 固然/c 只/d 依赖/v 自身/n 的/u 衰变/v 规律/n ，/w 但/c Ｂ/ws 核/n 的/u 数目/n 一方面/c 由于/c Ａ/ws 核/n 的/u 衰变/v 而/c 增长/v ，/w 另一方面/c 又/d 由于/c 自身/n 的/u 衰变/v 而/c 减少/v 。/w 
+		
+			
+                                        331
+                                     然而/c ，/w 如果/c 在/p Ａ/ws 生成/v 一定/a 数量/n 的/u Ｂ/ws 核/n 后/nd ，/w 我们/r 将/p Ｂ/ws 与/c Ａ/ws 核/n 隔离/v 开/v ，/w 则/c Ｂ/ws 核/n 数目/n 的/u 变化/v 规律/n 就/d 简单/a 得/u 多/a ，/w 这/r 就是/vl 隔离/v 物质/n 的/u 衰变/v 规律/n 。/w 
+		
+			
+                                        332
+                                     为了/p 说明/v 放射/v 衰变/v 的/u 基本/a 规律/n ，/w 我们/r 引用/v 历史上/n 一个/mq 重要/a 而/c 有趣/a 的/u 例子/n ，/w 即/vl 镭/n □/w 的/u 衰变/v 。/w 
+		
+			
+                                        333
+                                     在/p 密封/v 的/u 玻璃/n 管中/nl 封/v 入/v １．３１８/m ｇ/ws 氯化镭/n （/w □/w ）/w ，/w 其中/nd 含有/v 整整/d １/m ｇ/ws 的/u 镭/n 。/w 
+		
+			
+                                        334
+                                     过/vd 几/m 天/nt 之后/nt ，/w 对/p 管/n 中/nd 的/u 空气/n 做/v 微量/n 化学分析/v ，/w 可知/v 其中/nd 出现/v 了/u 两/m 种/q 新/a 气体/n ─/x ─/x 氦/n 和/c 氡/n 。/w 
+		
+			
+                                        335
+                                     氡/n 具有/v 强烈/a 的/u 放射性/n ，/w 它/r 的/u 积累/v 所/u 遵从/v 的/u 规律/n 和/c 氦/n 的/u 不同/a 。/x 
+		
+			
+                                        336
+                                     因此/c ，/w 这/r 种/q 分类/v 应/vu 按/v 其/r 本身/n 的/u 性质/n ，/w 主要/d 是/vl 由/p 它们/r 所/u 参与/v 的/u 相互作用/v 来/vd 确定/v 。/w 
+		
+			
+                                        337
+                                     目前/nt 已知/v 的/u 这/r 几/m 百/m 种/q 基本粒子/n ，/w 就/p 其/r 发现/v 的/u 过程/n 大体/n 可/vu 分成/v 三/m 个/q 时间/n 阶段/n ，/w 因此/c 有所谓/v 三/m “/w 代/n ”/w 基本粒子/n 。/w 
+		
+			
+                                        338
+                                     下面/nd 我们/r 将/p 一些/m 主要/a 粒子/n 按/v 其/r 发现/v 的/u 先后/n 次序/n 作/v 一/m 简单/a 介绍/v ，/w 有的/r 已/d 在/p 前面/nd 的/u 章节/n 中/nd 提到/v 过/u 。/w 
+		
+			
+                                        339
+                                     （/w １/m ）/w “/w 第一/m 代/n ”/w 基本粒子/n 。/w 
+		
+			
+                                        340
+                                     指/v 从/p １８９７/m 年/nt 发现/v 电子/n 起/v 直到/v １９４７/m 年/nt 发现/v π/x 介子/n 这/r 段/q 时间/n 内/nd 所/u 发现/v 的/u 粒子/n ，/w 共有/v １４/m 种/q ，/w 其中/nd 有的是/v 在/p 这/r 段/q 时间/n 内/nd 预言/v 而/c 在/p ５０/m 年代/nt 被/p 证实/v 的/u 。/w 
+		
+			
+                                        341
+                                     １８９７/m 年/nt 汤姆逊/nh 在/p 研究/v 阴极/n 射线/n 时/nt 所/u 发现/v 的/u 电子/n （/w □/w ）/w 是/vl 人们/n 所/u 认识/v 的/u 第一/m 个/q 基本粒子/n 。/w 
+		
+			
+                                        342
+                                     第二/m 个/q 被/p 发现/v 的/u 基本粒子/n 是/vl １９０５/m 年/nt 爱因斯坦/nh 为/p 解释/v 光电/n 效应/n 而/c 提出/v 、/w 并/c 为/p 以后/nt 一系列/a 实验/n 所/u 证实/v 的/u 光子/n （/w γ/x ）/w ，/w 它/r 不/d 带电/v 且/c 其/r 静止/v 质量/n 为/vl 零/m 。/w 
+		
+			
+                                        343
+                                     第三/m 、/w 四/m 个/q 粒子/n ，/w 即/vl 质子/n （/w ｐ/ws ）/w 和/c 中子/n （/w ｎ/ws ）/w ，/w 都/d 是/vl 在/p 核反应/v 中/nd 发现/v 的/u 。/w 
+		
+			
+                                        344
+                                     １９１９/m 年/nt 卢瑟福/nh 用/p 天然/a 放射性/n 核素/n □/w 所/u 放出/v 的/u α/x 粒子/n 去/v 轰击/v 氮/n 核/n ，/w 实现/v 了/u 历史上/n 第一/m 个/q 人工/n 核反应/v ，/w 就/d 在/p 这个/r 反应/n 中/nd 发现/v 了/u 带/v 正电/n 的/u 微粒/n ，/w 即/vl 质子/n 。/w 
+		
+			
+                                        345
+                                     ２０/m 世纪/nt ３０/m 年代/nt 以前/nt ，/w 关于/p 原子核/n 的/u 组成/v 问题/n 曾/d 是/vl 个/q 很/d 棘手/a 的/u 问题/n 。/w 
+		
+			
+                                        346
+                                     根据/p 一些/m 实验/n 事实/n 否定/v 了/u 核/n 由/p 质子/n 和/c 电子/n 构成/v 的/u 看法/n 。/w 
+		
+			
+                                        347
+                                     １９２０/m 年/nt ，/w 卢瑟福/nh 曾/d 预言/v 核内/nl 应有/v 质量/n 和/c 质子/n 相近/a 的/u 中性/n 粒子/n ，/w 它/r 与/c 质子/n 一起/d 组成/v 原子核/n 。/w 
+		
+			
+                                        348
+                                     １９３２/m 年/nt 恰德维克/nh 分析/v 了/u α/x 粒子/n 轰击/v 铍/n 核/n 后/nd 出/vd 射/v 的/u 中性/n 粒子/n ，/w 证实/v 这/r 就是/vl 卢瑟福/nh 所/u 预言/v 的/u 粒子/n 。/w 
+		
+			
+                                        349
+                                     他/r 把/p 这/r 种/q 粒子/n 命名/v 为/vl 中子/n 。/w 
+		
+			
+                                        350
+                                     中子/n 的/u 发现/v 解决/v 了/u 核/n 的/u 组成/v 问题/n 。/w 
+		
+			
+                                        351
+                                     所有/v 这些/r ，/w 我们/r 都/d 已/d 在/p 前面/nd 作过/v 介绍/v 。/w 
+		
+			
+                                        352
+                                     ３０/m 年代/nt 初期/nt 到/v １９４７/m 年间/nt ，/w 又/d 发现/v 了/u 以下/nd 一些/m 粒子/n 。/w 
+		
+			
+                                        353
+                                     正电子/n □/w 在/p 发现/v 中子/n 之前/nt ，/w １９２８/m 年/nt 英国/ns 物理学家/n 狄拉克/nh （/w Ｐ/ws ．/w Ａ/ws ．/w Ｍ/ws ．/w Ｄｉｒａｃ/ws ）/w 把/p 量子力学/n 的/u 薛定格/n 方程/n 推广/v 到/v 相对论/n 领域/n ，/w 建立/v 起/v 相对论/n 量子力学/n （/w 只/d 适用/v 于/p 自旋/v 为/vl □/w 的/u 粒子/n ）/w 。/w 
+		
+			
+                                        354
+                                     他/r 的/u 理论/n 在/p 许多/a 方面/n 和/c 实验/n 相符/v ，/w 例如/v ，/w 能/vu 由/p 此/r 方程/n 自动/a 得出/v 电子/n 具有/v 自旋/v 和/c 相应/v 的/u 磁/n 矩/n 等/u 。/w 
+		
+			
+                                        355
+                                     但/c 也/d 遇到/v 了/u 一个/mq 特殊/a 的/u 困难/n 。/w 
+		
+			
+                                        356
+                                     按照/p 这个/r 理论/n 计算/v 的/u 结果/n ，/w 电子/n 存在/v 总能/vu 为/vl 负/a 的/u 状态/n ，/w 即/d 所谓/a “/w 负能态/n ”/w 。/w 
+		
+			
+                                        357
+                                     而且/c 负能态/n 的/u 能/n 级/n 竟/d 没有/v 下限/n ，/w 因此/c 任何/r 一个/mq 电子/n 都会/vu 无休止/v 地/u 往下/v 跃/v 迁/v ，/w 从而/c 不断/d 释放/v 能量/n 。/w 
+		
+			
+                                        358
+                                     这/r 显然/a 和/p 事实/n 不符/v 。/w 
+		
+			
+                                        359
+                                     为了/p 克服/v 这个/r 困难/n ，/w 他/r 假设/v 所有/v 的/u 负/a 能/n 级/n 都/d 已/d 被/p 电子/n 所/u 填满/v ，/w 因而/c 正/a 能/n 级/n 的/u 电子/n 由于/c 泡利/n 原理/n 而/c 无法/d 往下/v 跃/v 迁/v 。/w 
+		
+			
+                                        360
+                                     而且/c 整个/a 填满/v 了/u 的/u 负/a 能/n 电子/n 态/n 所/u 造成/v 的/u 总/h 效果/n 为/vl 零/m ，/w 即/d 所有/v 的/u 可观/a 测量/v （/w 电荷/n 、/w 质量/n 、/w 动量/n 等/u ）/w 都/d 是/vl 零/m ，/w 所以/c 实验/n 上/nd 无法/d 测得/v ，/w 这/r 被/p 形象/a 地/u 称作/v “/w 狄拉克/nh 电子/n 海/n ”/w ，/w 也就是/d 我们/r 平时/nt 所/u 说/v 的/u “/w 真空/n ”/w 。/w 
+		
+			
+                                        361
+                                     然而/c ，/w 当/p 外界/n 有/v 足够/a 的/u 能量/n 将/p 一个/mq 处于/v 负能态/n 的/u 电子/n 激发/v 到/v 正能态/n 时/nt ，/w 在/p 负能态/n 的/u “/w 海洋/n ”/w 中/nd 就/d 出现/v 一个/mq 空位/n ，/w 于是/c 实验/n 上/nd 应/vu 能/vu 观察/v 到/v 一个/mq 带/v 正/a 电荷/n 的/u 电子/n ，/w 这/r 就是/vl 正电子/n 。/w 
+		
+			
+                                        362
+                                     因此/c ，/w 狄拉克/nh 的/u 理论/n 预言/v 了/u 正电子/n 的/u 存在/v 。/w 
+		
+			
+                                        363
+                                     这个/r 预言/n 很快/a 被/p 实验/n 所/u 证实/v 。/w 
+		
+			
+                                        364
+                                     １９３２/m 年/nt ，/w 美国/ns 的/u 安德逊/nh （/w Ｃ/ws ．/w Ｄ/ws ．/w Ａｎｄｅｒｓｏｎ/ws ）/w 在/p 宇宙射线/n 中/nd 发现/v 了/u 这/r 种/q 粒子/n 。/w 
+		
+			
+                                        365
+                                     他/r 在/p 云/n 室/n 的/u 照片/n 中/nd 分析/v 出/vd 有/v 质量/n 和/c 电子/n 质量/n 相等/v 但/c 带/v 正/a 电荷/n 的/u 粒子/n 飞过/v ，/w 和/p 预言/v 的/u 正电子/n 的/u 性质/n 相符/v 。/w 
+		
+			
+                                        366
+                                     以后/nt ，/w 实验/n 上/nd 又/d 发现/v 了/u 正/a 、/w 负电子/n 对/n 的/u 产生/v 和/c 湮灭/v 现象/n ，/w 从而/c 进一步/v 证实/v 了/u 正电子/n 的/u 存在/v 。/w 
+		
+			
+                                        367
+                                     正电子/n □/w 是/vl 第一/m 个/q 被/p 发现/v 的/u 反粒子/n 。/w 
+		
+			
+                                        368
+                                     μ/x 子/n 和/c π/x 介子/n １９３５/m 年/nt ，/w 日本/ns 的/u 汤川秀澍/nh ./w Ｈ/ws ．/w Ｙｕｋａｗａ/ws ）/w 在/p 研究/v 核力/n 的/u 时候/n 曾/d 预言/v 核子/n 间/n 的/u 作用/n 也/d 应/vu 象/v 电磁/n 作用/n 那样/r 要/vu 通过/v 媒介/n 物/n （/w 传播/v 子/n ）/w ，/w 且/c 估算/v 出/vd 这/r 媒介/n 物/n 的/u 质量/n 约/v 为/vl 电子/n 质量/n □/w 的/u ２００倍/m 左右/n 。/w 
+		
+			
+                                        369
+                                     两/m 年/nt 后/nd （/w １９３７/m 年/nt ）/w ，/w 安德逊/nh 等/u 人/n 果然/d 在/p 宇宙射线/n 中/nd 发现/v 了/u 质量/n 为/vl ２０７/m □/w 的/u 粒子/n ，/w 即/vl μ/x 子/n 。/w 
+		
+			
+                                        370
+                                     于是/c 就/d 认为/v 它/r 就是/d 汤川/nh 所/u 预言/v 的/u 那/r 种/q 粒子/n 。/w 
+		
+			
+                                        371
+                                     但/c 以后/nt 发现/v 它/r 和/c 原子核/n 的/u 作用/n 非常/d 微弱/a ，/w 根本/d 不能/vu 担当/v 这/r “/w 媒介/n ”/w 的/u 角色/n ，/w 因而/c 这/r 种/q 看法/n 被/p 否定/v 。/w 
+		
+			
+                                        372
+                                     由于/c μ/x 子/n 质量/n 介乎/v 电子/n 与/c 核子/n 之间/nd ，/w 所以/c 原来/d 一直/d 叫/v 它/r μ/x 介子/n ，/w 后来/nt 知道/v 它/r 只/d 参与/v 弱/a 作用/n 和/c 电磁/n 作用/n ，/w 不/d 参与/v 强/a 作用/n ，/w 因此/c 属于/v 轻/a 子/n 类/n ，/w 于是/c 就/d 叫/v 它/r μ/x 子/n 。/w 
+		
+			
+                                        373
+                                     有/v □/w 和/c □/w 两/m 种/q ，/w 它们/r 互为/v 反粒子/n 。/w 
+		
+			
+                                        374
+                                     μ/x 子/n 不/d 稳定/a ，/w 会/vu 自发/a 衰/a 变成/v 电子/n 和/c 中微子/n ，/w 平均/a 寿命/n 只有/c 大约/d □/w 秒/nt 。/w 
+		
+			
+                                        375
+                                     这/r 当然/d 是/vl 很/d 短促/a 的/u ，/w 但/c 在/p 整个/a 基本粒子/n 的/u “/w 大家庭/n ”/w 中/nd ，/w 它/r 还/d 算是/vl 长寿/a 的/u 。/w 
+		
+			
+                                        376
+                                     １９４７/m 年/nt ，/w 在/p 宇宙射线/n 中/nd 发现/v 了/u 另/r 一个/mq 质量/n 约/v /vl ２７０/m □/w 的/u 粒子/n ，/w 它/r 和/c 核子/n 有/v 很/d 强/a 的/u 相互作用/v ，/w 能/vu 充当/v “/w 媒介/n ”/w 的/u 作用/n 。/w 
+		
+			
+                                        377
+                                     这/r 就是/vl π/x 介子/n ，/w 它/r 才/d 真正/d 是/vl 传递/v 核子/n 间/n 核力/n 作用/n 的/u 传播/v 子/n 。/w 
+		
+			
+                                        378
+                                     第二/m 年/nt ，/w 用/p 加速器/n 人工/n 产生/v 了/u π/x 介子/n 。/w 
+		
+			
+                                        379
+                                     最初/nt 在/p 宇宙射线/n 中/nd 发现/v 的/u 是/vl 带/v 电子/n π/x 介子/n ，/w 即/vl □/w ，/w 它们/r 不/d 稳定/a ，/w 会/vu 自发/a 衰/v 变成/v □/w 和/c 中微子/n ，/w 平均/a 寿命/n 只有/c 约/v □/w 秒/nt 。/w 
+		
+			
+                                        380
+                                     □/w 和/c □/w 互为/v 反粒子/n 。/w 
+		
+			
+                                        381
+                                     １９５０/m 年/nt 又/d 发现/v 了/u 中性/n 的/u π/x 介子/n ，/w 即/d □/w ，/w 它/r 会/vu 很快/a 衰/v 变成/v 两/m 个/q γ/x 光子/n ，/w 平均/a 寿命/n 只有/c □/w 秒/nt 的/u 量级/n 。/w 
+		
+			
+                                        382
+                                     □/w 的/u 反粒子/n 就是/vl 它/r 自己/r 。/w 
+		
+			
+                                        383
+                                     中微子/n ３０/m 年代/nt 初期/nt ，/w 在/p 研究/v 原子核/n 的/u β/x 衰变/v 时/nt 为/vl 泡利/nh 所/u 预言/v ，/w 到/v ５０/m 年代/nt 在/p 实验/n 中/nd 被/p 直接/a 证实/v 。/w 
+		
+			
+                                        384
+                                     这/r 在/p 前面/nd &#167;/w １０/m ．/w ３/m 中/nd 已/d 讲过/v ，/w 这里/r 不再/d 重复/v 。/w 
+		
+			
+                                        385
+                                     进一步/v 的/u 研究/v 发现/v ，/w 中微子/n 有/v 两/m 种/q 。/w 
+		
+			
+                                        386
+                                     和/p 电子/n 一起/d 产生/v 的/u 叫/v 电子/n 中微子/n ，/w 记/v 作/v □/w ；/w 和/p μ/x 子/n 一起/d 出现/v 的/u 叫/v μ/x 子/n 中微子/n ，/w 记/v 作/v □/w 。/w 
+		
+			
+                                        387
+                                     它们/r 又/d 各/r 有/v 其/r 反粒子/n □/w 和/c □/w 。/w 
+		
+			
+                                        388
+                                     □/w 和/c □/w 直到/v １９６２/m 年/nt 才/d 发现/v 。/w 
+		
+			
+                                        389
+                                     反/v 核子/n □/w 和/c □/w 狄拉克/nh 的/u 理论/n 对/p 质子/n ｐ/ws 和/c 中子/n ｎ/ws 同样/a 适用/v （/w 它们/r 的/u 自旋/v 亦/d 是/vl □/w ）/w ，/w 所以/c 在/p 预言/v 正电子/n □/w 存在/v 的/u 同时/n ，/w 也/d 就/d 预言/v 了/u 有/v 反/v 质子/n □/w 和/c 反/v 中子/n □/w 的/u 存在/v 。/w 
+		
+			
+                                        390
+                                     它们/r 分别/v 在/p １９５４/m 年/nt 和/c １９５６/m 年/nt 被/p 发现/v 。/w 
+		
+			
+                                        391
+                                     这样/r ，/w 第一/m 代/n 基本粒子/n 共有/v １４/m 个/q 成/v 负/a （/w 不计/v □/w 和/c □/w ）/w 。/w 
+		
+			
+                                        392
+                                     它们/r 也/d 被/p 称作/v 普通/a 基本粒子/n 。/x 
+		
+			
+                                        393
+                                     下面/nd 介绍/v 几个/mq 有关/v 强子/n 结构/n 的/u 模型/n ，/w 着重/v 介绍/v 夸克/n 模型/n 。/w 
+		
+			
+                                        394
+                                     当然/d ，/w 我们/r 只能/vu 对/p 它们/r 作/v 些/q 定性/v 的/u 描述/v ，/w 而/c 不/d 可能/vu 作/v 进一步/v 的/u 理论/n 分析/v 。/w 
+		
+			
+                                        395
+                                     １９５５/m 年/nt ，/w 日本/ns 物理学家/n 坂田昌一/nh （/w Ｓａｋａｔａ/ws ）/w 等/u 人/n 提出/v 了/u 有关/v 强子/n 结构/n 的/u 模型/n —/w —/w 复合/v 模型/n 。/w 
+		
+			
+                                        396
+                                     这个/r 模型/n 认为/v ，/w 所有/v 强子/n 都/d 可/vu 看作/v 是/vl 由/p ｐ/ws 、/w ｎ/ws 、/w Λ/x 这/r 三/m 个/q 粒子/n （/w 包括/v 其/r 反粒子/n ）/w 所/u 组成/v ，/w 好象/d 所有/a 的/u 原子/n 都/d 是/vl 由/p ｐ/ws 、/w ｎ/ws 和/c ｃ/ws 组成/v 一样/a 。/w 
+		
+			
+                                        397
+                                     他们/r 把/p ｐ/ws 、/w ｎ/ws 和/c Λ/x 这/r 三/m 个/q 粒子/n 称作/v “/w 基础/n 粒子/n ”/w ，/w 而/c 别的/r 强子/n 则/c 称/v “/w 复合/v 粒子/n ”/w 。/w 
+		
+			
+                                        398
+                                     这个/r 模型/n 后来/nt 被/p 称作/v “/w 坂田/nh 模型/n ”/w ，/w 基础/n 粒子/n 也/d 被/p 叫作/v “/w 坂田/nh 粒子/n ”/w 。/w 
+		
+			
+                                        399
+                                     根据/p 这个/r 模型/n ，/w 可以/vu 由/p 上述/v 三/m 个/q 坂田/nh 粒子/n （/w 包括/v 它们/r 的/u 反粒子/n ）/w 构成/v 当时/nt 已知/v 的/u ２０/m 多种/mq 强子/n ：/w 重子/n 由/p 两/m 个/q 坂田/nh 粒子/n 和/c 一个/mq 反粒子/n 组成/v ；/w 介子/n 由/p 一个/mq 坂田/nh 粒子/n 和/c 一个/mq 反粒子/n 组成/v 。/w 
+		
+			
+                                        400
+                                     如/v □/w 可以/vu 看作/v 是/vl 由/p （/w □/w ）/w 组成/v ，/w 因为/c ｐ/ws 、/w □/w 、/w Λ/x 体系/n 的/u Ｂ/ws ＝/w ＋/w １/m ，/w □/w ＝/w ＋/w １/m ，/w Ｓ/ws ＝/w －/w １/m ，/w 和/c □/w 的/u 性质/n 相符/v ，/w 其它/r 量子/n 数/n 也/d 都/d 符合/v 。/w 
+		
+			
+                                        401
+                                     又/d 如/v □/w 被/p 看作/v 由/p （/w □/w ）/w 组成/v ，/w 因为/c ｐ/ws 、/w □/w 体系/n 的/u 量子/n 数/n 和/c □/w 的/u 性质/n 一致/a 。/w 
+		
+			
+                                        402
+                                     各/r 粒子/n 的/u 构成/v 情况/n 如/v 表/n １２/m —/w ４/m 所/u 示/v 。/w 
+		
+			
+                                        403
+                                     其中/nd Σ/x &#176;/w 是/vl （/w □/w ）/w 和/p （/w □/w ）/w 两/m 种/q 体系/n 的/u 线性/n 组合/v ，/w 而/c □/w 则/c 是/vl （/w □/w ）/w 和/c （/w □/w ）/w 的/u 线性/n 组合/v 。/w 
+		
+			
+                                        404
+                                     这个/r 模型/n 还有/v 个/q 很/d 大/a 的/u 优点/n ，/w 就是/d 对于/p 奇异/a 数/n 及/c 奇异/a 数/n 守恒/v 给出/v 了/u 更/d 直观/a 的/u 意义/n 。/w 
+		
+			
+                                        405
+                                     在/p 坂田/nh 模型/n 中/nd ，/w 每个/r 强子/n 的/u 奇异/a 数/n 恰好/d 就/d 等于/v 它/r 所/u 包含/v 的/u □/w 的/u 个数/n 减去/v □/w 的/u 个数/n ，/w 把/p 奇异/a 数/n 这个/r 抽象/a 的/u 数字/n 落实/v 到了/v 具体/a 的/u 东西/n 上/nd ，/w 这/r 就是/d 所谓/a 从/p “/w 形/n 的/u 逻辑/n ”/w 到/v “/w 物/n 的/u 逻辑/n ”/w 的/u 发展/v ，/w 奇异/a 数/n 守恒/v 也就是/d Λ/x 和/c Λ/x 粒子/n 数/n 要/vu 保持/v 不变/v 的/u 自然/n 结果/n 了/u 。/w 
+		
+			
+                                        406
+                                     此外/c ，/w 这个/r 模型/n 还/d 预言/v 了/u 一些/m 粒子/n 的/u 存在/v ，/w 如/v □/w 等/u ，/w 并/c 为/p 以后/nt 的/u 实验/n 所/u 证实/v 。/w 
+		
+			
+                                        407
+                                     这些/r 都/d 是/vl 坂田/nh 模型/n 成功/a 的/u 地方/n 。/w 
+		
+			
+                                        408
+                                     然而/c ，/w 这个/r 模型/n 毕竟/d 是/vl 比较/d 粗糙/a 的/u ，/w 还/d 存在/v 不少/a 缺陷/n 。/w 
+		
+			
+                                        409
+                                     例如/v ，/w 在/p 这个/r 模型/n 中/nd ，/w 有些/m 复合/v 粒子/n 的/u 静止/v 质量/n 要/vu 比/p 组成/v 它/r 的/u 基础/n 粒子/n 的/u 质量/n 小/a 得/u 多/a 。/w 
+		
+			
+                                        410
+                                     如/v 由/p （/w □/w ）/w 组成/v □/w 时/nt ，/w 静止/v 质量/n 只/d 剩/v 原来/d 的/u 十/m 几/n 分之/u 一/m 。/w 
+		
+			
+                                        411
+                                     当然/d ，/w 这/r 可以/vu 用/p 组合/v 时/nt 要/vu 放出/v 巨大/a 的/u 结合/v 能/vu 因而/c 有/v 很/d 大/a 的/u 质量/n “/w 亏损/v ”/w 来/vd 解释/v ，/w 这/r 在/p 原子核/n 中/nd 已经/d 见到/v 过/u 。/w 
+		
+			
+                                        412
+                                     使/v 人/n 怀疑/v 。/w 
+		
+			
+                                        413
+                                     另外/c ，/w 把/p ｐ/ws 、/w ｎ/ws 和/c Λ/x 这/r 三/m 个/q 重子/n 当作/v 地位/n 特殊/a 的/u 基础/n 粒子/n 似乎/d 也/d 缺乏/v 根据/n 。/w 
+		
+			
+                                        414
+                                     因为/c 它们/r 和/c Σ/x 、/w □/w 等/u 重子/n 具有/v 相似/v 的/u 性质/n ，/w 应/vu 属于/v 同一/a 层次/n 。/w 
+		
+			
+                                        415
+                                     还有/v 一个/mq 严重/a 的/u 困难/n ，/w 就是/d 无法/d 用/p 这个/r 模型/n 构成/v 后来/nt 发现/v 的/u □/w 粒子/n 。/w 
+		
+			
+                                        416
+                                     不管怎样/i ，/w 坂田/nh 模型/n 把/p 物质/n 无限/d 可/vu 分/v 的/u 哲学/n 思想/n ，/w 具体/a 运用/v 到/v 粒子/n 结构/n 的/u 研究/v 上/nd ，/w 这/r 对/p 基本粒子/n 的/u 研究/v 起/v 着/u 重要/a 的/u 促进/v 和/c 开创/v 的/u 作用/n ，/w 也/d 为/p 以后/nt 提出/v 夸克/n 模型/n （/w 层子/n 模型/n ）/w 作/v 了/u 很/d 好/a 的/u 思想/n 准备/v 。/w 
+		
+			
+                                        417
+                                     １９６１/m ～/w １９６２/m 年间/nt ，/w 盖曼/nh 和/c 尼曼/nh （/w Ｎｅ/ws ’/w ｅｍａｎ/ws ）/w 分别/v 提出/v 了/u 强子/n 八/m 重/n 态/n 的/u 模型/n 。/w 
+		
+			
+                                        418
+                                     他们/r 提出/v ，/w 八/m 个/q 最/d 轻/a 的/u 介子/n （/w □/w ）/w 由于/c 它们/r 的/u 自旋/v 都/d 是/vl 零/m ，/w 宇/n 称/v 都/d 为奇/v ，/w 所以/c 它们/r 是/vl 同/v 一个/mq □/w 粒子/n 的/u 八/m 重/n 态/n 。/w 
+		
+			
+                                        419
+                                     同理/v ，/w 八/m 个/q 最/d 轻/a 的/u 重子/n （/w □/w ）/w 也是/vl 同/v 一个/mq （/w □/w ）/w 粒子/n 的/u 八/m 重/n 态/n ，/w 因为/c 它们/r 的/u 自旋/v 都/d 是/vl １/m ／/w ２/m ，/w 宇/n 称/v 都/d 是/vl 偶/n 。/w 
+		
+			
+                                        420
+                                     在/p 上述/v 每个/r 八/m 重/n 态/n 里/nd ，/w 既/c 包含有/v 相同/a 的/u Ｉ/ws 和/c □/w ，/w 也/d 包含有/v 不同/a 的/u Ｉ/ws 和/c □/w ；/w 既/c 包含有/v 相同/a 的/u Ｓ/ws ，/w 也/d 包含有/v 不同/a 的/u Ｓ/ws 。/w 
+		
+			
+                                        421
+                                     事实上/nl ，/w 他们/r 的/u 这/r 种/q 看法/n 是/vl 在/p 同位旋/n 多/a 重/n 态/n 的/u 启发/v 下/nd 提出/v 的/u ，/w 所以/c 也/d 可/vu 看作/v 是/vl 同位旋/n 多/a 重/n 态/n 的/u 推广/v ，/w 有时/d 也/d 把/p 它/r 叫作/v “/w 超/h 多/a 重/n 态/n ”/w 。/w 
+		
+			
+                                        422
+                                     前面/nd 讲过/v ，/w 我们/r 可以/vu 把/p 质量/n 相近/a 、/w 其它/r 性质/n 也/d 相似/v 只是/d 电荷/n 不同/a 的/u 粒子/n 看作/v 是/vl 同/v 一个/mq 粒子/n 不同/a 的/u 电荷/n 态/n ，/w 即/vl 不同/a 的/u 同/v 位/n 旋/n 多/a 重/n 态/n 。/w 
+		
+			
+                                        423
+                                     如/v ｐ/ws 和/c ｎ/ws 是/vl 核子/n Ｎ/ws 的/u 同/v 位/n 旋/n 二/m 重/n 态/n ，/w □/w 这/r 三/m 个/q 粒子/n 是/vl 同/v 一个/mq π/x 粒子/n 的/u 同/v 位/n 旋/n 三/m 重/n 态/n ，/w 等等/u 。/w 
+		
+			
+                                        424
+                                     同/v 一个/mq 同/v 位/n 旋/n 多/a 重/n 态/n 之间/nd 的/u 质量/n 差/n 是/vl 由于/c 它们/r 不同/a 的/u 荷/n 电/n 状态/n 引起/v 的/u ，/w 或者说/c 是/vl 由于/c 电磁/n 相互作用/v 造成/v 的/u 。/w 
+		
+			
+                                        425
+                                     这个/r 质量/n 差/n 可以/vu 有/v 几个/mq ＭｅＶ/ws 。/w 
+		
+			
+                                        426
+                                     如/v ｐ/ws 和/c ｎ/ws 的/u 质量/n 差/n Δ/x Ｍ/ws 约/v 为/vl 1．２９/m ＭｅＶ/ws  而/c □/w 和/c □/w 的/u Δ/x Ｍ/ws 则/c 为/vl ４．６/m ＭｅＶ/ws 。/w 
+		
+			
+                                        427
+                                     如果/c 没有/v 电磁/n 作用/n ，/w 只/d 存在/v 强/a 作用/n 的话/u ，/w 那么/r ｐ/ws 和/c ｎ/ws 之间/nd ，/w □/w 和/c □/w 之间/nd 就/d 不会/vu 有/v 质量/n 差/n ，/w 它们/r 都/d 退化/v 为/vl 同/v 一个/mq Ｎ/ws 或/c π/x 粒子/n 。/w 
+		
+			
+                                        428
+                                     盖尔曼/nh 和/c 尼曼/nh 把/p 这/r 种/q 思想/n 加以/v 推广/v ，/w 认为/v 上面/nd 所/u 说/v 的/u 那/r 八/m 个/q 介子/n 和/c 八/m 个/q 重子/n 分别/v 是/vl 同/v 一个/mq □/w 介子/n 和/c □/w 重子/n ，/w 只是/d 处在/v 不同/a 的/u 同/v 位/n 旋/n 多/a 重/n 态/n 和/c “/w 奇异/a 数/n 多/a 重/n 态/n ”/w 而已/u 。/w 
+		
+			
+                                        429
+                                     上述/v 的/u 强子/n 八/m 重/n 态/n 可/vu 用/p 图/n 表示/v 出来/vd 。/w 
+		
+			
+                                        430
+                                     这个/r 图/n 以/p □/w 为/vl 横/a 轴/n ，/w 以/p Ｙ/ws ＝/w Ｂ/ws ＋/w Ｓ/ws 为/vl 纵/a 轴/n 。/w 
+		
+			
+                                        431
+                                     将/p 八/m 个/q 粒子/n 按/v 它们/r 的/u □/w 和/c Ｙ/ws 分别/v 标/v 在/p 这/r 图上/nl ，/w 就/d 会/vu 发现/v 它们/r 很/d 规则/a 地/u 出现/v 在/p 一个/mq 对称/a 图形/n 的/u 各个/r 顶点/n 上/nd （/w 见/v 图/n １２/m －/w ２/m ）/w 。/w 
+		
+			
+                                        432
+                                     本章/n 主要/d 讲/v 静磁场/n ，/w 即/d 恒定/v 电流/n 所/u 激发/v 的/u 磁场/n 。/w 
+		
+			
+                                        433
+                                     因此/c ，/w 在/p 第一/m 节/n 先/d 讲/v 恒定/v 电流/n 的/u 基本/a 规律/n ─/x ─/x 欧姆/q 定律/n 。/w 
+		
+			
+                                        434
+                                     接着/v 讲/v 静磁场/n 方程/n 和/c 边/n 值/n 关系/n 。/w 
+		
+			
+                                        435
+                                     与/c 静电/n 学/n 类似/v ，/w 建立/v 场/n 方程/n 之后/nt ，/w 要/vu 引入/v “/w 势/n ”/w 的/u 概念/n ，/w 不过/c 静磁场/n 的/u “/w 势/n ”/w 是/vl 矢/n 势/n ，/w 它/r 比/p 静电/n 场/n 中/nd 的/u 标/n 势/n 难/a 懂得/v 多/a ，/w 在/p 本章/n 中/nd ，/w 引入/v 它/r 的/u 优越性/n 并不/d 明显/a ，/w 讲/v 它/r 的/u 目的/n 之一/m 是/vl 为/p 以后/nt 的/u 学习/v 作好/v 准备/v 。/w 
+		
+			
+                                        436
+                                     在/p 第五/m 节/n 讲/v 一个/mq 典型/n 的/u 静磁场/n —/w —/w 磁/n 偶/n 极子/n 的/u 磁场/n 。/w 
+		
+			
+                                        437
+                                     第六/m 节/n 讲/v 磁/n 标/n 势/n 法/n ，/w 从而/c 使/v 对/p 磁场强度/n Ｈ/ws 这个/r 概念/n 有/v 较/d 正确/a 的/u 理解/v 。/w 
+		
+			
+                                        438
+                                     最后/n 一/m 节/n 讲/v 磁场/n 的/u 能量/n 。/w 
+		
+			
+                                        439
+                                     在/p 本/r 节/n 中/nd 讲/v ：/w 欧姆/q 定律/n 的/u 微分/n 形式/n ；/w 电荷/n 恒/v 定律/n ；/w Ｊ/ws ＝/w σ/x Ｅ/ws 的/u 应用/v ；/w 含/v 源/n 的/u 欧姆/q 定律/n 的/u 微分/n 形式/n 。/w 
+		
+			
+                                        440
+                                     当/p 导体/n 构成/v 的/u 闭合/v 回路/n 中/nd 有/v 直流/v 电源/n 时/nt ，/w 如/v 图/n （/w ３/m －/w １/m －/w １/m ）/w ，/w 回路/n 中/nd 便/d 会/vu 出现/v 恒定/v 电流/n ，/w 通常/d 我们/r 称之为/v 直流/v 。/w 
+		
+			
+                                        441
+                                     恒定/v 电流/n 的/u 形成/v 是/vl 由于/c 导体/n 中/nd 自由/a 电荷/n 在/p 电场/n 力/n 作用/v 下/nd 作/v 定向/v 运动/n 的/u 结果/n ，/w 这个/r 电场/n 称为/v 恒定/v 电场/n 。/w 
+		
+			
+                                        442
+                                     一般说来/c ，/w 这个/r 恒定/v 电场/n 是/vl 由/p 电源/n 极板/n 上/nd 的/u 电荷/n 和/c 导体/n 表面上/nl 的/u 电荷/n 以及/c 不/d 均匀/a 导体/n 内部/nd 的/u 体/n 电荷/n （/w 后/nd 二者/r 在/p 图中/nl 均未/d 画出/v ）/w 所/u 激发/v 的/u 。/w 
+		
+			
+                                        443
+                                     电流/n 强度/n （/w 以/p Ｉ/ws 表/v 之/u ）/w 是/vl 个/q 代数量/n ，/w 它/r 只有/c 正负/n 之/u 分/v ，/w 所以/c 它/r 只能/vu 描述/v 导体/n 中/nd 通过/v 某/r 一/m 截面/n 的/u 电流/n 的/u 整体/n 特征/n ，/w 要/vu 想/v 细致/a 地/u 描写/v 电流/n 分布/v ，/w 还/d 须/d 引入/v 电流/n 密度/n （/w 以/p ｊ/ws 表/v 之/u ）/w 这个/r 概念/n 。/w 
+		
+			
+                                        444
+                                     在/p 电磁/n 学/k 中/nd 我们/r 已经/d 学/v 过/u ，/w 在/p 导体/n 中/nd 某/r 点/n 的/u 电流/n 密度/n ｊ/ws 与/c 该/r 点/n 的/u 电场/n 强度/n Ｅ/ws 的/u 关系/n 是/vl 它/r 表明/v ｊ/ws 与/c Ｅ/ws 方向/n 一致/a 且/c 数值/n 上/nd 成/v 比例/n 。/w 
+		
+			
+                                        445
+                                     σ/x 为/vl 导体/n 的/u 电导率/n 。/w 
+		
+			
+                                        446
+                                     （/w ３/m ．/w １/m ．/w ２/m ）/w 式/n 称为/v 欧姆/q 定律/n 的/u 微分/n 形式/n ，/w 虽然/c （/w ３/m ．/w １/m ．/w ２/m ）/w 式/n 并不/d 包含/v 微分/n 或/c 导/v 数/n ，/w 但/c 它/r 表示/v 某/r 一点/mq 的/u 两/m 个/q 量/n （/w ｊ/ws 和/p Ｅ/ws ）/w 之间/nd 的/u 关系/n ，/w 故/c 仍/d 称为/v 微分/n 形式/n 。/w 
+		
+			
+                                        447
+                                     还/d 须/d 说明/v ，/w （/w ３/m ．/w １/m ．/w ２/m ）/w 式/n 不仅/c 比/p 欧姆/q 定律/n 的/u 积分/v 形式/n 更/d 能/vu 细致/a 地/u 描述/v 导体/n 的/u 导电/v 规律/n ，/w 而且/c 对/p 非/h 恒定/v 电流/n 也是/vl 适用/v 的/u 。/w 
+		
+			
+                                        448
+                                     恒定/v 电流/n 的/u 电场/n 是/vl 由/p 电源/n 极板/n 上/nd 的/u 电荷/n 和/c 金属/n 导体/n 表面上/nl 的/u 面/n 电荷/n 以及/c 不/d 均匀/a 导体/n 中/nd 的/u 体/n 电荷/n 共同/d 激发/v 的/u 。/w 
+		
+			
+                                        449
+                                     设想/v ，/w 将/p 图/n （/w ３/m －/w １/m －/w １/m ）/w 中/nd 回路/n 拐/v 几个/mq 弯/n ，/w 变成/v 图/n （/w ３/m －/w １/m －/w ３/m ）/w 情况/n ，/w 为了/p 明显/a 起见/v ，/w 把/p 这些/r 弯/n 画/v 的/u 很/d 大/a ，/w 而/c 实际上/nl ，/w ａ/ws 、/w ｂ/ws 或/c ｃ/ws 、/w ｄ/ws 距离/n 是/vl 极/d 近/a 的/u 。/w 
+		
+			
+                                        450
+                                     根据/p 欧姆/q 定律/n ，/w ａ/ws 、/w ｂ/ws （/w 或/d ｃ/ws 、/w ｄ/ws ）/w 两/m 点/n 的/u 电场/n 强度/n 的/u 方向/n 应该/vu 相反/v 。/w 
+		
+			
+                                        451
+                                     如果/c 电场/n 仅仅是/v 极板/n 上/nd 的/u 电荷/n 激发/v 的/u ，/w 由于/c ａ/ws 、/w ｂ/ws 两/m 点/n 距离/n 很/d 近/a ，/w 它们/r 对/p 电源/n 来说/v ，/w 位置/n 是/vl 差不多/a 的/u ，/w 因此/c 电源/n 的/u 电荷/n 在/p ａ/ws 、/w ｂ/ws 两/m 点/n 的/u 电场/n 应该/vu 很/d 接近/v ，/w 根本/d 不/d 可能/vu 有/v 方向/n 相反/v 的/u 结果/n 。/w 
+		
+			
+                                        452
+                                     但是/c ａ/ws 、/w ｂ/ws 两/m 点/n 电场/n 相反/v 是/vl 肯定/v 无疑/v 的/u 。/w 
+		
+			
+                                        453
+                                     由此/d 只能/vu 推出/v ，/w 必然/d 还有/v 其它/r 电荷/n 存在/v ，/w 它们/r 激发/v 的/u 电场/n 是/vl 恒定/v 电流/n 电场/n 中/nd 的/u 一部分/n 。/w 
+		
+			
+                                        454
+                                     它们/r 只/d 可能/vu 在/p 导体/n 的/u 内部/nd 和/c 表面/nd ，/w 下面/nd 我们/r 还/d 将/d 证明/v ，/w 在/p 均匀/a 导体/n 中/nd 体/n 电荷/n 密度/n 是/vl 不/d 存在/v 的/u 。/w 
+		
+			
+                                        455
+                                     所以/c ，/w 电荷/n 只/d 存在/v 于/p 导体/n 的/u 表面/nd 及/c 不/d 均匀/a 导体/n 的/u 内部/nd 。/w 
+		
+			
+                                        456
+                                     导体/n 上/nd 电荷/n 的/u 分布/v 是/vl 一个/mq 复杂/a 的/u 问题/n ，/w 它/r 不/d 属于/v 本/r 课/n 所/u 讨论/v 的/u 范围/n ，/w 但/c 它们/r 是/vl 确实/d 存在/v 且/c 分布/v 是/vl 恒定/v 的/u 。/w 
+		
+			
+                                        457
+                                     由于/c 电流/n 是/vl 恒定/v 的/u ，/w 即/d ｊ/ws 与/c 时间/n ｔ/ws 无关/v ，/w 根据/p 欧姆/q 定律/n ，/w 导体/n 中/nd 的/u 电场/n 必然/d 也是/vl 恒定/v 的/u ，/w 所以/c 电荷/n 分布/v 必然/d 也是/vl 恒定/v 的/u ，/w 反之/c ，/w 若/c 导体/n 表面/nd （/w 以及/c 不/d 均匀/a 导体/n 中/nd ）/w 以及/c 极板/n 上/nd 的/u 电荷/n 分布/v 不/d 恒定/v ，/w 则/c 导体/n 中/nd 的/u 电场/n 就/d 会/vu 随/p 时间/n 变化/v ，/w 电流/n 也/d 就/d 不/d 恒定/v 了/u 。/w 
+		
+			
+                                        458
+                                     我们/r 将/p 恒定/v 电荷/n 分布/v 产生/v 的/u 电场/n 叫/v 恒定/v 电场/n 。/w 
+		
+			
+                                        459
+                                     恒定/v 电场/n 不/d 随/p 时间/n 变化/v ，/w 从/p 这个/r 意义/n 上/nd 说/v ，/w 恒定/v 电场/n 和/c 静电/n 场/n 相同/a ，/w 所以/c 第一/m 章/n 所/u 讲/v 的/u 静电/n 场/n 方程/n 对/p 恒定/v 电场/n 都/d 适用/v 。/w 
+		
+			
+                                        460
+                                     但是/c 应该/vu 看到/v ，/w 静电/n 场/n 所/u 要求/v 的/u 条件/n 比/p 恒定/v 电场/n 更/d 强/a ，/w 如/v 静电/n 平衡/a 条件/n 要求/v 电荷/n 不/d 流动/v ，/w 即/d 没有/v 电流/n ，/w 因此/c ，/w 静电/n 场/n 中/nd 的/u 导体/n 内部/nd 场/n 强/a 必/d 为/vl 零/m 。/w 
+		
+			
+                                        461
+                                     而/c 对/p 恒定/v 电场/n 来说/v ，/w 只/d 要求/v 电荷/n 分布/v 不/d 随/p 时间/n 改变/v ，/w 并不/d 要求/v 电荷/n 静止/v 。/w 
+		
+			
+                                        462
+                                     或者说/c 电荷/n 是/vl 可以/vu 移动/v 的/u ，/w 电流/n 也/d 可以/vu 有/v ，/w 但是/c ，/w 每/r 一点/mq 的/u 电荷/n 体/n 密度/n 或/c 面/n 密度/n 却是/vl 不/d 随/p 时间/n 变化/v 的/u 。/w 
+		
+			
+                                        463
+                                     那么/r ，/w 对/p 每/r 一点/mq 来说/v ，/w 只要/vu 流入/v 的/u 电量/n 等于/v 流出/v 的/u 电量/n ，/w 就/d 可以/vu 保证/v 每/r 一点/mq 的/u 电量/n 不变/v ，/w 这样/r ，/w 就/d 达到/v 了/u 电荷/n 分布/v 不/d 随/p 时间/n 变化/v 的/u 要求/n 。/w 
+		
+			
+                                        464
+                                     对于/p 金属/n 来说/v ，/w 由于/c ｊ/ws 不/d 为/vl 零/m ，/w 根据/p 欧姆/q 定律/n ，/w 金属/n 内部/nd 的/u 电场/n 强度/n 也/d 就/d 不/d 为/vl 零/m 。/w 
+		
+			
+                                        465
+                                     由此可见/i ，/w 静电/n 场/n 是/vl 恒定/v 电场/n 的/u 特例/n 。/x 
+		
+			
+                                        466
+                                     随/p 时间/n 变化/v 的/u 电流/n 和/c 电荷/n 密度/n 激发/v 的/u 电磁场/n 也是/vl 随/p 时间/n 变化/v 的/u （/w 以下/nd 简称为/v 时变/v 电磁场/n ）/w 。/w 
+		
+			
+                                        467
+                                     在/p 恒定/v 场/n 情形/n 电场/n 和/c 磁场/n 之间/nd 没有/v 联系/v 和/c 影响/v ，/w 所以/c 可以/vu 分别/v 地/u 研究/v 。/w 
+		
+			
+                                        468
+                                     但/c 时变/v 场/n 的/u 磁场/n 在/p 变化/v 时/nt 要/vu 感应/v 出/vd 电场/n ；/w 电场/n 的/u 变化/v 也/d 会/vu 激发/v 磁场/n ，/w 电场/n 和/c 磁场/n 是/vl 互相/d 联系/v 、/w 互相/d 制约/v 的/u ，/w 二者/r 成为/v 统一/v 电磁场/n 的/u 两/m 个/q 不可分割/i 的/u 部分/n ，/w 因此/c 必须/d 作为/v 一个/mq 整体/n 来/vd 研究/v 。/w 
+		
+			
+                                        469
+                                     （/w １/m ）/w 电荷/n 、/w 电流/n 激发/v 电磁场/n 及/c 场/n 自身/n 的/u 运动/n 规律/n —/w —/w 麦克斯韦/ns 方程/n 组/n 。/w 
+		
+			
+                                        470
+                                     （/w ２/m ）/w 电磁场/n 对/p 电荷/n 的/u 作用/n 规律/n —/w —/w 洛仑兹力/nh 公式/n 。/w 
+		
+			
+                                        471
+                                     第三/m 个/q 规律/n 电荷/n 守恒/v 定律/n 已/d 在/p 前面/nd 提/v 过/u ，/w 此处/n 不再/d 重复/v 。/w 
+		
+			
+                                        472
+                                     然后/c 从/p （/w １/m ）/w 、/w （/w ２/m ）/w 出发/v 把/p 能量/n 守恒/v 定律/n 推广/v 到/v 电磁场/n 范围/n ，/w 讨论/v 电磁场/n 的/u 能量/n 和/c 能/n 流/n 问题/n 。/w 
+		
+			
+                                        473
+                                     本章/n 的/u 第二/m 部分/n 内容/n 是/vl 研究/v 时变/v 场/n 的/u 传播/v 规律/n 。/w 
+		
+			
+                                        474
+                                     因为/c 变化/v 电磁场/n 是以/c 波动/v 形式/n 传播/v 的/u ，/w 所以/c 称/v 这/r 种/q 场/n 为/vl 电磁波/n 。/w 
+		
+			
+                                        475
+                                     我们/r 先/d 探讨/v 电磁波/n 在/p 真空/n 、/w 均匀/a 绝缘/v 介质/n 、/w 导体/n （/w 金属/n 及/c 等离子体/n ）/w 内/nd 的/u 传播/v 规律/n ；/w 然后/c 再/d 讨论/v 它/r 遇到/v 不同/a 介质/n 时/nt 发生/v 反射/v 、/w 折射/v 的/u 规律/n 。/w 
+		
+			
+                                        476
+                                     最后/n ，/w 对/p 波/n 导/n 问题/n 作/v 一/m 简单/a 的/u 介绍/v 。/w 
+		
+			
+                                        477
+                                     麦克斯韦/ns 方程/n 组/n 是/vl 电磁场/n 的/u 运动/n 方程/n ，/w 这/r 是/vl 一个/mq 普遍/a 的/u 、/w 基本/a 方程/n ，/w 包括/v 了/u 稳/a 恒/a 场/n 和/c 时变/v 场/n 两/m 种/q 情况/n 。/w 
+		
+			
+                                        478
+                                     它/r 在/p 电动/a 力学/n 中/nd 的/u 地位/n ，/w 正如/p 牛顿/nh 定律/n 在/p 经典/n 力学/n 中/nd 的/u 地位/n 一样/a 重要/a 。/w 
+		
+			
+                                        479
+                                     我们/r 只要/vu 知道/v 了/u 某个/r 电磁场/n 在/p 起始/nt 时刻/n 的/u 情况/n 和/c 以后/nt 任何/r 时刻/n 的/u 电荷/n 、/w 电流/n 分布/v ，/w 就/d 可以/vu 从/p 麦克斯韦/ns 方程/n 组/n 求/v 出/vd 任/r 一/m 时刻/n 该/r 电磁场/n 的/u 状态/n 。/w 
+		
+			
+                                        480
+                                     由于/c 它/r 是/vl 由/p 麦克斯韦/ns 首先/d 总结/v 出来/vd 的/u ，/w 所以/c 称为/v 麦克斯韦/ns 方程/n 组/n 。/w 
+		
+			
+                                        481
+                                     ２/m ．/w 把/p 过去/nt 建立/v 的/u 静态/n 情况/n 下/nd 的/u 方程/n 推广/v 到/v 时变/v 场/n ，/w 如果/c 和/p 实验/n 不/d 矛盾/a 就/d 保留/v ，/w 如果/c 和/p 实验/n 有/v 矛盾/n ，/w 再/d 另/r 作/v 修改/v 。/w 
+		
+			
+                                        482
+                                     先/d 讨论/v 真空/n 中/nd 情况/n ，/w 然后/c 再/d 推广/v 到/v 介质/n 中/nd 去/v 。/w 
+		
+			
+                                        483
+                                     １８３１/m 年/nt 法拉第/nh 首次/n 发现/v 电磁/n 感应/v 现象/n 。/w 
+		
+			
+                                        484
+                                     当/p 一个/mq 导体/n 回路/n 中/nd 的/u 电流/n 变化/v 时/nt ，/w 在/p 附近/n 的/u 另/r 一/m 导体/n 回路/n 中/nd 将/d 出现/v 感应/v 电流/n 。/w 
+		
+			
+                                        485
+                                     这/r 是/vl 一个/mq 重要/a 发现/v ，/w 它/r 表明/v 电/n 现象/n 和/c 磁/n 现象/n 有/v 密切/a 联系/v 。/w 
+		
+			
+                                        486
+                                     法拉第/nh 还/d 进一步/v 发现/v 了/u 这个/r 现象/n 所/u 服从/v 的/u 规律/n —/w —/w 法拉第/nh 电磁/n 感应/v 定律/n 。/w 
+		
+			
+                                        487
+                                     它/r 指出/v ：/w 当/p 通过/p 导电/v 回路/n 所/u 围成/v 的/u 面积/n 的/u 磁感应/n 通量/n Φ/x 发生/v 变化/v 时/nt ，/w 回路/n 里/nd 就/d 产生/v 感/v 生/v 电动/a 势/n □/w ，/w 它/r 等于/v 磁感应/n 通量/n 随/p 时间/n 的/u 变化/v 率/n 的/u 负/v 值/n ，/w 即如/c 图/n （/w ４/m －/w １/m －/w １/m ）/w 所/u 示/v ，/w ｓ/ws 是/vl 闭合/v 回路/n Ｌ/ws 所/u 围绕/v 的/u 一个/mq 曲面/n 。/w 
+		
+			
+                                        488
+                                     ｄＳ/ws 是/vl ｓ/ws 上/nd 的/u 任/r 一面/n 元/n 。/w 
+		
+			
+                                        489
+                                     我们/r 规定/v Ｌ/ws 的/u 循/v 回/v 方向/n 和/c ｄＳ/ws 的/u 法/n 线/n 方向/n 成/v 右手/n 螺旋/n 。/w 
+		
+			
+                                        490
+                                     由/p 实验/n 发现/v 当/p 磁/n 通/n 随/p 时间/n 的/u 变化/v 率/n 大于/v 零时/nt ，/w 回路/n Ｌ/ws 中/nd 的/u 电动/a 势/n □/w 和/c Ｌ/ws 的/u 循/v 回/v 方向/n 相反/v ；/w 反之/c 在/p 变化/v 率/n 小于/v 零时/nt ，/w □/w 和/c Ｌ/ws 的/u 循/v 回/v 方向/n 一致/a ，/w 所以/c 在/p （/w ４/m ．/w １/m ．/w １/m ）/w 式/n 的/u 右方/nd 必须/d 有/v 一个/mq 负/v 号/n 。/w 
+		
+			
+                                        491
+                                     当/p 回路/n 不止/v 一/m 匝/q 时/nt ，/w 例如/v 一个/mq Ｎ/ws 匝/q 线圈/n ，/w 可以/vu 看成/v Ｎ/ws 个/q 一/m 匝/q 线圈/n 的/u 串联/v 。/w 
+		
+			
+                                        492
+                                     此时/nt 式/n 中/nd ψ/x ＝/w Ｎ/ws Φ/x 称为/v 通过/p Ｎ/ws 匝/q 线圈/n 的/u 磁/n 链/n 。/w 
+		
+			
+                                        493
+                                     引起/v 磁/n 通/n 变化/v 的/u 原因/n ，/w 可能/vu 是/vl 由于/c 回路/n 相对于/v 磁场/n 有/v 机械/n 运动/n ；/w 也/d 可能/vu 回路/n 静止/v 不/d 动/v 而/c 磁场/n 随/p 时间/n 变化/v ；/w 也/d 有可能/v 两者/n 兼有/v 。/w 
+		
+			
+                                        494
+                                     这里/r 不/d 讨论/v 回路/n 运动/n 的/u 情况/n ，/w 仅/d 研究/v 磁场/n 随/p 时间/n 变化/v 而/c 产生/v 的/u 感应/v 电动/a 势/n 。/w 
+		
+			
+                                        495
+                                     导电/v 回路/n 中/nd 产生/v 了/u 电流/n ，/w 就/d 说明/v 电荷/n 是/vl 受到/v 了/u 力/n ，/w 但是/c 回路/n 没有/v 运动/v ，/w 所以/c 电荷/n 受到/v 的/u 不是/vl 磁场/n 力/n ，/w 而/c 应该/vu 是/vl 电场/n 力/n 。/w 
+		
+			
+                                        496
+                                     回路/n 上/nd 的/u 电流/n ，/w 正/d 表明/v 空间/n 中/nd 存在/v 着/u 电场/n ，/w 因此/c ，/w 电磁/n 感应/v 现象/n 的/u 实质/n 是/vl 变化/v 磁场/n 激发/v 了/u 电场/n ，/w 称/v 这/r 种/q 电场/n 为/vl 感应/v 电场/n 。/w 
+		
+			
+                                        497
+                                     上/nd 式/n 中/nd 的/u 线/n 积分/v 原来/d 只是/d 对/p 导体/n 回路/n Ｌ/ws 进行/v 的/u 。/w 
+		
+			
+                                        498
+                                     但/c 可以/vu 推广/v 到/v 场/n 内/nd 任何/r 一/m 闭合/v 曲线/n Ｌ/ws （/w 而/c 不论/c 导体/n 是否/d 存在/v ）/w 。/w 
+		
+			
+                                        499
+                                     事实上/nl 回路/n 不/d 动/v 时/nt 出现/v 的/u 感应/v 电动/a 势/n 是/vl 由于/c 变化/v 磁场/n 激发/v 了/u 电场/n ，/w 那么/r 不论/c 回路/n 是否/d 存在/v ，/w 只要/vu 磁场/n 随/p 时间/n 变化/v ，/w 电场/n 总是/d 应该/vu 存在/v 的/u 。/w 
+		
+			
+                                        500
+                                     因此/c 对/p 场/n 内/nd 任/r 一/m 闭合/v 曲线/n 都会/vu 有/v （/w ４/m ．/w １/m ．/w ４/m ）/w 存在/v 。/w 
+		
+	
