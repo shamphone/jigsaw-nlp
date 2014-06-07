@@ -3,15 +3,15 @@
  */
 package net.phoenix.nlp.pos.term;
 
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermNatures;
 
 /**
  * @author lixf
  * 
  */
-public class DefaultTerm  implements Term {
+public class DefaultTerm  implements POSTerm {
 	
 	//private static final long serialVersionUID = 7598424649248112742L;
 	// public static final Term NULL = new DefaultTerm("NULL", 0,

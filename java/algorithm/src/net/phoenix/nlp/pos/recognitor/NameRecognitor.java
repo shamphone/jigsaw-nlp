@@ -3,10 +3,11 @@
  */
 package net.phoenix.nlp.pos.recognitor;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermGraph;
-import net.phoenix.nlp.pos.dictionary.PersonTermAttribute;
+import net.phoenix.nlp.pos.corpus.PersonTermAttribute;
 
 /**
  * 
@@ -16,7 +17,7 @@ import net.phoenix.nlp.pos.dictionary.PersonTermAttribute;
  */
 public class NameRecognitor extends AbstractRecognitor {
 
-	public NameRecognitor(Dictionary dictionary){
+	public NameRecognitor(CorpusRepository dictionary){
 		super(dictionary);
 	}
 	
@@ -26,7 +27,7 @@ public class NameRecognitor extends AbstractRecognitor {
 	 * 
 	 * @param path
 	 */
-	protected int calcLeadingFrequency(TermGraph graph, Term name, Term leading) {
+	protected int calcLeadingFrequency(TermGraph graph, Term name, POSTerm leading) {
 		//TermEdge first = path.get(0);
 		int weight = 1;
 		if (leading.equals(graph.getStartVertex()))
@@ -46,7 +47,7 @@ public class NameRecognitor extends AbstractRecognitor {
 	 * @param path
 	 * @return
 	 */
-	protected int calcFollowingFrequency(TermGraph graph, Term name, Term following) {
+	protected int calcFollowingFrequency(TermGraph graph, Term name, POSTerm following) {
 		int weight = 1;
 		if (graph.getEndVertex().equals(following))
 			weight = 10;

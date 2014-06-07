@@ -7,14 +7,16 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermPath;
-import net.phoenix.nlp.pos.dictionary.CompanyLengthDictionary;
-import net.phoenix.nlp.pos.dictionary.CompanyTermAttribute;
+import net.phoenix.nlp.pos.corpus.CompanyNameLengthCorpus;
+import net.phoenix.nlp.pos.corpus.CompanyTermAttribute;
+import net.phoenix.nlp.pos.corpus.file.CompanyNameLengthFileCorpus;
 
 /**
  * @author lixf
@@ -22,17 +24,17 @@ import net.phoenix.nlp.pos.dictionary.CompanyTermAttribute;
  */
 public class CompanyRecognitor extends AbstractRecognitor {
 	
-	private CompanyLengthDictionary lengthFreq ;
+	private CompanyNameLengthCorpus lengthFreq ;
 	
-	public CompanyRecognitor(Dictionary dictionary) throws IOException {
+	public CompanyRecognitor(CorpusRepository dictionary) throws IOException {
 		super(dictionary);
-		this.lengthFreq = dictionary.getDictionary(CompanyLengthDictionary.class);
+		this.lengthFreq = dictionary.getCorpus(CompanyNameLengthFileCorpus.class);
 	}
 	
 	@Override
 	protected void recognize(TermGraph graph) {
-		List<Term> currentVertexes = new ArrayList<Term>(graph.vertexSet());
-		for (Term first : currentVertexes) {
+		List<POSTerm> currentVertexes = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm first : currentVertexes) {
 			CompanyTermAttribute nature = (CompanyTermAttribute) first.getTermNatures().getAttribute(CompanyTermAttribute.ATTRIBUTE);
 			if (nature != null && nature.getIdfBegin() < -0.005 && nature.getBegin() > 1000) {
 				TermPath candidate = graph.createPath(first); // 存放正在遍历的名字组合；
@@ -53,9 +55,9 @@ public class CompanyRecognitor extends AbstractRecognitor {
 	 *            用来存放发现的结果；
 	 */
 	private void findNames(TermGraph graph, TermPath partName) {
-		Term current = partName.getEndVertex();
+		POSTerm current = partName.getEndVertex();
 		for (TermEdge edge : graph.outgoingEdgesOf(current)) {
-			Term next = graph.getEdgeTarget(edge);
+			POSTerm next = graph.getEdgeTarget(edge);
 			CompanyTermAttribute nature = (CompanyTermAttribute) next.getTermNatures().getAttribute(CompanyTermAttribute.ATTRIBUTE);
 			if (nature != null) {
 				if (nature.getIdfEnd() < -0.005 && nature.getEnd() > 200) {
@@ -82,7 +84,7 @@ public class CompanyRecognitor extends AbstractRecognitor {
 		if (partName.getName().trim().length() < 2)
 			return;
 		double score = 0;
-		List<Term> terms = partName.getVertextList();
+		List<POSTerm> terms = partName.getVertextList();
 		CompanyTermAttribute nature = (CompanyTermAttribute) terms.get(0).getTermNatures().getAttribute(CompanyTermAttribute.ATTRIBUTE);
 		score += nature.getIdfBegin();
 		for (int i = 1; i < terms.size() - 1; i++) {
@@ -98,11 +100,11 @@ public class CompanyRecognitor extends AbstractRecognitor {
 
 		score /= 2.0;
 
-		Term current = partName.toTerm(this.createTermNatures(Nature.OrginizationName));
+		POSTerm current = partName.toTerm(this.createTermNatures(Nature.OrginizationName));
 
 		// 将原来指向name第一个词的起始词，都建立指向新的name节点的连接。
 		for (TermEdge edge : graph.incomingEdgesOf(partName.getStartVertex())) {
-			Term leading = graph.getEdgeSource(edge);
+			POSTerm leading = graph.getEdgeSource(edge);
 			TermEdge newEdge = graph.addEdge(leading, current);
 			// 使用Viterbi算法计算前驱权重
 			newEdge.setWeight(score + this.calculateLeadingScore(graph, current, leading));
@@ -110,7 +112,7 @@ public class CompanyRecognitor extends AbstractRecognitor {
 
 		// 将原来name最后一个词的所有外向连接，都建立指向新的name节点的外向连接。
 		for (TermEdge edge : graph.outgoingEdgesOf(partName.getEndVertex())) {
-			Term following = graph.getEdgeTarget(edge);
+			POSTerm following = graph.getEdgeTarget(edge);
 			// 如果名字最后一个词和后面的词结合紧密，则不建立连接。否则建立连接。
 			// if(following.equals(graph.getEndVertex()) ||
 			// this.cooccurrence.getCooccurrenceFrequency(partName.getEndVertex(),
@@ -131,7 +133,7 @@ public class CompanyRecognitor extends AbstractRecognitor {
 	 * @param term
 	 * @return
 	 */
-	private double calculateFollowingScore(TermGraph graph, Term term, Term to) {
+	private double calculateFollowingScore(TermGraph graph, Term term, POSTerm to) {
 		// 后缀分数
 		double score = 0;
 		if (to.getTermNatures().isNature(Nature.End)) {
@@ -148,7 +150,7 @@ public class CompanyRecognitor extends AbstractRecognitor {
 	 * @param term
 	 * @return
 	 */
-	private double calculateLeadingScore(TermGraph graph, Term term, Term from) {
+	private double calculateLeadingScore(TermGraph graph, Term term, POSTerm from) {
 		double score = 0;
 		if (from.getTermNatures().isNature(Nature.Begin)) {
 			CompanyTermAttribute nature = (CompanyTermAttribute) from.getTermNatures().getAttribute(CompanyTermAttribute.ATTRIBUTE);

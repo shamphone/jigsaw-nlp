@@ -6,10 +6,11 @@ package net.phoenix.nlp.pos.recognitor;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.AbstractProcessor;
-import net.phoenix.nlp.pos.Dictionary;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.Recognitor;
-import net.phoenix.nlp.pos.Term;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
@@ -28,7 +29,7 @@ import org.jgrapht.alg.BellmanFordShortestPath;
 public abstract class AbstractRecognitor extends AbstractProcessor implements Recognitor {
 	protected Log log = LogFactory.getLog(this.getClass());
 	
-	public AbstractRecognitor(Dictionary dictionary) {
+	public AbstractRecognitor(CorpusRepository dictionary) {
 		super(dictionary);
 	}
 	
@@ -71,10 +72,10 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 	protected Term createMergedTerm(TermGraph graph, TermPath found, TermNatures natures, boolean removeExisting) {
 
 		// 建立新节点；
-		Term term = found.toTerm(natures);
+		POSTerm term = found.toTerm(natures);
 		// 将原来连接到初始节点的节点，都连接到新节点上；
 		for (TermEdge edge : graph.incomingEdgesOf(found.getStartVertex())) {
-			Term source = graph.getEdgeSource(edge);
+			POSTerm source = graph.getEdgeSource(edge);
 			TermEdge leading = graph.addEdge(source, term);
 			if (leading != null) {
 				leading.setWeight(edge.getWeight());
@@ -82,7 +83,7 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 		}
 
 		for (TermEdge edge : graph.outgoingEdgesOf(found.getEndVertex())) {
-			Term target = graph.getEdgeTarget(edge);
+			POSTerm target = graph.getEdgeTarget(edge);
 			TermEdge following = graph.addEdge(term, target);
 			if (following != null) {
 				following.setWeight(edge.getWeight());
@@ -96,7 +97,7 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 		return term;
 	}
 
-	protected Term createMergedTerm(TermGraph graph, List<Term> found, TermNatures natures, boolean removeExisting) {
+	protected POSTerm createMergedTerm(TermGraph graph, List<POSTerm> found, TermNatures natures, boolean removeExisting) {
 		int from = found.get(0).getStartOffset();
 		int to = found.get(found.size() - 1).getEndOffset();
 		StringBuffer name = new StringBuffer();
@@ -105,10 +106,10 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 		}
 
 		// 建立新节点；
-		Term term = graph.addTerm(from, to, name.toString(), natures);
+		POSTerm term = graph.addTerm(from, to, name.toString(), natures);
 		// 将原来连接到初始节点的节点，都连接到新节点上；
 		for (TermEdge edge : graph.incomingEdgesOf(found.get(0))) {
-			Term source = graph.getEdgeSource(edge);
+			POSTerm source = graph.getEdgeSource(edge);
 			TermEdge leading = graph.addEdge(source, term);
 			if (leading != null) {
 				leading.setWeight(edge.getWeight());
@@ -116,7 +117,7 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 		}
 
 		for (TermEdge edge : graph.outgoingEdgesOf(found.get(found.size() - 1))) {
-			Term target = graph.getEdgeTarget(edge);
+			POSTerm target = graph.getEdgeTarget(edge);
 			TermEdge following = graph.addEdge(term, target);
 			if (following != null) {
 				following.setWeight(edge.getWeight());
@@ -125,8 +126,8 @@ public abstract class AbstractRecognitor extends AbstractProcessor implements Re
 
 		// 删除已有节点之间的边；
 		if (removeExisting) {
-			Term previous = null;
-			for (Term inner : found) {
+			POSTerm previous = null;
+			for (POSTerm inner : found) {
 				if (previous == null)
 					previous = inner;
 				else {

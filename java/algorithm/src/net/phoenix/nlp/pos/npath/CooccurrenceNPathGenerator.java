@@ -6,11 +6,14 @@ package net.phoenix.nlp.pos.npath;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.Corpus;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
-import net.phoenix.nlp.pos.dictionary.CooccurrenceDictionary;
+import net.phoenix.nlp.pos.corpus.CooccurrenceCorpus;
+import net.phoenix.nlp.pos.corpus.file.CooccurrenceFileCorpus;
 
 /**
  * @author lixf
@@ -28,10 +31,10 @@ public class CooccurrenceNPathGenerator extends AbstractNPathGenerator{
 	 * 
 	 * @param cooccurrence
 	 */
-	private CooccurrenceDictionary cooccurrence;	
-	public CooccurrenceNPathGenerator(Dictionary dictionary) {
+	private CooccurrenceCorpus cooccurrence;	
+	public CooccurrenceNPathGenerator(CorpusRepository dictionary) {
 		super(dictionary);
-		this.cooccurrence = this.dictionary.getDictionary(CooccurrenceDictionary.class);
+		this.cooccurrence = this.dictionary.getCorpus(CooccurrenceFileCorpus.class);
 	}
 	
 
@@ -41,7 +44,7 @@ public class CooccurrenceNPathGenerator extends AbstractNPathGenerator{
 	 */
 	@Override
 	protected void scoreEdges(TermGraph gp) {	
-		this.scoreOutgoingEdges(gp, gp.getStartVertex(), new ArrayList<Term>());		
+		this.scoreOutgoingEdges(gp, gp.getStartVertex(), new ArrayList<POSTerm>());		
 	}
 	/**
 	 * 为term所有外向边打分。使用Viterbi算法
@@ -49,7 +52,7 @@ public class CooccurrenceNPathGenerator extends AbstractNPathGenerator{
 	 * @param term
 	 * @param processed
 	 */
-	private void scoreOutgoingEdges(TermGraph gp, Term term, List<Term> processed){
+	private void scoreOutgoingEdges(TermGraph gp, POSTerm term, List<POSTerm> processed){
 		if(processed.contains(term))
 			return;
 		double score = Double.NaN;
@@ -70,7 +73,7 @@ public class CooccurrenceNPathGenerator extends AbstractNPathGenerator{
 		}
 		
 		for(TermEdge edge : gp.outgoingEdgesOf(term)){
-			Term next = gp.getEdgeTarget(edge);
+			POSTerm next = gp.getEdgeTarget(edge);
 			this.scoreOutgoingEdges(gp, next, processed);
 		}
 		
@@ -84,7 +87,7 @@ public class CooccurrenceNPathGenerator extends AbstractNPathGenerator{
 	 *            后面的词
 	 * @return 这两个词之间连接的分数
 	 */
-	public double scoreCooccurrence(Term from, Term to) {
+	public double scoreCooccurrence(POSTerm from, Term to) {
 		double frequency = from.getTermNatures().getSumFrequency() + 1;
 		int nTwoWordsFreq = this.cooccurrence.getCooccurrenceFrequency(from.getName(), to.getName());
 		double value = -Math.log(dSmoothingPara * frequency / (MAX_FREQUENCE + 80000) + (1 - dSmoothingPara) * ((1 - dTemp) * nTwoWordsFreq / frequency + dTemp));

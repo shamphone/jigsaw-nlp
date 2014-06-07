@@ -10,17 +10,8 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import net.phoenix.nlp.pos.dictionary.CharTreeDictionary;
-import net.phoenix.nlp.pos.dictionary.CharsDictionary;
-import net.phoenix.nlp.pos.dictionary.CompanyFrequencyDictionary;
-import net.phoenix.nlp.pos.dictionary.CompanyLengthDictionary;
-import net.phoenix.nlp.pos.dictionary.CooccurrenceDictionary;
-import net.phoenix.nlp.pos.dictionary.FileDictionary;
-import net.phoenix.nlp.pos.dictionary.NatureCooccurrenceDictionary;
-import net.phoenix.nlp.pos.dictionary.NatureFrequencyDictionary;
-import net.phoenix.nlp.pos.dictionary.PersonBoundaryDictionary;
-import net.phoenix.nlp.pos.dictionary.PersonFrequencyDictionary;
-import net.phoenix.nlp.pos.dictionary.T2SDictionary;
+import net.phoenix.nlp.Tokenizer;
+import net.phoenix.nlp.pos.corpus.file.POSFileCorpusRepository;
 import net.phoenix.nlp.pos.npath.CooccurrenceNPathGenerator;
 import net.phoenix.nlp.pos.recognitor.AsianNameRecognitor;
 import net.phoenix.nlp.pos.recognitor.CompanyRecognitor;
@@ -55,19 +46,8 @@ public class StandardTokenizer implements Tokenizer {
 	 * @throws IOException 
 	 */
 	public StandardTokenizer(File directory) throws IOException {
-		Dictionary library = new FileDictionary(directory);
-		library = new NatureFrequencyDictionary(library);
-		library = new NatureCooccurrenceDictionary(library);
-		library = new T2SDictionary(library);
-		library = new CharsDictionary(library);
-		library = new CharTreeDictionary(library);
-		library = new CompanyFrequencyDictionary(library);
-		library = new CompanyLengthDictionary(library);
-		library = new CooccurrenceDictionary(library);
-		library = new PersonBoundaryDictionary(library);
-		library = new PersonFrequencyDictionary(library);
-		
-		
+		POSFileCorpusRepository library = new POSFileCorpusRepository();
+		library.load(directory);	
 		this.scorer = new SimplePathScorer();
 		this.segmenter = new CharTreeSegmenter(library);
 		this.npath = new CooccurrenceNPathGenerator(library);
@@ -87,12 +67,12 @@ public class StandardTokenizer implements Tokenizer {
 	 * @return
 	 */
 	@Override
-	public List<Term> tokenize(String sentence) {
+	public List<POSTerm> tokenize(String sentence) {
 		//long startTime = System.currentTimeMillis();
 		Pattern pattern = Pattern.compile("[，。？！　 ]");
 		Matcher matcher = pattern.matcher(sentence);
 		int start = 0;
-		List<Term> result = new ArrayList<Term>();
+		List<POSTerm> result = new ArrayList<POSTerm>();
 		while (matcher.find(start)) {
 			result.addAll(this.parse(sentence.substring(start, matcher.start() + 1)));
 			start = matcher.start() + 1;
@@ -104,9 +84,9 @@ public class StandardTokenizer implements Tokenizer {
 		return result;
 	}
 
-	public List<Term> parse(String temp) {
+	public List<POSTerm> parse(String temp) {
 		if(temp.trim().length()==0)
-			return new ArrayList<Term>();
+			return new ArrayList<POSTerm>();
 		// 初分词，生成 graph;
 		TermGraph graph = this.segmenter.segment(temp.trim());
 		List<TermPath> pathes = this.npath.process(graph);
@@ -133,7 +113,7 @@ public class StandardTokenizer implements Tokenizer {
 			}
 		}
 		//log.info("[" + score + "] :" + shortest);
-		List<Term> terms = new ArrayList<Term>(shortest.getVertextList());
+		List<POSTerm> terms = new ArrayList<POSTerm>(shortest.getVertextList());
 		terms.remove(terms.size() - 1);
 		terms.remove(0);
 		return terms;

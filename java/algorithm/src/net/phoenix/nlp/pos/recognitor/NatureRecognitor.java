@@ -3,11 +3,12 @@ package net.phoenix.nlp.pos.recognitor;
 import java.io.IOException;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermGraph;
-import net.phoenix.nlp.pos.dictionary.NatureCooccurrenceDictionary;
+import net.phoenix.nlp.pos.corpus.NatureCooccurrenceCorpus;
+import net.phoenix.nlp.pos.corpus.file.NatureCooccurrenceFileCorpus;
 
 import org.jgrapht.EdgeFactory;
 import org.jgrapht.alg.BellmanFordShortestPath;
@@ -21,10 +22,10 @@ import org.jgrapht.graph.SimpleDirectedWeightedGraph;
  * 
  */
 public class NatureRecognitor extends AbstractRecognitor {
-	private NatureCooccurrenceDictionary cooccurrence;
-	public NatureRecognitor(Dictionary dictionary) throws IOException {		
+	private NatureCooccurrenceCorpus cooccurrence;
+	public NatureRecognitor(CorpusRepository dictionary) throws IOException {		
 		super(dictionary);
-		this.cooccurrence = dictionary.getDictionary(NatureCooccurrenceDictionary.class);
+		this.cooccurrence = dictionary.getCorpus(NatureCooccurrenceFileCorpus.class);
 		
 	}
 
@@ -37,7 +38,7 @@ public class NatureRecognitor extends AbstractRecognitor {
 
 		NatureTerm start = null;
 		NatureTerm end = null;
-		for (Term term : graph.vertexSet()){
+		for (POSTerm term : graph.vertexSet()){
 			boolean hasNature = false; //该Term是否有nature；
 			for (Nature nature : term.getTermNatures().natures()) {
 				NatureTerm item = new NatureTerm(term, nature, term.getTermNatures().getFrequency(nature));
@@ -76,12 +77,12 @@ public class NatureRecognitor extends AbstractRecognitor {
 	 * 
 	 */
 	class NatureTerm {
-		public Term term;
+		public POSTerm term;
 		public Nature nature;
 		public double score = Double.NaN;
 		public double selfScore = 1;
 
-		NatureTerm(Term term, Nature nature, int freq) {
+		NatureTerm(POSTerm term, Nature nature, int freq) {
 			this.term = term;
 			this.nature = nature;
 			this.selfScore = freq + 1;

@@ -5,7 +5,7 @@ package net.phoenix.nlp.pos;
 
 import java.util.List;
 
-import net.phoenix.nlp.pos.TermNatures;
+import net.phoenix.nlp.Term;
 
 import org.jgrapht.DirectedGraph;
 import org.jgrapht.GraphPath;
@@ -15,19 +15,19 @@ import org.jgrapht.WeightedGraph;
  * @author lixf
  *
  */
-public interface TermGraph extends WeightedGraph<Term, TermEdge>, DirectedGraph<Term, TermEdge> {
+public interface TermGraph extends WeightedGraph<POSTerm, TermEdge>, DirectedGraph<POSTerm, TermEdge> {
 	
 	/**
 	 * 获得起始节点；
 	 * @return
 	 */
-	public Term getStartVertex();
+	public POSTerm getStartVertex();
 	
 	/**
 	 * 获得结束节点
 	 * @return
 	 */
-	public Term getEndVertex();
+	public POSTerm getEndVertex();
 	
 	
 	/**
@@ -52,7 +52,7 @@ public interface TermGraph extends WeightedGraph<Term, TermEdge>, DirectedGraph<
 	 * @param natures
 	 * @return
 	 */
-	public Term addTerm(int from, int to, String name, TermNatures natures);
+	public POSTerm addTerm(int from, int to, String name, TermNatures natures);
 	
 	/**
 	 * 添加一条边
@@ -69,13 +69,13 @@ public interface TermGraph extends WeightedGraph<Term, TermEdge>, DirectedGraph<
 	 * @param edges
 	 * @return
 	 */
-	public TermPath createPath(Term start);
+	public TermPath createPath(POSTerm start);
 	/**
 	 * 创建当前path的一个副本
 	 * @param edges
 	 * @return
 	 */
-	public TermPath createPath(GraphPath<Term, TermEdge> path);	
+	public TermPath createPath(GraphPath<POSTerm, TermEdge> path);	
 	
 	/**
 	 * 创建当前path的一个副本

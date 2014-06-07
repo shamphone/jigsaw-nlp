@@ -3,6 +3,7 @@
  */
 package net.phoenix.nlp.pos;
 
+
 /**
  * 用于索引TermNature的节点树的节点 
  * 

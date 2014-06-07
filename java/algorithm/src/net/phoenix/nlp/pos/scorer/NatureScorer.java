@@ -3,13 +3,14 @@
  */
 package net.phoenix.nlp.pos.scorer;
 
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.AbstractProcessor;
-import net.phoenix.nlp.pos.Dictionary;
 import net.phoenix.nlp.pos.PathScorer;
-import net.phoenix.nlp.pos.Term;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermPath;
-import net.phoenix.nlp.pos.dictionary.NatureCooccurrenceDictionary;
+import net.phoenix.nlp.pos.corpus.NatureCooccurrenceCorpus;
+import net.phoenix.nlp.pos.corpus.file.NatureCooccurrenceFileCorpus;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -24,10 +25,10 @@ public class NatureScorer extends AbstractProcessor implements PathScorer {
 
 	private static Log log = LogFactory.getLog(NatureScorer.class);
 
-	private NatureCooccurrenceDictionary natures;
-	public NatureScorer(Dictionary dictionary) {
+	private NatureCooccurrenceCorpus natures;
+	public NatureScorer(CorpusRepository dictionary) {
 		super(dictionary);
-		this.natures = dictionary.getDictionary(NatureCooccurrenceDictionary.class);
+		this.natures = dictionary.getCorpus(NatureCooccurrenceFileCorpus.class);
 	}
 
 	/**

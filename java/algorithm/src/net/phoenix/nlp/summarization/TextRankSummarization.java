@@ -11,8 +11,9 @@ import java.util.Comparator;
 import java.util.Iterator;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Term;
-import net.phoenix.nlp.pos.Tokenizer;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.Tokenizer;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.sentence.Detector;
 import net.phoenix.nlp.sentence.Sentence;
 
@@ -136,7 +137,7 @@ public class TextRankSummarization implements Summarization {
 	 */
 	protected SimpleMatrix buildSimilarityMatrix(List<Sentence> sentences) {
 		for (Sentence sentence : sentences) {
-			List<Term> terms = this.tokenizer.tokenize(sentence.toString());
+			List<POSTerm> terms = this.tokenizer.tokenize(sentence.toString());
 			((SentenceWrapper) sentence).setTerms(terms);
 		}
 		SimpleMatrix matrix = new SimpleMatrix(sentences.size(),
@@ -174,8 +175,8 @@ public class TextRankSummarization implements Summarization {
 	 * @return
 	 */
 	protected double similarity(Sentence sentence1, Sentence sentence2) {
-		List<Term> tokens1 = ((SentenceWrapper) sentence1).getTerms();
-		List<Term> tokens2 = ((SentenceWrapper) sentence2).getTerms();
+		List<POSTerm> tokens1 = ((SentenceWrapper) sentence1).getTerms();
+		List<POSTerm> tokens2 = ((SentenceWrapper) sentence2).getTerms();
 		if (tokens1.size() == 0 || tokens2.size() == 0)
 			return 0;
 		int count = 0;

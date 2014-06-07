@@ -5,13 +5,15 @@ package net.phoenix.nlp.pos;
 
 import java.util.List;
 
+import net.phoenix.nlp.Term;
+
 import org.jgrapht.GraphPath;
 
 /**
  * @author lixf
  * 
  */
-public interface TermPath extends GraphPath<Term, TermEdge> {
+public interface TermPath extends GraphPath<POSTerm, TermEdge> {
 	/**
 	 * extend the path with edge term;
 	 * 
@@ -23,7 +25,7 @@ public interface TermPath extends GraphPath<Term, TermEdge> {
 	 * 
 	 * @param term
 	 */
-	public void extendTo(Term term);
+	public void extendTo(POSTerm term);
 	
 	/**
 	 * 删除最后一个节点,将倒数第二个节点变成最后一个节点；
@@ -74,20 +76,20 @@ public interface TermPath extends GraphPath<Term, TermEdge> {
 	 * @param index
 	 * @return
 	 */
-	public Term  getVertex(int index);
+	public POSTerm  getVertex(int index);
 	
 	/**
 	 * 获取所有节点
 	 * @param index
 	 * @return
 	 */
-	public List<Term>  getVertextList();
+	public List<POSTerm>  getVertextList();
 	
 	/**
 	 * 转换成一个Term
 	 * @return
 	 */
-	public Term toTerm(TermNatures natures);
+	public POSTerm toTerm(TermNatures natures);
 	/**
 	 * 转换成一个TermGraph
 	 * @return

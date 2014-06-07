@@ -7,7 +7,8 @@ import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
@@ -25,10 +26,10 @@ public class DefaultTermPath implements TermPath {
 	private double weight;
 	private boolean confirmed;
 	private String nature;
-	private Term start;
-	private Term end;
+	private POSTerm start;
+	private POSTerm end;
 
-	protected DefaultTermPath(TermGraph graph, Term start) {
+	protected DefaultTermPath(TermGraph graph, POSTerm start) {
 		this.graph = graph;
 		this.edges = new ArrayList<TermEdge>();
 		this.confirmed = false;
@@ -46,17 +47,17 @@ public class DefaultTermPath implements TermPath {
 	}
 
 	@Override
-	public Graph<Term, TermEdge> getGraph() {
+	public Graph<POSTerm, TermEdge> getGraph() {
 		return this.graph;
 	}
 
 	@Override
-	public Term getStartVertex() {
+	public POSTerm getStartVertex() {
 		return this.start;
 	}
 
 	@Override
-	public Term getEndVertex() {
+	public POSTerm getEndVertex() {
 		return this.end;
 	}
 
@@ -135,7 +136,7 @@ public class DefaultTermPath implements TermPath {
 	}
 
 	@Override
-	public void extendTo(Term term) {
+	public void extendTo(POSTerm term) {
 		TermEdge edge = this.graph.getEdge(end, term);
 		if (edge == null)
 			throw new IllegalArgumentException("Could not extend path to term [" + term + "], it is not connected with last term [" + end + "].");
@@ -161,7 +162,7 @@ public class DefaultTermPath implements TermPath {
 	}
 
 	@Override
-	public Term getVertex(int index) {
+	public POSTerm getVertex(int index) {
 		if (index > this.edges.size())
 			throw new IndexOutOfBoundsException("Could not get " + index + " vertext in path with size " + this.getVertexCount() + ".");
 		if (index == this.edges.size())
@@ -174,14 +175,14 @@ public class DefaultTermPath implements TermPath {
 	}
 
 	@Override
-	public Term toTerm(TermNatures natures) {
+	public POSTerm toTerm(TermNatures natures) {
 		if (this.edges.size() == 0)
 			return this.start;
 		return graph.addTerm(this.start.getStartOffset(), this.end.getEndOffset(), this.getName(), natures);
 	}
 
 	@Override
-	public List<Term> getVertextList() {
+	public List<POSTerm> getVertextList() {
 		return new EdgeList2VertextList();
 	}
 
@@ -190,10 +191,10 @@ public class DefaultTermPath implements TermPath {
 		return this.graph;
 	}
 
-	class EdgeList2VertextList extends AbstractList<Term> {
+	class EdgeList2VertextList extends AbstractList<POSTerm> {
 
 		@Override
-		public Term get(int index) {
+		public POSTerm get(int index) {
 			return DefaultTermPath.this.getVertex(index);
 		}
 

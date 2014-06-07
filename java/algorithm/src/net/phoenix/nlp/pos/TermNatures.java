@@ -2,6 +2,8 @@ package net.phoenix.nlp.pos;
 
 import java.util.Set;
 
+import net.phoenix.nlp.Nature;
+
 
 /**
  * 

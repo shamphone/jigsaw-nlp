@@ -9,13 +9,15 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
-import net.phoenix.nlp.pos.dictionary.CharsDictionary;
+import net.phoenix.nlp.pos.corpus.CharsetCorpus;
+import net.phoenix.nlp.pos.corpus.file.CharsetFileCorpus;
 
 /**
  * @author lixf
@@ -24,9 +26,9 @@ import net.phoenix.nlp.pos.dictionary.CharsDictionary;
 public class NumberRecognitor extends AbstractRecognitor {
 	private char[] characters;
 
-	public NumberRecognitor(Dictionary dictionary) throws IOException {
+	public NumberRecognitor(CorpusRepository dictionary) throws IOException {
 		super(dictionary);		
-		CharsDictionary chars = dictionary.getDictionary(CharsDictionary.class);
+		CharsetCorpus chars = dictionary.getCorpus(CharsetFileCorpus.class);
 		this.characters = chars.getChars("number");
 		Arrays.sort(this.characters);
 	}
@@ -45,12 +47,12 @@ public class NumberRecognitor extends AbstractRecognitor {
 	 * @param graph
 	 * @return
 	 */
-	private List<Term> findNumbers(TermGraph graph) {
-		List<Term> confirmed = new ArrayList<Term>();
-		List<Term> parts = new ArrayList<Term>();
-		List<Term> candidates = new ArrayList<Term>(graph.vertexSet());
+	private List<POSTerm> findNumbers(TermGraph graph) {
+		List<POSTerm> confirmed = new ArrayList<POSTerm>();
+		List<POSTerm> parts = new ArrayList<POSTerm>();
+		List<POSTerm> candidates = new ArrayList<POSTerm>(graph.vertexSet());
 		while (candidates.size() > 0) {
-			Term term = candidates.remove(0);
+			POSTerm term = candidates.remove(0);
 			// 如果当前词是一个数字，而且这个数字还没有处理过（不在pathes中）。
 			if (this.isNumber(term)) {
 				// 清空缓存
@@ -71,9 +73,9 @@ public class NumberRecognitor extends AbstractRecognitor {
 	 * @param parts
 	 * @param confirmed
 	 */
-	private void findNumbers(TermGraph graph, List<Term> parts, List<Term> candidates, List<Term> confirmed) {
+	private void findNumbers(TermGraph graph, List<POSTerm> parts, List<POSTerm> candidates, List<POSTerm> confirmed) {
 		// The term next to current edge;
-		Term current = parts.get(parts.size() - 1);
+		POSTerm current = parts.get(parts.size() - 1);
 		Collection<TermEdge> following = graph.outgoingEdgesOf(current);
 		if (following.size() == 0) {
 			// 如果后续没有节点了，这是最后一个节点；
@@ -82,7 +84,7 @@ public class NumberRecognitor extends AbstractRecognitor {
 		} else
 			// 检查所有的后续节点
 			for (TermEdge edge : following) {
-				Term next = graph.getEdgeTarget(edge);
+				POSTerm next = graph.getEdgeTarget(edge);
 				candidates.remove(next);
 				if (this.isNumber(next) || next.getName().equals(".")) {
 					parts.add(next);
@@ -110,8 +112,8 @@ public class NumberRecognitor extends AbstractRecognitor {
 	 * @param found
 	 * @param numbers
 	 */
-	private void createNumber(TermGraph graph, List<Term> found, boolean confirmed, List<Term> numbers) {
-		Term term = this.createMergedTerm(graph, found, this.createTermNatures(Nature.Number), confirmed);
+	private void createNumber(TermGraph graph, List<POSTerm> found, boolean confirmed, List<POSTerm> numbers) {
+		POSTerm term = this.createMergedTerm(graph, found, this.createTermNatures(Nature.Number), confirmed);
 		numbers.add(term);
 	}
 
@@ -148,11 +150,11 @@ public class NumberRecognitor extends AbstractRecognitor {
 	 * @param number
 	 */
 	private void findQuatifiers(TermGraph graph) {
-		List<Term> candidates = new ArrayList<Term>(graph.vertexSet());
-		for (Term number : candidates) {
+		List<POSTerm> candidates = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm number : candidates) {
 			if (this.isNumber(number)) {
 				for (TermEdge outgoing : graph.outgoingEdgesOf(number)) {
-					Term candidate = graph.getEdgeTarget(outgoing);
+					POSTerm candidate = graph.getEdgeTarget(outgoing);
 					if (this.isNumberFollowing(candidate.getTermNatures())) {
 						this.createQuatifiers(graph, number, candidate);
 					}
@@ -169,8 +171,8 @@ public class NumberRecognitor extends AbstractRecognitor {
 	 * @param quatifier
 	 * @return
 	 */
-	private Term createQuatifiers(TermGraph graph, Term number, Term quatifier) {
-		List<Term> terms = new ArrayList<Term>();
+	private Term createQuatifiers(TermGraph graph, POSTerm number, POSTerm quatifier) {
+		List<POSTerm> terms = new ArrayList<POSTerm>();
 		terms.add(number);
 		terms.add(quatifier);
 		return this.createMergedTerm(graph, terms, this.createTermNatures(Nature.Qualifier), false);

@@ -7,14 +7,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermPath;
-import net.phoenix.nlp.pos.dictionary.CooccurrenceDictionary;
-import net.phoenix.nlp.pos.dictionary.PersonTermAttribute;
+import net.phoenix.nlp.pos.corpus.CooccurrenceCorpus;
+import net.phoenix.nlp.pos.corpus.PersonTermAttribute;
+import net.phoenix.nlp.pos.corpus.file.CooccurrenceFileCorpus;
 
 /**
  * 亚洲（中文）名识别，针对2-4个字的名字识别。
@@ -27,11 +28,11 @@ public class AsianNameRecognitor extends NameRecognitor {
 	private static final double[] FACTORY = { 0.16271366224044456, 0.8060521860870434, 0.031234151672511947 };
 	private static int NAME_LENGTH_MIN = 2;
 	private static int NAME_LENGTH_MAX = 4;
-	private CooccurrenceDictionary cooccurrence;
+	private CooccurrenceCorpus cooccurrence;
 
-	public AsianNameRecognitor(Dictionary dictionary) throws IOException {
+	public AsianNameRecognitor(CorpusRepository dictionary) throws IOException {
 		super(dictionary);
-		this.cooccurrence = dictionary.getDictionary(CooccurrenceDictionary.class);
+		this.cooccurrence = dictionary.getCorpus(CooccurrenceFileCorpus.class);
 		
 	}
 
@@ -44,11 +45,11 @@ public class AsianNameRecognitor extends NameRecognitor {
 	 */
 	protected void recognize(TermGraph graph) {
 		this.resetEdgesScore(graph, 0.0);
-		List<Term> foundNames = new ArrayList<Term>();
+		List<POSTerm> foundNames = new ArrayList<POSTerm>();
 		// 从每一个点边开始检查其成词的可能性;
 		// 系统将生成一些新的节点，这样可以避免同时修改一个集合的问题。
-		List<Term> currentVertexes = new ArrayList<Term>(graph.vertexSet());
-		for (Term start : currentVertexes) {
+		List<POSTerm> currentVertexes = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm start : currentVertexes) {
 			PersonTermAttribute attr = (PersonTermAttribute) start.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 			if (attr != null && attr.canBeFirstLetter()) {
 				for (int length = NAME_LENGTH_MIN; length <= NAME_LENGTH_MAX; length++) {
@@ -69,7 +70,7 @@ public class AsianNameRecognitor extends NameRecognitor {
 	 * @param length
 	 * @return
 	 */
-	private boolean canBeNameStartTerm(Term term, int length) {
+	private boolean canBeNameStartTerm(POSTerm term, int length) {
 		PersonTermAttribute attr = (PersonTermAttribute) term.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 		return attr != null && attr.getLocationFrequency(length - NAME_LENGTH_MIN, 0) > 10;
 	}
@@ -82,7 +83,7 @@ public class AsianNameRecognitor extends NameRecognitor {
 	 * @param pos
 	 * @return
 	 */
-	private boolean canAppearInName(Term term, int length, int pos) {
+	private boolean canAppearInName(POSTerm term, int length, int pos) {
 		PersonTermAttribute attr = (PersonTermAttribute) term.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 		return attr != null && attr.getLocationFrequency(length - NAME_LENGTH_MIN, pos) > 0;
 
@@ -100,21 +101,21 @@ public class AsianNameRecognitor extends NameRecognitor {
 	 * @param names
 	 *            用来存放发现的结果；
 	 */
-	private void findNames(TermGraph graph, TermPath partName, int length, List<Term> names) {
+	private void findNames(TermGraph graph, TermPath partName, int length, List<POSTerm> names) {
 		int pos = partName.getVertexCount();
 		// 超长，不理；
 		if (pos > length)
 			return;
-		Term current = partName.getEndVertex();
+		POSTerm current = partName.getEndVertex();
 		for (TermEdge edge : graph.outgoingEdgesOf(current)) {
 			// 对于长度为N的名字，往前走一步，到N+1，检查下路径是否可以组成名字；
 			// 判断新增加的这条边目标节点是否可以作为名字的第N个字符；
-			Term next = graph.getEdgeTarget(edge);
+			POSTerm next = graph.getEdgeTarget(edge);
 			if (this.canAppearInName(next, length, pos)) {
 				partName.extendTo(next);
 				if (pos == length - 1) {
 					// 达到指定长度，检查是否可以组成人名了；
-					Term candidate = this.checkNamePath(graph, partName);
+					POSTerm candidate = this.checkNamePath(graph, partName);
 					if (candidate != null)
 						names.add(candidate);
 
@@ -137,12 +138,12 @@ public class AsianNameRecognitor extends NameRecognitor {
 	 * 
 	 * @param path
 	 */
-	private Term checkNamePath(TermGraph graph, TermPath partName) {
+	private POSTerm checkNamePath(TermGraph graph, TermPath partName) {
 		double score = 0;
 		int maybeBoundary = 0;
 		int nameLength = partName.getVertexCount();
 		for (int i = 0; i < nameLength; i++) {
-			Term term = partName.getVertex(i);
+			POSTerm term = partName.getVertex(i);
 			PersonTermAttribute pna = (PersonTermAttribute) term.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 			// 在这个长度的这个位置的词频,如果没有可能就跳出循环
 			int freq = pna.getLocationFrequency(partName.getVertexCount() - NAME_LENGTH_MIN, i);
@@ -163,11 +164,11 @@ public class AsianNameRecognitor extends NameRecognitor {
 		// 分为为前置和后置edge；
 		score /= 2.0;
 
-		Term name = partName.toTerm(this.createTermNatures(Nature.PersonName));
+		POSTerm name = partName.toTerm(this.createTermNatures(Nature.PersonName));
 
 		// 将原来指向name第一个词的起始词，都建立指向新的name节点的连接。
 		for (TermEdge edge : graph.incomingEdgesOf(partName.getStartVertex())) {
-			Term leading = graph.getEdgeSource(edge);
+			POSTerm leading = graph.getEdgeSource(edge);
 			TermEdge newEdge = graph.addEdge(leading, name);
 			// 使用Viterbi算法计算前驱权重
 			newEdge.setWeight(score - Math.log(this.calcLeadingFrequency(graph, name, leading)));
@@ -175,7 +176,7 @@ public class AsianNameRecognitor extends NameRecognitor {
 
 		// 将原来name最后一个词的所有外向连接，都建立指向新的name节点的外向连接。
 		for (TermEdge edge : graph.outgoingEdgesOf(partName.getEndVertex())) {
-			Term following = graph.getEdgeTarget(edge);
+			POSTerm following = graph.getEdgeTarget(edge);
 			// 如果名字最后一个词和后面的词结合紧密，则不建立连接。否则建立连接。
 			if (following.equals(graph.getEndVertex()) || this.cooccurrence.getCooccurrenceFrequency(partName.getEndVertex().getName(), following.getName()) < 3) {
 				TermEdge newEdge = graph.addEdge(name, following);

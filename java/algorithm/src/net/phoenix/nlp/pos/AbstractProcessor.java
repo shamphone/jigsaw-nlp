@@ -3,17 +3,18 @@
  */
 package net.phoenix.nlp.pos;
 
-import net.phoenix.nlp.pos.dictionary.BasicTermNatures;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
 
 /**
  * @author lixf
  * 
  */
 public class AbstractProcessor {
-	protected transient Dictionary dictionary;
+	protected CorpusRepository dictionary;
 	private static final int BLANK_LENATH = 0;
 
-	public AbstractProcessor(final Dictionary dictionary) {
+	public AbstractProcessor(final CorpusRepository dictionary) {
 		this.dictionary = dictionary;
 	}
 

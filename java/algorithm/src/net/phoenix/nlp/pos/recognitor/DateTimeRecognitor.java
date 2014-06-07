@@ -21,13 +21,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermPath;
-import net.phoenix.nlp.pos.dictionary.CharsDictionary;
+import net.phoenix.nlp.pos.corpus.CharsetCorpus;
+import net.phoenix.nlp.pos.corpus.file.CharsetFileCorpus;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -50,9 +51,9 @@ public class DateTimeRecognitor extends AbstractRecognitor {
 	private char[] numbers;
 	private char[] qualifiers;
 
-	public DateTimeRecognitor(Dictionary dictionary) throws IOException {
+	public DateTimeRecognitor(CorpusRepository dictionary) throws IOException {
 		super(dictionary);
-		CharsDictionary chars = dictionary.getDictionary(CharsDictionary.class);
+		CharsetCorpus chars = dictionary.getCorpus(CharsetFileCorpus.class);
 		this.numbers = chars.getChars("datetime.number");
 		Arrays.sort(this.numbers);
 		this.qualifiers = chars.getChars("datetime.qualifier");
@@ -67,8 +68,8 @@ public class DateTimeRecognitor extends AbstractRecognitor {
 		this.resetEdgesScore(graph, 0.0);
 		// 从每一个点边开始检查其成词的可能性;
 		// 系统将生成一些新的节点，这样可以避免同时修改一个集合的问题。
-		List<Term> currentVertexes = new ArrayList<Term>(graph.vertexSet());
-		for (Term start : currentVertexes) {
+		List<POSTerm> currentVertexes = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm start : currentVertexes) {
 			// 这个词是否可以作为长度为length的名字的开头词；
 			Status status = this.parseStatus(start);
 			if (status != Status.Other) {
@@ -80,7 +81,7 @@ public class DateTimeRecognitor extends AbstractRecognitor {
 
 	}
 
-	private Status parseStatus(Term term) {
+	private Status parseStatus(POSTerm term) {
 		if (term.getTermNatures().isNature(Nature.Number))
 			return Status.Number;
 		String name = term.getName();
@@ -131,11 +132,11 @@ public class DateTimeRecognitor extends AbstractRecognitor {
 	 */
 	private void findDateTime(TermGraph graph, TermPath partName, Status currentStatus) {
 		// int pos = partName.getVertexCount();
-		Term current = partName.getEndVertex();
+		POSTerm current = partName.getEndVertex();
 		for (TermEdge edge : graph.outgoingEdgesOf(current)) {
 			// 对于长度为N的名字，往前走一步，到N+1，检查下路径是否可以组成名字；
 			// 判断新增加的这条边目标节点是否可以作为名字的第N个字符；
-			Term next = graph.getEdgeTarget(edge);
+			POSTerm next = graph.getEdgeTarget(edge);
 			Status nextStatus = this.parseStatus(next);
 			boolean canContinue = false;
 			switch (currentStatus) {

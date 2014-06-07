@@ -6,7 +6,8 @@ package net.phoenix.nlp.pos.term;
 import java.util.Collection;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
@@ -23,7 +24,7 @@ import org.jgrapht.graph.SimpleDirectedWeightedGraph;
  * @author lixf
  * 
  */
-public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge> implements TermGraph {
+public class DefaultTermGraph extends SimpleDirectedWeightedGraph<POSTerm, TermEdge> implements TermGraph {
 
 	/**
 	 * 
@@ -33,11 +34,11 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	/**
 	 * 起始节点
 	 */
-	private Term start;
+	private POSTerm start;
 	/**
 	 * 终止节点；
 	 */
-	private Term end;
+	private POSTerm end;
 
 	public DefaultTermGraph(String source) {
 		super(new TermEdgeFactory());
@@ -100,7 +101,7 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	// }
 	@Override
 	public String toString() {
-		Collection<Term> vertexSet = this.vertexSet();
+		Collection<POSTerm> vertexSet = this.vertexSet();
 		Collection<TermEdge> edgeSet = this.edgeSet();
 		StringBuffer sb = new StringBuffer();
 		sb.append(vertexSet);
@@ -118,7 +119,7 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	}
 
 	@Override
-	public boolean addVertex(Term term) {
+	public boolean addVertex(POSTerm term) {
 		if (this.start == null || term.getStartOffset() < this.start.getStartOffset())
 			this.start = term;
 		if (this.end == null || term.getEndOffset() > this.end.getEndOffset())
@@ -128,7 +129,7 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	}
 
 	@Override
-	public Term addTerm(int from, int to, String name, TermNatures natures) {
+	public POSTerm addTerm(int from, int to, String name, TermNatures natures) {
 		DefaultTerm term = new DefaultTerm(name, from, to, natures);
 		this.addVertex(term);
 		if (this.start == null || from < this.start.getStartOffset())
@@ -139,12 +140,12 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	}
 
 	@Override
-	public Term getStartVertex() {
+	public POSTerm getStartVertex() {
 		return this.start;
 	}
 
 	@Override
-	public Term getEndVertex() {
+	public POSTerm getEndVertex() {
 		return this.end;
 	}
 
@@ -154,12 +155,12 @@ public class DefaultTermGraph extends SimpleDirectedWeightedGraph<Term, TermEdge
 	}
 
 	@Override
-	public TermPath createPath(Term start) {
+	public TermPath createPath(POSTerm start) {
 		return new DefaultTermPath(this, start);
 	}
 
 	@Override
-	public TermPath createPath(GraphPath<Term, TermEdge> path) {
+	public TermPath createPath(GraphPath<POSTerm, TermEdge> path) {
 		TermPath termPath = this.createPath(path.getStartVertex());
 		for (TermEdge edge : path.getEdgeList())
 			termPath.extend(edge);

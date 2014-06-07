@@ -6,10 +6,11 @@ package net.phoenix.nlp.pos.npath;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.phoenix.nlp.corpus.Corpus;
+import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.AbstractProcessor;
-import net.phoenix.nlp.pos.Dictionary;
 import net.phoenix.nlp.pos.NPathGenerator;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermPath;
@@ -27,7 +28,7 @@ public class AbstractNPathGenerator extends AbstractProcessor implements NPathGe
 	private static final Log log = LogFactory.getLog(AbstractNPathGenerator.class);
 	private int pathCount;
 
-	public AbstractNPathGenerator(Dictionary dictionary) {
+	public AbstractNPathGenerator(CorpusRepository dictionary) {
 		super(dictionary);
 		this.pathCount = 8;
 	}
@@ -47,14 +48,14 @@ public class AbstractNPathGenerator extends AbstractProcessor implements NPathGe
 	 * @return
 	 */
 	protected List<TermPath> findNPath(TermGraph graph, int count) {
-		KShortestPaths<Term, TermEdge> alg = new KShortestPaths<Term, TermEdge>(graph, graph.getStartVertex(), count);
-		List<GraphPath<Term, TermEdge>> pathes = alg.getPaths(graph.getEndVertex());
+		KShortestPaths<POSTerm, TermEdge> alg = new KShortestPaths<POSTerm, TermEdge>(graph, graph.getStartVertex(), count);
+		List<GraphPath<POSTerm, TermEdge>> pathes = alg.getPaths(graph.getEndVertex());
 		List<TermPath> result = new ArrayList<TermPath>();
 		if(pathes==null) {
 			log.error("Error in finding path for :"+ graph.getSource());
 			return result;
 		}
-		for (GraphPath<Term, TermEdge> path : pathes) {
+		for (GraphPath<POSTerm, TermEdge> path : pathes) {
 			//log.info(path);
 			result.add(graph.createPath(path));
 		}

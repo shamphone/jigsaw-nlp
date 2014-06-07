@@ -4,6 +4,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.Tokenizer;
+
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
 

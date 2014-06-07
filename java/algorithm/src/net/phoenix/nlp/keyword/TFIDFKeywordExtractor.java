@@ -14,8 +14,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import net.phoenix.nlp.pos.Term;
-import net.phoenix.nlp.pos.Tokenizer;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.Tokenizer;
 import net.phoenix.nlp.sentence.Detector;
 import net.phoenix.nlp.sentence.Sentence;
  

@@ -8,14 +8,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
-import net.phoenix.nlp.pos.dictionary.CharsDictionary;
-import net.phoenix.nlp.pos.dictionary.PersonTermAttribute;
+import net.phoenix.nlp.pos.corpus.CharsetCorpus;
+import net.phoenix.nlp.pos.corpus.PersonTermAttribute;
+import net.phoenix.nlp.pos.corpus.file.CharsetFileCorpus;
 
 /**
  * @author lixf
@@ -24,9 +25,9 @@ import net.phoenix.nlp.pos.dictionary.PersonTermAttribute;
 public class SimpleForeignNameRecognitor extends NameRecognitor {
 	private char[] candidates;
 	
-	public SimpleForeignNameRecognitor(Dictionary dictionary) throws IOException{
+	public SimpleForeignNameRecognitor(CorpusRepository dictionary) throws IOException{
 		super(dictionary);
-		CharsDictionary chars = dictionary.getDictionary(CharsDictionary.class);
+		CharsetCorpus chars = dictionary.getCorpus(CharsetFileCorpus.class);
 		this.candidates = chars.getChars("person");
 	}
 	
@@ -34,12 +35,12 @@ public class SimpleForeignNameRecognitor extends NameRecognitor {
 	
 	@Override
 	public void recognize(TermGraph graph) {
-		List<Term> currentVertexes = new ArrayList<Term>(graph.vertexSet());
-		for (Term term : currentVertexes) {
+		List<POSTerm> currentVertexes = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm term : currentVertexes) {
 			// 如果名字的开始是人名的前缀,或者后缀.那么忽略
 			PersonTermAttribute attr = (PersonTermAttribute) term.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 			if (attr!=null && attr.getFollowingFrequency() <= 10 && this.isFName(term)) {
-				List<Term> partName = new ArrayList<Term>();
+				List<POSTerm> partName = new ArrayList<POSTerm>();
 				partName.add(term);
 				this.findNames(graph, partName);
 			}
@@ -56,11 +57,11 @@ public class SimpleForeignNameRecognitor extends NameRecognitor {
 	 * @param partName
 	 *            当前已经发现的名字片段或者名字
 	 */
-	private void findNames(TermGraph graph, List<Term> partName) {
+	private void findNames(TermGraph graph, List<POSTerm> partName) {
 		int pos = partName.size();
-		Term current = partName.get(pos - 1);
+		POSTerm current = partName.get(pos - 1);
 		for (TermEdge edge : graph.outgoingEdgesOf(current)) {
-			Term next = graph.getEdgeTarget(edge);
+			POSTerm next = graph.getEdgeTarget(edge);
 			if (this.isFName(next)) {
 					partName.add(next);
 					findNames(graph, partName);
@@ -73,7 +74,7 @@ public class SimpleForeignNameRecognitor extends NameRecognitor {
 	}
 
 	
-	private boolean isFName(Term term){
+	private boolean isFName(POSTerm term){
 		TermNatures termNatures = term.getTermNatures();
 		String name = term.getName();
 		if (termNatures.isNature(Nature.PersonName) || termNatures.isNature(Nature.NULL)||name.length()==1) 

@@ -3,17 +3,19 @@
  */
 package net.phoenix.nlp.pos.segmenter;
 
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.AbstractProcessor;
 import net.phoenix.nlp.pos.CharNode;
 import net.phoenix.nlp.pos.CharNode.State;
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.Segmenter;
-import net.phoenix.nlp.pos.Term;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
-import net.phoenix.nlp.pos.dictionary.CharTreeDictionary;
-import net.phoenix.nlp.pos.dictionary.T2SDictionary;
+import net.phoenix.nlp.pos.corpus.CharDFACorpus;
+import net.phoenix.nlp.pos.corpus.T2SCorpus;
+import net.phoenix.nlp.pos.corpus.file.CharDFAFileCorpus;
+import net.phoenix.nlp.pos.corpus.file.T2SFileCorpus;
 import net.phoenix.nlp.pos.term.DefaultTermGraph;
 
 import org.apache.commons.logging.Log;
@@ -78,15 +80,15 @@ public class CharTreeSegmenter extends AbstractProcessor implements Segmenter {
 	private static final String E = "末##末";
 	private static final String B = "始##始";
 
-	private CharTreeDictionary natures;
-	private T2SDictionary  t2s;
+	private CharDFACorpus natures;
+	private T2SCorpus  t2s;
 	private static final Log log = LogFactory.getLog(CharTreeSegmenter.class);
 	
 
-	public CharTreeSegmenter(Dictionary dictionary) {
+	public CharTreeSegmenter(CorpusRepository dictionary) {
 		super(dictionary);
-		natures = dictionary.getDictionary(CharTreeDictionary.class);
-		t2s = dictionary.getDictionary(T2SDictionary.class);
+		natures = dictionary.getCorpus(CharDFAFileCorpus.class);
+		t2s = dictionary.getCorpus(T2SFileCorpus.class);
 	}
 	
 
@@ -101,7 +103,7 @@ public class CharTreeSegmenter extends AbstractProcessor implements Segmenter {
 	protected void buildVertexes(TermGraph graph) {
 		String sentence = graph.getSource();
 		// 加起始边；
-		Term first = graph.addTerm(-1, 0, B, this.createTermNatures(Nature.Begin, 50610));
+		POSTerm first = graph.addTerm(-1, 0, B, this.createTermNatures(Nature.Begin, 50610));
 		first.setNature(Nature.Begin);
 		int start = 0;
 		int pos = 0;
@@ -189,6 +191,8 @@ public class CharTreeSegmenter extends AbstractProcessor implements Segmenter {
 								graph.addTerm(start, end, sentence.substring(start, end), node.getTermNatures());
 								node = null;
 								break;
+							default:
+								break;
 							}
 						}
 						//从下一个位置开始继续寻找成词；
@@ -203,7 +207,7 @@ public class CharTreeSegmenter extends AbstractProcessor implements Segmenter {
 		}
 
 		// 加入终止边
-		Term last = graph.addTerm(sentence.length(), sentence.length() + 1, E, this.createTermNatures(Nature.End, 50610));
+		POSTerm last = graph.addTerm(sentence.length(), sentence.length() + 1, E, this.createTermNatures(Nature.End, 50610));
 		last.setNature(Nature.valueOf(Nature.End));
 	}
 
@@ -213,8 +217,8 @@ public class CharTreeSegmenter extends AbstractProcessor implements Segmenter {
 	 * @param gp
 	 */
 	private void buildEdges(TermGraph gp) {
-		for (Term start : gp.vertexSet()) {
-			for (Term end : gp.vertexSet()) {
+		for (POSTerm start : gp.vertexSet()) {
+			for (POSTerm end : gp.vertexSet()) {
 				if (start.getEndOffset() == end.getStartOffset()) {
 					TermEdge edge = gp.addEdge(start, end);
 					gp.setEdgeWeight(edge, Double.NaN);

@@ -8,15 +8,18 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import net.phoenix.nlp.pos.Dictionary;
-import net.phoenix.nlp.pos.Nature;
-import net.phoenix.nlp.pos.Term;
+import net.phoenix.nlp.Nature;
+import net.phoenix.nlp.Term;
+import net.phoenix.nlp.corpus.CorpusRepository;
+import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
 import net.phoenix.nlp.pos.TermNatures;
 import net.phoenix.nlp.pos.TermPath;
-import net.phoenix.nlp.pos.dictionary.CharsDictionary;
-import net.phoenix.nlp.pos.dictionary.CooccurrenceDictionary;
+import net.phoenix.nlp.pos.corpus.CharsetCorpus;
+import net.phoenix.nlp.pos.corpus.CooccurrenceCorpus;
+import net.phoenix.nlp.pos.corpus.file.CharsetFileCorpus;
+import net.phoenix.nlp.pos.corpus.file.CooccurrenceFileCorpus;
 
 /**
  * @author lixf
@@ -25,14 +28,14 @@ import net.phoenix.nlp.pos.dictionary.CooccurrenceDictionary;
 public class ForeignNameRecognitor extends NameRecognitor {
 	
 	private char[] candidates;
-	private CooccurrenceDictionary cooccurrence;
+	private CooccurrenceCorpus cooccurrence;
 	
-	public ForeignNameRecognitor(Dictionary dictionary) throws IOException {
+	public ForeignNameRecognitor(CorpusRepository dictionary) throws IOException {
 		super(dictionary);
-		CharsDictionary chars = dictionary.getDictionary(CharsDictionary.class);
+		CharsetCorpus chars = dictionary.getCorpus(CharsetFileCorpus.class);
 		this.candidates = chars.getChars("person");
 		Arrays.sort(this.candidates);
-		this.cooccurrence = dictionary.getDictionary(CooccurrenceDictionary.class);
+		this.cooccurrence = dictionary.getCorpus(CooccurrenceFileCorpus.class);
 	}
 
 
@@ -46,8 +49,8 @@ public class ForeignNameRecognitor extends NameRecognitor {
 		this.resetEdgesScore(graph, 0.0);
 		// 从每一个点边开始检查其成词的可能性;
 		// 系统将生成一些新的节点，这样可以避免同时修改一个集合的问题。
-		List<Term> currentVertexes = new ArrayList<Term>(graph.vertexSet());
-		for (Term start : currentVertexes) {
+		List<POSTerm> currentVertexes = new ArrayList<POSTerm>(graph.vertexSet());
+		for (POSTerm start : currentVertexes) {
 			// 这个词是否可以作为长度为length的名字的开头词；
 			if (this.canBeNameStartTerm(start)) {
 				TermPath candidate = graph.createPath(start);
@@ -64,7 +67,7 @@ public class ForeignNameRecognitor extends NameRecognitor {
 	 * @param length
 	 * @return
 	 */
-	private boolean canBeNameStartTerm(Term term) {
+	private boolean canBeNameStartTerm(POSTerm term) {
 		return this.isFName(term);
 	}
 
@@ -76,7 +79,7 @@ public class ForeignNameRecognitor extends NameRecognitor {
 	 * @param pos
 	 * @return
 	 */
-	private boolean canAppearInName(Term term, int pos) {
+	private boolean canAppearInName(POSTerm term, int pos) {
 		//PersonTermAttribute attr = (PersonTermAttribute) term.getTermNatures().getAttribute(PersonTermAttribute.ATTRIBUTE);
 		return this.isFName(term);
 
@@ -96,11 +99,11 @@ public class ForeignNameRecognitor extends NameRecognitor {
 	 */
 	private void findNames(TermGraph graph, TermPath partName) {
 		int pos = partName.getVertexCount();
-		Term current = partName.getEndVertex();
+		POSTerm current = partName.getEndVertex();
 		for (TermEdge edge : graph.outgoingEdgesOf(current)) {
 			// 对于长度为N的名字，往前走一步，到N+1，检查下路径是否可以组成名字；
 			// 判断新增加的这条边目标节点是否可以作为名字的第N个字符；
-			Term next = graph.getEdgeTarget(edge);
+			POSTerm next = graph.getEdgeTarget(edge);
 			if (this.canAppearInName(next, pos)) {
 				partName.extendTo(next);
 				// 继续发现人名；
@@ -134,11 +137,11 @@ public class ForeignNameRecognitor extends NameRecognitor {
 		// 分为为前置和后置edge；
 		score /= 2.0;
 
-		Term name = partName.toTerm(this.createTermNatures(Nature.PersonName));
+		POSTerm name = partName.toTerm(this.createTermNatures(Nature.PersonName));
 
 		// 将原来指向name第一个词的起始词，都建立指向新的name节点的连接。
 		for (TermEdge edge : graph.incomingEdgesOf(partName.getStartVertex())) {
-			Term leading = graph.getEdgeSource(edge);
+			POSTerm leading = graph.getEdgeSource(edge);
 			TermEdge newEdge = graph.addEdge(leading, name);
 			// 使用Viterbi算法计算前驱权重
 			newEdge.setWeight(score - Math.log(this.calcLeadingFrequency(graph, name, leading)));
@@ -146,7 +149,7 @@ public class ForeignNameRecognitor extends NameRecognitor {
 
 		// 将原来name最后一个词的所有外向连接，都建立指向新的name节点的外向连接。
 		for (TermEdge edge : graph.outgoingEdgesOf(partName.getEndVertex())) {
-			Term following = graph.getEdgeTarget(edge);
+			POSTerm following = graph.getEdgeTarget(edge);
 			// 如果名字最后一个词和后面的词结合紧密，则不建立连接。否则建立连接。
 			if (following.equals(graph.getEndVertex()) || this.cooccurrence.getCooccurrenceFrequency(partName.getEndVertex().getName(), following.getName()) < 3) {
 				TermEdge newEdge = graph.addEdge(name, following);
@@ -159,7 +162,7 @@ public class ForeignNameRecognitor extends NameRecognitor {
 		return name;
 	}
 
-	private boolean isFName(Term term) {
+	private boolean isFName(POSTerm term) {
 		TermNatures termNatures = term.getTermNatures();
 		String name = term.getName();
 		//if (termNatures.isNature(Nature.PersonName) || termNatures.isNature(Nature.NULL) || name.length() == 1)

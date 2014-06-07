@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 
+import net.phoenix.nlp.Tokenizer;
 import net.phoenix.nlp.keyword.KeywordExtractor;
 import net.phoenix.nlp.keyword.TFIDFKeywordExtractor;
 import net.phoenix.nlp.sentence.Detector;
