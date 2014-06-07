@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import net.phoenix.nlp.Term;
-import net.phoenix.nlp.corpus.Corpus;
 import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;

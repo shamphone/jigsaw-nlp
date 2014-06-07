@@ -5,7 +5,7 @@ package net.phoenix.nlp.summarization;
 
 import java.util.List;
 
-import net.phoenix.nlp.pos.POSTerm;
+import net.phoenix.nlp.Term;
 import net.phoenix.nlp.sentence.Sentence;
 
 /**
@@ -17,7 +17,7 @@ import net.phoenix.nlp.sentence.Sentence;
 public class SentenceWrapper implements Sentence {
 	private Sentence sentence;
 	private double score;
-	private List<POSTerm> terms;
+	private List<Term> terms;
 
 	public SentenceWrapper(Sentence sentence) {
 		this.sentence = sentence;
@@ -32,11 +32,11 @@ public class SentenceWrapper implements Sentence {
 		this.score = score;
 	}
 
-	public List<POSTerm> getTerms() {
+	public List<Term> getTerms() {
 		return terms;
 	}
 
-	public void setTerms(List<POSTerm> terms) {
+	public void setTerms(List<Term> terms) {
 		this.terms = terms;
 	}
 

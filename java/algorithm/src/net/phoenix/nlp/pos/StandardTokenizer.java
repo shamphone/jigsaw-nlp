@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import net.phoenix.nlp.Term;
 import net.phoenix.nlp.Tokenizer;
 import net.phoenix.nlp.pos.corpus.file.POSFileCorpusRepository;
 import net.phoenix.nlp.pos.npath.CooccurrenceNPathGenerator;
@@ -67,12 +68,12 @@ public class StandardTokenizer implements Tokenizer {
 	 * @return
 	 */
 	@Override
-	public List<POSTerm> tokenize(String sentence) {
+	public List<Term> tokenize(String sentence) {
 		//long startTime = System.currentTimeMillis();
 		Pattern pattern = Pattern.compile("[，。？！　 ]");
 		Matcher matcher = pattern.matcher(sentence);
 		int start = 0;
-		List<POSTerm> result = new ArrayList<POSTerm>();
+		List<Term> result = new ArrayList<Term>();
 		while (matcher.find(start)) {
 			result.addAll(this.parse(sentence.substring(start, matcher.start() + 1)));
 			start = matcher.start() + 1;

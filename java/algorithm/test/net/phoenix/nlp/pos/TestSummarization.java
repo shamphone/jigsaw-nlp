@@ -25,10 +25,10 @@ import org.junit.Test;
 public class TestSummarization {
 	@Test
 	public void testText() throws IOException {
-		File folder = new File("D:\\google\\jigsaw-nlp\\data\\pos");
+		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
 		Tokenizer tokenizer = new StandardTokenizer(folder);
 		Detector detector = new SimpleDetector();
-		Reader paragraph = new FileReader("D:\\google\\jigsaw-nlp\\test\\news2.txt");
+		Reader paragraph = new FileReader("D:\\github\\jigsaw-nlp\\java\\algorithm\\test\\news2.txt");
 		Summarization summarization = new TextRankSummarization(tokenizer, detector);
 		for(Sentence sentence : summarization.summarize(paragraph, 4)){
 			double score = ((SentenceWrapper)sentence).getScore();

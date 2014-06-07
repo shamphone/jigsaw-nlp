@@ -14,7 +14,6 @@ import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.POSTerm;
 import net.phoenix.nlp.pos.TermEdge;
 import net.phoenix.nlp.pos.TermGraph;
-import net.phoenix.nlp.pos.TermNatures;
 import net.phoenix.nlp.pos.TermPath;
 import net.phoenix.nlp.pos.corpus.CharsetCorpus;
 import net.phoenix.nlp.pos.corpus.CooccurrenceCorpus;
@@ -163,7 +162,7 @@ public class ForeignNameRecognitor extends NameRecognitor {
 	}
 
 	private boolean isFName(POSTerm term) {
-		TermNatures termNatures = term.getTermNatures();
+		//TermNatures termNatures = term.getTermNatures();
 		String name = term.getName();
 		//if (termNatures.isNature(Nature.PersonName) || termNatures.isNature(Nature.NULL) || name.length() == 1)
 		//	return isFName(name);		

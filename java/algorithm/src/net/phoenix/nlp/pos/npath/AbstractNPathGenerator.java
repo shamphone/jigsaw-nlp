@@ -6,7 +6,6 @@ package net.phoenix.nlp.pos.npath;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.phoenix.nlp.corpus.Corpus;
 import net.phoenix.nlp.corpus.CorpusRepository;
 import net.phoenix.nlp.pos.AbstractProcessor;
 import net.phoenix.nlp.pos.NPathGenerator;

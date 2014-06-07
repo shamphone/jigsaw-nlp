@@ -22,7 +22,7 @@ public class TestSentence {
 	@Test
 	public void testText() throws IOException {
 		Detector detector = new SimpleDetector();
-		Reader paragraph = new FileReader("D:\\google\\jigsaw-nlp\\test\\sentences.txt");
+		Reader paragraph = new FileReader("D:\\github\\jigsaw-nlp\\java\\algorithm\\test\\sentences.txt");
 		Iterator<Sentence> sentences = detector.detect(paragraph);
 		while(sentences.hasNext()){
 			Sentence sentence = sentences.next();

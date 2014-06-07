@@ -80,7 +80,7 @@ public class TestPOS {
 	@Test
 	public void testText() throws IOException {
 		String[] texts = {"news.txt","news2.txt"};
-		File folder = new File("D:\\google\\jigsaw-nlp\\data\\pos");
+		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
 		Tokenizer analysizer = new StandardTokenizer(folder);
 		for(String text : texts){
 			System.out.println("======"+ text+"=========");
@@ -97,7 +97,7 @@ public class TestPOS {
 	
 
 	private void runtest(String[] sentences) throws IOException {
-		File folder = new File("D:\\google\\jigsaw-nlp\\data\\pos");
+		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
 		Tokenizer analysizer = new StandardTokenizer(folder);
 		for (String sentence : sentences) {
 			System.out.println();
