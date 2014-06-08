@@ -11,6 +11,7 @@ import java.io.Reader;
 import net.phoenix.nlp.Tokenizer;
 import net.phoenix.nlp.keyword.KeywordExtractor;
 import net.phoenix.nlp.keyword.TFIDFKeywordExtractor;
+import net.phoenix.nlp.pos.chmm.HMMTokenizer;
 import net.phoenix.nlp.sentence.Detector;
 import net.phoenix.nlp.sentence.SimpleDetector;
 
@@ -27,7 +28,7 @@ public class TestKeywords  {
 	@Test
 	public void testText() throws IOException {
 		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
-		Tokenizer tokenizer = new StandardTokenizer(folder);
+		Tokenizer tokenizer = new HMMTokenizer(folder);
 		Detector detector = new SimpleDetector();
 		Reader paragraph = new FileReader("D:\\github\\jigsaw-nlp\\java\\algorithm\\test\\news2.txt");
 		KeywordExtractor extractor = new TFIDFKeywordExtractor(tokenizer, detector);

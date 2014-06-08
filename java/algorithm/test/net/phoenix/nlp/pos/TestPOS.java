@@ -6,6 +6,7 @@ import java.util.List;
 
 import net.phoenix.nlp.Term;
 import net.phoenix.nlp.Tokenizer;
+import net.phoenix.nlp.pos.chmm.HMMTokenizer;
 
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
@@ -81,7 +82,7 @@ public class TestPOS {
 	public void testText() throws IOException {
 		String[] texts = {"news.txt","news2.txt"};
 		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
-		Tokenizer analysizer = new StandardTokenizer(folder);
+		Tokenizer analysizer = new HMMTokenizer(folder);
 		for(String text : texts){
 			System.out.println("======"+ text+"=========");
 		List<String> lines =IOUtils.readLines(this.getClass().getClassLoader().getResourceAsStream(text));
@@ -98,7 +99,7 @@ public class TestPOS {
 
 	private void runtest(String[] sentences) throws IOException {
 		File folder = new File("D:\\github\\jigsaw-nlp\\data\\pos");
-		Tokenizer analysizer = new StandardTokenizer(folder);
+		Tokenizer analysizer = new HMMTokenizer(folder);
 		for (String sentence : sentences) {
 			System.out.println();
 			System.out.print("analysis1:");
